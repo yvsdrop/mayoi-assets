@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
+  <style>
+    .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
+    .nav-icons img {height:24px}
+    .entries-grid {display:grid;grid-gap:1em;grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));margin: 1em auto 3em;text-align:left}
+    .entry-link {display:flex;align-items:center;font-size:14px}
+    .entry-link img {width:60px}
+    .btn-group img {height:24px}
+    h2, h3 {text-align:center}
+  </style>
+  <title>Bungo Stray Dogs: Tales of the Lost - Battle Sprites</title>
+  <meta name="description" content="Battle Sprites animations viewer for the Bungo Stray Dogs mobile game.">
+</head>
+<body>
+  <div id="main" class="container" style="margin-top:4em">
+    <h2>Bungo Mayoi Battle Sprites</h2>
+    <div style="display:flex;flex-wrap:wrap;margin:2em 0">
+      <div id="filters">
+        <div class="btn-group filter-group-rarity">
+          <button class="btn btn-outline-dark" title="R" data-value="4-1">
+            <img alt="R" src="https://static.wikia.nocookie.net/bsdmayoi/images/f/f7/R.png">
+          </span>
+          <button class="btn btn-outline-dark" title="SR" data-value="6-1">
+            <img alt="SR" src="https://static.wikia.nocookie.net/bsdmayoi/images/3/3b/SR.png">
+          </span>
+          <button class="btn btn-outline-dark" title="SSR" data-value="8-1">
+            <img alt="SSR" src="https://static.wikia.nocookie.net/bsdmayoi/images/0/06/SSR.png">
+          </span>
+          <button class="btn btn-outline-dark" title="EX" data-value="8-2">
+            <img alt="EX" src="https://static.wikia.nocookie.net/bsdmayoi/images/8/80/EX.png">
+          </span>
+          <button class="btn btn-outline-dark" title="UR" data-value="10-1">
+            <img alt="UR" src="https://static.wikia.nocookie.net/bsdmayoi/images/5/53/UR.png">
+          </span>
+        </div>
+        <div class="btn-group filter-group-affinity">
+          <button class="btn btn-outline-dark" title="Crimson" data-value="1">
+            <img alt="Crimson" src="https://static.wikia.nocookie.net/bsdmayoi/images/7/77/Attribute_Crimson.png">
+          </span>
+          <button class="btn btn-outline-dark" title="Azure" data-value="2">
+            <img alt="Azure" src="https://static.wikia.nocookie.net/bsdmayoi/images/6/67/Attribute_Azure.png">
+          </span>
+          <button class="btn btn-outline-dark" title="Emerald" data-value="3">
+            <img alt="Emerald" src="https://static.wikia.nocookie.net/bsdmayoi/images/3/33/Attribute_Emerald.png">
+          </span>
+          <button class="btn btn-outline-dark" title="Light" data-value="4">
+            <img alt="Light" src="https://static.wikia.nocookie.net/bsdmayoi/images/5/50/Attribute_Light.png">
+          </span>
+          <button class="btn btn-outline-dark" title="Dark" data-value="5">
+            <img alt="Dark" src="https://static.wikia.nocookie.net/bsdmayoi/images/1/1a/Attribute_Dark.png">
+          </span>
+        </div>
+      </div>
+      <div style="margin-left:auto">
+        Sort by:
+        <select class="custom-select" id="sortSelect" style="width:auto">
+          <option value="id">Id</option>
+          <option value="char">Character</option>
+          <option value="title">Title</option>
+        </select>
+      </div>
+    </div>
+    <div id="chara-entries" class="entries-grid"></div>
+    <h3>Enemies / Other Units</h3>
+    <div id="other-entries" class="entries-grid"></div>
+  </div>
+  <div class="nav-icons">
+    <select class="custom-select" id="localeSelect" style="margin-right:1em">
+      <option value="en">English</option>
+      <option value="jp">日本語</option>
+    </select>
+    <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
+  </div>
+  <script>
+    const comparators = {
+      'id': (locale) => (a, b) => a['codex_id'][locale] - b['codex_id'][locale],
+      'char': (locale) => (a, b) => a['name'][locale].localeCompare(b['name'][locale]),
+      'title': (locale) => (a, b) => a['title'][locale].localeCompare(b['title'][locale]),
+    };
+    let main_data;
+    loadMain();
+
+    $('#localeSelect').change(function() {
+      renderAllCharacters();
+    });
+    $('#sortSelect').change(function() {
+      renderAllCharacters();
+    });
+    $('#filters .btn').click(function() {
+      $(this).toggleClass('active');
+      filterCharacters();
+    });
+
+    function loadMain() {
+      fetch('index.json')
+        .then(response => response.json())
+        .then(json => {
+          main_data = json;
+          renderAllCharacters();
+        });
+    }
+    function renderAllCharacters() {
+      const charaEntries = [];
+      const otherEntries = [];
+      const locale = $('#localeSelect').val();
+      const sortType = $('#sortSelect').val();
+      main_data['characters'].sort(comparators[sortType](locale));
+
+      for (const item of main_data['characters']) {
+        const title = item['title'][locale] ? `[${item['title'][locale]}] ` : '';
+        let label = title + item['name'][locale];
+        if (item['extra']) {
+          label += ' (EX)'
+        }
+        charaEntries.push(`<a class="entry-link" data-rarity="${item['rarity']}-${item['extra_type']}" data-affinity="${item['affinity']}" href="./spriteviewer.html?id=${item['mini_id']}&unique_skill=${item['unique_skill']}"><img src="thumbnails/${item['img_id']}.png">${label}</a>`);
+      }
+      for (const item of main_data['other']) {
+        const label = item['name'][locale];
+        const mini_id = item['mini_id'];
+        otherEntries.push(`<a class="entry-link" href="./spriteviewer.html?id=${mini_id}&enemy=1">${label}</a>`);
+      }
+      document.getElementById('chara-entries').innerHTML = charaEntries.join('');
+      document.getElementById('other-entries').innerHTML = otherEntries.join('');
+      filterCharacters();
+    }
+    function filterCharacters() {
+      const charaEntries = $('#chara-entries .entry-link');
+      charaEntries.each(function() {
+        this.style.display = 'none';
+      });
+      let filteredList = charaEntries;
+      const filterKeys = ['rarity', 'affinity'];
+      for (const key of filterKeys) {
+        const activeFilters = $('.filter-group-' + key + ' > .active').toArray();
+        filteredList = filterCharactersByKey(filteredList, key, activeFilters);
+      }
+      filteredList.each(function() {
+        this.style.display = '';
+      });
+    }
+    function filterCharactersByKey(list, key, filter) {
+      // If no active filters, all elements valid.
+      if (!filter.length) {
+        return list;
+      }
+      return list.filter((i, entry) => {
+        return filter.find((filterEntry) => {
+          return String(filterEntry.dataset.value).toLowerCase() ===
+              String(entry.dataset[key]).toLowerCase();
+        });
+      });
+    }
+  </script>
+</body>
+</html>

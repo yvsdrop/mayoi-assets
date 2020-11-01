@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
+  <script type="text/javascript" src="../lwf.js"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
+  <style>
+    .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
+    .nav-icons img {height:24px}
+    #controls img {display:block;height:22px}
+    h2, h3 {text-align:center}
+  </style>
+  <title>Bungo Stray Dogs: Tales of the Lost - Battle Sprites</title>
+  <meta name="description" content="Battle Sprites animations viewer for the Bungo Stray Dogs mobile game.">
+</head>
+<body>
+  <div id="main" class="container" style="text-align:center">
+    <div id="controls" style="margin:1em 0">
+      <button onclick="copy()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v7/white-48dp/2x/gm_content_copy_white_48dp.png" alt="Copy" title="Copy"></button>
+      <button onclick="save()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/save_alt/v6/white-48dp/2x/gm_save_alt_white_48dp.png" alt="Save" title="Save"></button>
+      <button onclick="stop_start()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/play_pause/v3/white-48dp/2x/gm_play_pause_white_48dp.png" alt="Play/Pause" title="Pause"></button>
+      <button onclick="setLabel('attack')" class="btn btn-outline-secondary">Attack</button>
+      <button onclick="setLabel('damage')" class="btn btn-outline-secondary">Take Damage</button>
+    </div>
+    <canvas id="canvas" style="border:1px solid;max-width:100%"></canvas>
+  </div>
+  <div class="nav-icons">
+    <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
+  </div>
+  <script>
+    let current_time, from_time;
+    const downloadLink = document.createElement('a');
+    const stage = document.getElementById("canvas");
+    // "LWF" has been initialized and accessible by using LWF.
+    LWF.useCanvasRenderer();
+
+    const cache = LWF.ResourceCache.get();
+    const params = new URLSearchParams(window.location.search);
+    const mini_id = params.get('id');
+
+    cache.loadLWF({
+      "lwf": mini_id + ".lwf",
+      "prefix": "./" + mini_id + "/",
+      "stage": stage,
+      "onload": function(lwf) {
+        stage.width = lwf.width * 3;
+        stage.height = lwf.height * 3;
+        window.lwf = lwf;
+        window.lwf.setFrameRate(60); // Override animations frame rate.
+        window.lwf.rootMovie.x = (stage.width - lwf.width) / 2;
+        window.lwf.rootMovie.y = (stage.height - lwf.height) / 2;
+      },
+    });
+    // Main loop preparation
+    window.requestAnimationFrame = (function() {
+      return  window.requestAnimationFrame       ||
+              window.webkitRequestAnimationFrame ||
+              window.mozRequestAnimationFrame    ||
+              window.oRequestAnimationFrame      ||
+              window.msRequestAnimationFrame     ||
+              function(/* function */ callback, /* DOMElement */ element) {
+                window.setTimeout(callback, 1000 / 60);
+              };
+    })();
+
+    const controlsEl = $('#controls');
+    const unique_skill = !!parseInt(params.get('unique_skill'));
+    const is_enemy = !!parseInt(params.get('enemy'));
+    if (unique_skill) {
+      controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
+    }
+    if (is_enemy) {
+      controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
+    } else {
+      controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
+    }
+
+    function main() {
+      window.requestAnimationFrame(main);
+      if (window.lwf != null) {
+        // Evaluate lwf and render it 
+        window.lwf.exec(calc_tick());
+        window.lwf.render();     
+      }
+    }
+    main();
+
+    function calc_tick() {
+      current_time =  Date.now() / 1000.0;
+      const tick = current_time - from_time;
+      from_time = current_time;
+      return tick;
+    }
+
+    function stop_start() {
+      if (window.lwf.isExecDisabled) {
+        window.lwf.enableExec();
+        window.lwf.rootMovie.play();
+        $('#play-btn').attr('title', 'Pause');
+      } else {
+        window.lwf.rootMovie.stop();
+        window.lwf.disableExec();
+        $('#play-btn').attr('title', 'Play');
+      }
+    }
+
+    function setLabel(label) {
+      window.lwf.rootMovie.gotoLabel(label);
+      if (window.lwf.isExecDisabled) {
+        window.lwf.enableExec();
+        window.lwf.disableExec();
+      } else {
+        window.lwf.rootMovie.play();
+      }
+    }
+
+    function copy() {
+      toBlob().then((blob) => {
+        navigator.clipboard.write([new ClipboardItem({'image/png': blob})]);
+      });
+    }
+    function save() {
+      downloadLink.setAttribute('download', mini_id + '.png');
+      toBlob().then((blob) => {
+        downloadLink.setAttribute('href', URL.createObjectURL(blob));
+        downloadLink.click();
+      });
+    }
+
+    function toBlob(imageData){
+      const c = document.getElementById('canvas');
+      const width = c.width;
+      const height = c.height;
+      const ctx = c.getContext('2d');
+      const rgba = ctx.getImageData(0, 0, width, height).data;
+
+      let minX = c.height;
+      let maxX = 0;
+      let minY = c.width;
+      let maxY = 0;
+
+      for (let x = 0; x < height; x++) {
+        for (let y = 0; y < width; y++) {
+          const i = xyToInd(x, y, width);
+
+          if (rgba[i + 3] > 0) {
+            minX = Math.min(minX, x);
+            minY = Math.min(minY, y);
+            maxX = Math.max(maxX, x);
+            maxY = Math.max(maxY, y);
+          }
+        }
+      }
+      minX = Math.max(0, minX - 4);
+      minY = Math.max(0, minY - 4);
+      maxX += 4;
+      maxY += 4;
+      const copyCanvas = document.createElement("canvas");
+      copyCanvas.height = maxX - minX;
+      copyCanvas.width = maxY - minY;
+      const copyCtx = copyCanvas.getContext("2d");
+      copyCtx.putImageData(ctx.getImageData(minY, minX, maxY, maxX), 0, 0);
+      return new Promise((resolve, reject) => {
+        copyCanvas.toBlob(resolve);
+      });
+    }
+    function xyToInd(x, y, width) {
+      return (x * width + y) * 4;
+    }
+  </script>
+</body>
+</html>
