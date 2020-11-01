@@ -116,6 +116,9 @@
       main_data['characters'].sort(comparators[sortType](locale));
 
       for (const item of main_data['characters']) {
+        if (item['release_time'] > Math.floor(Date.now() / 1000)) {
+          continue;
+        }
         const title = item['title'][locale] ? `[${item['title'][locale]}] ` : '';
         let label = title + item['name'][locale];
         if (item['extra']) {
