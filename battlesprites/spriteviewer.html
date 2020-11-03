@@ -6,8 +6,13 @@
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
   <script type="text/javascript" src="../lwf.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const mini_id = params.get('id');
+    document.title = 'Bungo Battle Sprite - ' + mini_id;
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
   <style>
     .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
@@ -15,7 +20,6 @@
     #controls img {display:block;height:22px}
     h2, h3 {text-align:center}
   </style>
-  <title>Bungo Stray Dogs: Tales of the Lost - Battle Sprites</title>
   <meta name="description" content="Battle Sprites animations viewer for the Bungo Stray Dogs mobile game.">
 </head>
 <body>
@@ -41,9 +45,6 @@
     LWF.useCanvasRenderer();
 
     const cache = LWF.ResourceCache.get();
-    const params = new URLSearchParams(window.location.search);
-    const mini_id = params.get('id');
-
     cache.loadLWF({
       "lwf": mini_id + ".lwf",
       "prefix": "./" + mini_id + "/",
