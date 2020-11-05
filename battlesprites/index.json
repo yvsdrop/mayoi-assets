@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100395",
+      "img_id": "120927",
+      "release_time": 1604552400,
+      "affinity": 2,
+      "rarity": 10,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 9999,
+        "jp": 504
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "最後の大君",
+        "jp": "最後の大君"
+      }
+    },
+    {
+      "mini_id": "100394",
+      "img_id": "100927",
+      "release_time": 1604552400,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 9999,
+        "jp": 503
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "最後の大君",
+        "jp": "最後の大君"
+      }
+    },
+    {
       "mini_id": "100259",
       "img_id": "100647",
       "release_time": 1604206800,
@@ -748,7 +790,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 9999,
+        "en": 473,
         "jp": 471
       },
       "name": {
@@ -756,7 +798,7 @@
         "jp": "福沢諭吉"
       },
       "title": {
-        "en": "双璧",
+        "en": "Two Masters",
         "jp": "双璧"
       }
     },
@@ -11124,6 +11166,20 @@
       "name": {
         "en": "[梅雨]尾崎紅葉(無) (Ozaki Kouyou)",
         "jp": "[梅雨]尾崎紅葉(無）"
+      }
+    },
+    {
+      "mini_id": "100400",
+      "name": {
+        "en": "[半人半虎]中島敦(紅)",
+        "jp": "[半人半虎]中島敦(紅)"
+      }
+    },
+    {
+      "mini_id": "100402",
+      "name": {
+        "en": "[天魔纏鎧]芥川龍之介(闇)",
+        "jp": "[天魔纏鎧]芥川龍之介(闇)"
       }
     },
     {
