@@ -71,17 +71,21 @@
               };
     })();
 
-    const controlsEl = $('#controls');
-    const unique_skill = !!parseInt(params.get('unique_skill'));
-    const is_enemy = !!parseInt(params.get('enemy'));
-    if (unique_skill) {
-      controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
-    }
-    if (is_enemy) {
-      controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
-    } else {
-      controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
-    }
+    fetch('index.json')
+        .then(response => response.json())
+        .then(json => {
+          const controlsEl = $('#controls');
+          const charData = json['characters'].find(x => x['mini_id'] == mini_id);
+          const unique_skill = !!charData && !!charData['unique_skill'];
+          if (unique_skill) {
+            controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
+          }
+          if (charData) {
+            controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
+          } else {
+            controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
+          }
+        });
 
     function main() {
       window.requestAnimationFrame(main);
