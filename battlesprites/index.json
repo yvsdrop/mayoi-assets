@@ -1,6 +1,132 @@
 {
   "characters": [
     {
+      "mini_id": "100484",
+      "img_id": "101051",
+      "release_time": 1605157200,
+      "affinity": 3,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 10509,
+        "jp": 510
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
+      "mini_id": "100483",
+      "img_id": "101049",
+      "release_time": 1605157200,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10508,
+        "jp": 509
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
+      "mini_id": "100482",
+      "img_id": "101047",
+      "release_time": 1605157200,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10507,
+        "jp": 508
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
+      "mini_id": "100481",
+      "img_id": "101045",
+      "release_time": 1605157200,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10506,
+        "jp": 507
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
+      "mini_id": "100480",
+      "img_id": "101043",
+      "release_time": 1605157200,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10505,
+        "jp": 506
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
+      "mini_id": "100479",
+      "img_id": "101041",
+      "release_time": 1605157200,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10504,
+        "jp": 505
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "童話",
+        "jp": "童話"
+      }
+    },
+    {
       "mini_id": "100395",
       "img_id": "120927",
       "release_time": 1604552400,
@@ -3440,7 +3566,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10348,
+        "en": 474,
         "jp": 349
       },
       "name": {
@@ -3448,7 +3574,7 @@
         "jp": "梶井基次郎"
       },
       "title": {
-        "en": "芸術の秋",
+        "en": "Artistic Autumn",
         "jp": "芸術の秋"
       }
     },
@@ -11182,7 +11308,7 @@
       "mini_id": "100311",
       "unique_skill": 0,
       "name": {
-        "en": "[芸術の秋]梶井基次郎（無）",
+        "en": "[芸術の秋]梶井基次郎（無） (Kajii Motojiro)",
         "jp": "[芸術の秋]梶井基次郎（無）"
       }
     },
@@ -12014,8 +12140,8 @@
       "mini_id": "200094",
       "unique_skill": 0,
       "name": {
-        "en": "チンピラA（不思議な国）光",
-        "jp": "チンピラA（不思議な国）光"
+        "en": "チンピラA（不思議な国）無",
+        "jp": "チンピラA（不思議な国）無"
       }
     },
     {
@@ -12224,6 +12350,22 @@
       "name": {
         "en": "ギルドB（マリン）　無",
         "jp": "ギルドB（マリン）　無"
+      }
+    },
+    {
+      "mini_id": "200121",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(妖怪) 無",
+        "jp": "敵_チンピラE(妖怪) 無"
+      }
+    },
+    {
+      "mini_id": "200122",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(妖怪) 無",
+        "jp": "敵_チンピラF(妖怪) 無"
       }
     }
   ]
