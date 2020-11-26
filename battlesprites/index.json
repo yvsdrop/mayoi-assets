@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100507",
+      "img_id": "101095",
+      "release_time": 1606798800,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 484,
+        "jp": 514
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Twilight's Return",
+        "jp": "薄暮の帰還"
+      }
+    },
+    {
+      "mini_id": "100488",
+      "img_id": "101057",
+      "release_time": 1606366800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 483,
+        "jp": 513
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Lamplit Winter",
+        "jp": "灯火の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100487",
+      "img_id": "101055",
+      "release_time": 1606366800,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 482,
+        "jp": 512
+      },
+      "name": {
+        "en": "Sakaguchi Ango",
+        "jp": "坂口安吾"
+      },
+      "title": {
+        "en": "Lamplit Winter",
+        "jp": "灯火の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100486",
+      "img_id": "101053",
+      "release_time": 1606366800,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 481,
+        "jp": 511
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Lamplit Winter",
+        "jp": "灯火の降誕祭"
+      }
+    },
+    {
       "mini_id": "100484",
       "img_id": "101051",
       "release_time": 1605157200,
@@ -51,7 +135,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10507,
+        "en": 478,
         "jp": 508
       },
       "name": {
@@ -59,7 +143,7 @@
         "jp": "尾崎紅葉"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
@@ -72,7 +156,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10506,
+        "en": 477,
         "jp": 507
       },
       "name": {
@@ -80,7 +164,7 @@
         "jp": "樋口一葉"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
@@ -93,7 +177,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10505,
+        "en": 476,
         "jp": 506
       },
       "name": {
@@ -101,7 +185,7 @@
         "jp": "梶井基次郎"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
@@ -114,7 +198,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10504,
+        "en": 475,
         "jp": 505
       },
       "name": {
@@ -122,7 +206,7 @@
         "jp": "中原中也"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
@@ -177,7 +261,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10501,
+        "en": 480,
         "jp": 502
       },
       "name": {
@@ -185,7 +269,7 @@
         "jp": "夢野久作"
       },
       "title": {
-        "en": "正装",
+        "en": "Looking Sharp",
         "jp": "正装"
       }
     },
@@ -198,7 +282,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10500,
+        "en": 479,
         "jp": 501
       },
       "name": {
@@ -206,7 +290,7 @@
         "jp": "森鴎外"
       },
       "title": {
-        "en": "正装",
+        "en": "Looking Sharp",
         "jp": "正装"
       }
     },
