@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100509",
+      "img_id": "101099",
+      "release_time": 1606971600,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 487,
+        "jp": 515
+      },
+      "name": {
+        "en": "Taneda Santouka",
+        "jp": "種田山頭火"
+      },
+      "title": {
+        "en": "Home Ministry General",
+        "jp": "異能特務課長官"
+      }
+    },
+    {
       "mini_id": "100507",
       "img_id": "101095",
       "release_time": 1606798800,
@@ -219,7 +240,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10503,
+        "en": 486,
         "jp": 504
       },
       "name": {
@@ -227,7 +248,7 @@
         "jp": "フランシス・F"
       },
       "title": {
-        "en": "最後の大君",
+        "en": "The Last Tycoon",
         "jp": "最後の大君"
       }
     },
@@ -240,7 +261,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10502,
+        "en": 485,
         "jp": 503
       },
       "name": {
@@ -248,7 +269,7 @@
         "jp": "フランシス・F"
       },
       "title": {
-        "en": "最後の大君",
+        "en": "The Last Tycoon",
         "jp": "最後の大君"
       }
     },
@@ -11440,7 +11461,7 @@
       "mini_id": "100400",
       "unique_skill": 0,
       "name": {
-        "en": "[半人半虎]中島敦(紅)",
+        "en": "[半人半虎]中島敦(紅) (Nakajima Atsushi)",
         "jp": "[半人半虎]中島敦(紅)"
       }
     },
@@ -11448,7 +11469,7 @@
       "mini_id": "100402",
       "unique_skill": 0,
       "name": {
-        "en": "[天魔纏鎧]芥川龍之介(闇)",
+        "en": "[天魔纏鎧]芥川龍之介(闇) (Akutagawa Ryunosuke)",
         "jp": "[天魔纏鎧]芥川龍之介(闇)"
       }
     },
