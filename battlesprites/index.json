@@ -1,6 +1,195 @@
 {
   "characters": [
     {
+      "mini_id": "100512",
+      "img_id": "101105",
+      "release_time": 1607922000,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10523,
+        "jp": 524
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100504",
+      "img_id": "101089",
+      "release_time": 1607922000,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10522,
+        "jp": 523
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100506",
+      "img_id": "101093",
+      "release_time": 1607922000,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10521,
+        "jp": 522
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100505",
+      "img_id": "101091",
+      "release_time": 1607922000,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10520,
+        "jp": 521
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100503",
+      "img_id": "101087",
+      "release_time": 1607922000,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10519,
+        "jp": 520
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100502",
+      "img_id": "101085",
+      "release_time": 1607922000,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10518,
+        "jp": 519
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100501",
+      "img_id": "101083",
+      "release_time": 1607922000,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10517,
+        "jp": 518
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100500",
+      "img_id": "101081",
+      "release_time": 1607922000,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10516,
+        "jp": 517
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
+      "mini_id": "100499",
+      "img_id": "101079",
+      "release_time": 1607922000,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10515,
+        "jp": 516
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "煌めきの祝宴",
+        "jp": "煌めきの祝宴"
+      }
+    },
+    {
       "mini_id": "100509",
       "img_id": "101099",
       "release_time": 1606971600,
@@ -12471,6 +12660,30 @@
       "name": {
         "en": "敵_チンピラF(妖怪) 無",
         "jp": "敵_チンピラF(妖怪) 無"
+      }
+    },
+    {
+      "mini_id": "200129",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(祝宴) 闇",
+        "jp": "敵_チンピラF(祝宴) 闇"
+      }
+    },
+    {
+      "mini_id": "200130",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(祝宴) 闇",
+        "jp": "敵_チンピラE(祝宴) 闇"
+      }
+    },
+    {
+      "mini_id": "200131",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアボスA(祝宴) 闇",
+        "jp": "敵_マフィアボスA(祝宴) 闇"
       }
     }
   ]
