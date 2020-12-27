@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100511",
+      "img_id": "101103",
+      "release_time": 1608872400,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 499,
+        "jp": 527
+      },
+      "name": {
+        "en": "Sasaki Nobuko",
+        "jp": "佐々城信子"
+      },
+      "title": {
+        "en": "Azure Messenger",
+        "jp": "蒼の使徒"
+      }
+    },
+    {
+      "mini_id": "100510",
+      "img_id": "101101",
+      "release_time": 1608872400,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 498,
+        "jp": 526
+      },
+      "name": {
+        "en": "Katsura Shousaku",
+        "jp": "桂正作"
+      },
+      "title": {
+        "en": "Ideal Rebellion",
+        "jp": "理想への反逆"
+      }
+    },
+    {
+      "mini_id": "100508",
+      "img_id": "101097",
+      "release_time": 1608526800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 497,
+        "jp": 525
+      },
+      "name": {
+        "en": "Agatha C",
+        "jp": "アガサ・C"
+      },
+      "title": {
+        "en": "Head Royal Knight",
+        "jp": "近衛騎士長"
+      }
+    },
+    {
       "mini_id": "100512",
       "img_id": "101105",
       "release_time": 1607922000,
@@ -9,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10523,
+        "en": 495,
         "jp": 524
       },
       "name": {
@@ -17,7 +80,7 @@
         "jp": "国木田独歩"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -30,7 +93,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10522,
+        "en": 496,
         "jp": 523
       },
       "name": {
@@ -38,7 +101,7 @@
         "jp": "与謝野晶子"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -51,7 +114,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10521,
+        "en": 494,
         "jp": 522
       },
       "name": {
@@ -59,7 +122,7 @@
         "jp": "福沢諭吉"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -72,7 +135,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10520,
+        "en": 493,
         "jp": 521
       },
       "name": {
@@ -80,7 +143,7 @@
         "jp": "江戸川乱歩"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -93,7 +156,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10519,
+        "en": 492,
         "jp": 520
       },
       "name": {
@@ -101,7 +164,7 @@
         "jp": "太宰治"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -114,7 +177,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10518,
+        "en": 491,
         "jp": 519
       },
       "name": {
@@ -122,7 +185,7 @@
         "jp": "谷崎潤一郎"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -135,7 +198,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10517,
+        "en": 490,
         "jp": 518
       },
       "name": {
@@ -143,7 +206,7 @@
         "jp": "泉鏡花"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -156,7 +219,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10516,
+        "en": 489,
         "jp": 517
       },
       "name": {
@@ -164,7 +227,7 @@
         "jp": "宮沢賢治"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -177,7 +240,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10515,
+        "en": 488,
         "jp": 516
       },
       "name": {
@@ -185,7 +248,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "煌めきの祝宴",
+        "en": "Resplendent Banquet",
         "jp": "煌めきの祝宴"
       }
     },
@@ -12663,6 +12726,14 @@
       }
     },
     {
+      "mini_id": "200128",
+      "unique_skill": 0,
+      "name": {
+        "en": "桂正作（光） (Katsura Shousaku)",
+        "jp": "桂正作（光）"
+      }
+    },
+    {
       "mini_id": "200129",
       "unique_skill": 0,
       "name": {
@@ -12684,6 +12755,14 @@
       "name": {
         "en": "敵_マフィアボスA(祝宴) 闇",
         "jp": "敵_マフィアボスA(祝宴) 闇"
+      }
+    },
+    {
+      "mini_id": "200137",
+      "unique_skill": 0,
+      "name": {
+        "en": "桂正作（フード付き/光） (Katsura Shousaku)",
+        "jp": "桂正作（フード付き/光）"
       }
     }
   ]
