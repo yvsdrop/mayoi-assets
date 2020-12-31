@@ -1,6 +1,195 @@
 {
   "characters": [
     {
+      "mini_id": "100521",
+      "img_id": "101123",
+      "release_time": 1609426800,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10535,
+        "jp": 536
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "初春の宴",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100520",
+      "img_id": "101121",
+      "release_time": 1609426800,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 507,
+        "jp": 535
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100519",
+      "img_id": "101119",
+      "release_time": 1609426800,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 506,
+        "jp": 534
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100518",
+      "img_id": "101117",
+      "release_time": 1609426800,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 505,
+        "jp": 533
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀＆立原"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100517",
+      "img_id": "101115",
+      "release_time": 1609426800,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 504,
+        "jp": 532
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100516",
+      "img_id": "101113",
+      "release_time": 1609426800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 503,
+        "jp": 531
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100515",
+      "img_id": "101111",
+      "release_time": 1609426800,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 502,
+        "jp": 530
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100514",
+      "img_id": "101109",
+      "release_time": 1609426800,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 501,
+        "jp": 529
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
+      "mini_id": "100513",
+      "img_id": "101107",
+      "release_time": 1609426800,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 500,
+        "jp": 528
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "New Year's Banquet",
+        "jp": "初春の宴"
+      }
+    },
+    {
       "mini_id": "100511",
       "img_id": "101103",
       "release_time": 1608872400,
