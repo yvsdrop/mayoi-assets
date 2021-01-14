@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100524",
+      "img_id": "121127",
+      "release_time": 1610600400,
+      "affinity": 3,
+      "rarity": 10,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10538,
+        "jp": 539
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "臨戦",
+        "jp": "臨戦"
+      }
+    },
+    {
+      "mini_id": "100523",
+      "img_id": "101127",
+      "release_time": 1610600400,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10537,
+        "jp": 538
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "臨戦",
+        "jp": "臨戦"
+      }
+    },
+    {
+      "mini_id": "100522",
+      "img_id": "101125",
+      "release_time": 1609995600,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 509,
+        "jp": 537
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Summer Breeze",
+        "jp": "薫風"
+      }
+    },
+    {
       "mini_id": "100521",
       "img_id": "101123",
       "release_time": 1609426800,
@@ -9,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10535,
+        "en": 508,
         "jp": 536
       },
       "name": {
@@ -17,7 +80,7 @@
         "jp": "樋口一葉"
       },
       "title": {
-        "en": "初春の宴",
+        "en": "New Year's Banquet",
         "jp": "初春の宴"
       }
     },
@@ -3440,7 +3503,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10380,
+        "en": 510,
         "jp": 381
       },
       "name": {
@@ -3448,7 +3511,7 @@
         "jp": "梶井基次郎"
       },
       "title": {
-        "en": "反駁",
+        "en": "Rebuttal",
         "jp": "反駁"
       }
     },
