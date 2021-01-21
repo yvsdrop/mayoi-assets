@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100527",
+      "img_id": "101133",
+      "release_time": 1611205200,
+      "affinity": 2,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 10541,
+        "jp": 542
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "遊園地",
+        "jp": "遊園地"
+      }
+    },
+    {
+      "mini_id": "100526",
+      "img_id": "101131",
+      "release_time": 1611205200,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10540,
+        "jp": 541
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "遊園地",
+        "jp": "遊園地"
+      }
+    },
+    {
+      "mini_id": "100525",
+      "img_id": "101129",
+      "release_time": 1611205200,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10539,
+        "jp": 540
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "遊園地",
+        "jp": "遊園地"
+      }
+    },
+    {
       "mini_id": "100524",
       "img_id": "121127",
       "release_time": 1610600400,
@@ -9,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10538,
+        "en": 515,
         "jp": 539
       },
       "name": {
@@ -17,7 +80,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "臨戦",
+        "en": "Preparing For Battle",
         "jp": "臨戦"
       }
     },
@@ -30,7 +93,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10537,
+        "en": 514,
         "jp": 538
       },
       "name": {
@@ -38,7 +101,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "臨戦",
+        "en": "Preparing For Battle",
         "jp": "臨戦"
       }
     },
@@ -828,7 +891,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10499,
+        "en": 512,
         "jp": 500
       },
       "name": {
@@ -836,7 +899,7 @@
         "jp": "マーガレット・M"
       },
       "title": {
-        "en": "旋風と淑女",
+        "en": "Whirlwind Woman",
         "jp": "旋風と淑女"
       }
     },
@@ -849,7 +912,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10498,
+        "en": 511,
         "jp": 499
       },
       "name": {
@@ -857,7 +920,7 @@
         "jp": "ナサニエル・H"
       },
       "title": {
-        "en": "試練",
+        "en": "Trials",
         "jp": "試練"
       }
     },
@@ -1861,7 +1924,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10454,
+        "en": 513,
         "jp": 455
       },
       "name": {
@@ -1869,7 +1932,7 @@
         "jp": "マーク・T"
       },
       "title": {
-        "en": "大航海",
+        "en": "Ocean Voyage",
         "jp": "大航海"
       }
     },
@@ -13007,6 +13070,14 @@
       "name": {
         "en": "敵_マフィアボスA(祝宴) 闇",
         "jp": "敵_マフィアボスA(祝宴) 闇"
+      }
+    },
+    {
+      "mini_id": "200132",
+      "unique_skill": 0,
+      "name": {
+        "en": "[遊園地]マーク・T（無）",
+        "jp": "[遊園地]マーク・T（無）"
       }
     },
     {
