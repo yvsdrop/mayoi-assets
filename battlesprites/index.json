@@ -1,6 +1,153 @@
 {
   "characters": [
     {
+      "mini_id": "100533",
+      "img_id": "101145",
+      "release_time": 1612414800,
+      "affinity": 4,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 524,
+        "jp": 549
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100532",
+      "img_id": "101143",
+      "release_time": 1612414800,
+      "affinity": 5,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 523,
+        "jp": 548
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100531",
+      "img_id": "101141",
+      "release_time": 1612414800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 522,
+        "jp": 547
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100530",
+      "img_id": "101139",
+      "release_time": 1612414800,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 521,
+        "jp": 546
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100529",
+      "img_id": "101137",
+      "release_time": 1612414800,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 520,
+        "jp": 545
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100528",
+      "img_id": "101135",
+      "release_time": 1612414800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 519,
+        "jp": 544
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Jiangshi",
+        "jp": "僵尸"
+      }
+    },
+    {
+      "mini_id": "100540",
+      "img_id": "101157",
+      "release_time": 1612155600,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10542,
+        "jp": 543
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "空と陸の決闘",
+        "jp": "空と陸の決闘"
+      }
+    },
+    {
       "mini_id": "100527",
       "img_id": "101133",
       "release_time": 1611205200,
@@ -9,7 +156,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10541,
+        "en": 518,
         "jp": 542
       },
       "name": {
@@ -17,7 +164,7 @@
         "jp": "マーク・T"
       },
       "title": {
-        "en": "遊園地",
+        "en": "Amusement Park",
         "jp": "遊園地"
       }
     },
@@ -30,7 +177,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10540,
+        "en": 517,
         "jp": 541
       },
       "name": {
@@ -38,7 +185,7 @@
         "jp": "ラヴクラフト"
       },
       "title": {
-        "en": "遊園地",
+        "en": "Amusement Park",
         "jp": "遊園地"
       }
     },
@@ -51,7 +198,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10539,
+        "en": 516,
         "jp": 540
       },
       "name": {
@@ -59,7 +206,7 @@
         "jp": "ジョン・S"
       },
       "title": {
-        "en": "遊園地",
+        "en": "Amusement Park",
         "jp": "遊園地"
       }
     },
@@ -13076,8 +13223,40 @@
       "mini_id": "200132",
       "unique_skill": 0,
       "name": {
-        "en": "[遊園地]マーク・T（無）",
+        "en": "[遊園地]マーク・T（無） (Mark T)",
         "jp": "[遊園地]マーク・T（無）"
+      }
+    },
+    {
+      "mini_id": "200133",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(キョンシー) 光",
+        "jp": "敵_チンピラA(キョンシー) 光"
+      }
+    },
+    {
+      "mini_id": "200134",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(キョンシー) 闇",
+        "jp": "敵_チンピラF(キョンシー) 闇"
+      }
+    },
+    {
+      "mini_id": "200135",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアC(キョンシー) 翠",
+        "jp": "敵_マフィアC(キョンシー) 翠"
+      }
+    },
+    {
+      "mini_id": "200136",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアボスB(キョンシー) 無",
+        "jp": "敵_マフィアボスB(キョンシー) 無"
       }
     },
     {
