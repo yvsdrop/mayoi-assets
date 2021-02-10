@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100537",
+      "img_id": "101151",
+      "release_time": 1612933200,
+      "affinity": 1,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 10551,
+        "jp": 552
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "ショコラ",
+        "jp": "ショコラ"
+      }
+    },
+    {
+      "mini_id": "100535",
+      "img_id": "101149",
+      "release_time": 1612933200,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10550,
+        "jp": 551
+      },
+      "name": {
+        "en": "Haruno Kirako",
+        "jp": "春野綺羅子"
+      },
+      "title": {
+        "en": "ショコラ",
+        "jp": "ショコラ"
+      }
+    },
+    {
+      "mini_id": "100534",
+      "img_id": "101147",
+      "release_time": 1612933200,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 10549,
+        "jp": 550
+      },
+      "name": {
+        "en": "Tanizaki Naomi",
+        "jp": "谷崎ナオミ"
+      },
+      "title": {
+        "en": "ショコラ",
+        "jp": "ショコラ"
+      }
+    },
+    {
       "mini_id": "100533",
       "img_id": "101145",
       "release_time": 1612414800,
@@ -135,7 +198,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10542,
+        "en": 525,
         "jp": 543
       },
       "name": {
@@ -143,7 +206,7 @@
         "jp": "マーク・T"
       },
       "title": {
-        "en": "空と陸の決闘",
+        "en": "Earth vs. Sky",
         "jp": "空と陸の決闘"
       }
     },
@@ -12273,6 +12336,14 @@
       "name": {
         "en": "[秋色遊歩]与謝野晶子(蒼) (Yosano Akiko)",
         "jp": "[秋色遊歩]与謝野晶子(蒼)"
+      }
+    },
+    {
+      "mini_id": "100537",
+      "unique_skill": 0,
+      "name": {
+        "en": "[ショコラ]ルイーザ・A（無）",
+        "jp": "[ショコラ]ルイーザ・A（無）"
       }
     },
     {
