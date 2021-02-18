@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100539",
+      "img_id": "101155",
+      "release_time": 1613624400,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 530,
+        "jp": 554
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "Bundled Up",
+        "jp": "冬服"
+      }
+    },
+    {
+      "mini_id": "100538",
+      "img_id": "101153",
+      "release_time": 1613624400,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 529,
+        "jp": 553
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "Bundled Up",
+        "jp": "冬服"
+      }
+    },
+    {
       "mini_id": "100537",
       "img_id": "101151",
       "release_time": 1612933200,
@@ -9,7 +51,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10551,
+        "en": 528,
         "jp": 552
       },
       "name": {
@@ -17,7 +59,7 @@
         "jp": "ルイーザ・A"
       },
       "title": {
-        "en": "ショコラ",
+        "en": "Chocolat",
         "jp": "ショコラ"
       }
     },
@@ -30,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10550,
+        "en": 527,
         "jp": 551
       },
       "name": {
@@ -38,7 +80,7 @@
         "jp": "春野綺羅子"
       },
       "title": {
-        "en": "ショコラ",
+        "en": "Chocolat",
         "jp": "ショコラ"
       }
     },
@@ -51,7 +93,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10549,
+        "en": 526,
         "jp": 550
       },
       "name": {
@@ -59,7 +101,7 @@
         "jp": "谷崎ナオミ"
       },
       "title": {
-        "en": "ショコラ",
+        "en": "Chocolat",
         "jp": "ショコラ"
       }
     },
@@ -12342,7 +12384,7 @@
       "mini_id": "100537",
       "unique_skill": 0,
       "name": {
-        "en": "[ショコラ]ルイーザ・A（無）",
+        "en": "[ショコラ]ルイーザ・A（無） (Louisa A)",
         "jp": "[ショコラ]ルイーザ・A（無）"
       }
     },
