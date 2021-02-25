@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100380",
+      "img_id": "100897",
+      "release_time": 1614574800,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 532,
+        "jp": 556
+      },
+      "name": {
+        "en": "Herman M",
+        "jp": "ハーマン・M"
+      },
+      "title": {
+        "en": "Moby Dick",
+        "jp": "白鯨"
+      }
+    },
+    {
+      "mini_id": "100541",
+      "img_id": "101159",
+      "release_time": 1614229200,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 531,
+        "jp": 555
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Strive",
+        "jp": "邁進"
+      }
+    },
+    {
       "mini_id": "100539",
       "img_id": "101155",
       "release_time": 1613624400,
