@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100582",
+      "img_id": "101223",
+      "release_time": 1614834000,
+      "affinity": 1,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 537,
+        "jp": 561
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100548",
+      "img_id": "101169",
+      "release_time": 1614834000,
+      "affinity": 2,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 536,
+        "jp": 560
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100547",
+      "img_id": "101167",
+      "release_time": 1614834000,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 535,
+        "jp": 559
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100546",
+      "img_id": "101165",
+      "release_time": 1614834000,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 534,
+        "jp": 558
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100545",
+      "img_id": "101163",
+      "release_time": 1614834000,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 533,
+        "jp": 557
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
       "mini_id": "100380",
       "img_id": "100897",
       "release_time": 1614574800,
