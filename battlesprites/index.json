@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100553",
+      "img_id": "101179",
+      "release_time": 1615438800,
+      "affinity": 3,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 541,
+        "jp": 565
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100552",
+      "img_id": "101177",
+      "release_time": 1615438800,
+      "affinity": 5,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 540,
+        "jp": 564
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100551",
+      "img_id": "101175",
+      "release_time": 1615438800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 539,
+        "jp": 563
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100550",
+      "img_id": "101173",
+      "release_time": 1615438800,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 538,
+        "jp": 562
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
       "mini_id": "100582",
       "img_id": "101223",
       "release_time": 1614834000,
@@ -12536,6 +12620,14 @@
       }
     },
     {
+      "mini_id": "100553",
+      "unique_skill": 0,
+      "name": {
+        "en": "[洋菓子]芥川龍之介（無） (Akutagawa Ryunosuke)",
+        "jp": "[洋菓子]芥川龍之介（無）"
+      }
+    },
+    {
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
@@ -13445,6 +13537,30 @@
       "name": {
         "en": "敵_チンピラF(妖怪) 無",
         "jp": "敵_チンピラF(妖怪) 無"
+      }
+    },
+    {
+      "mini_id": "200125",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE（タロット）紅",
+        "jp": "敵_チンピラE（タロット）紅"
+      }
+    },
+    {
+      "mini_id": "200126",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF（タロット）翠",
+        "jp": "敵_チンピラF（タロット）翠"
+      }
+    },
+    {
+      "mini_id": "200127",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスA（タロット）無",
+        "jp": "敵_チンピラボスA（タロット）無"
       }
     },
     {
