@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="../gif.js" type="module"></script>
+  <script type="text/javascript" src="../lwf.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
   <script type="text/javascript" src="../lwf.js"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
@@ -13,6 +15,13 @@
     .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
     .nav-icons img {height:24px}
     #controls img {display:block;height:22px}
+    #controls .btn, #controls input, #controls select {margin-bottom:.5em}
+    #expanded-controls input {display:inline-block}
+    #expand-button.expanded {transform:scaleY(-1)}
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
     h2, h3 {text-align:center}
   </style>
   <title>Bungo Stray Dogs: Tales of the Lost - Battle Sprites</title>
@@ -20,20 +29,72 @@
 </head>
 <body>
   <div id="main" class="container" style="text-align:center">
-    <div id="controls" style="margin:1em 0">
+    <div id="controls" style="margin:1em 2em 0">
       <button onclick="copy()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/content_copy/v7/white-48dp/2x/gm_content_copy_white_48dp.png" alt="Copy" title="Copy"></button>
       <button onclick="save()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/save_alt/v6/white-48dp/2x/gm_save_alt_white_48dp.png" alt="Save" title="Save"></button>
+      <button id="record-button" class="btn btn-primary">
+        <img id="record-icon" src="https://fonts.gstatic.com/s/i/googlematerialicons/videocam_alt/v10/white-48dp/2x/gm_videocam_alt_white_48dp.png" alt="Record" title="Record (Customize using expanded options)">
+        <img id="stop-icon" style="display:none" src="https://fonts.gstatic.com/s/i/googlematerialicons/stop_circle/v12/white-48dp/2x/gm_stop_circle_white_48dp.png" alt="End recording" title="End recording">
+      </button>
       <button onclick="stop_start()" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/play_pause/v3/white-48dp/2x/gm_play_pause_white_48dp.png" alt="Play/Pause" title="Pause"></button>
-      <button onclick="setLabel('attack')" class="btn btn-outline-secondary">Attack</button>
-      <button onclick="setLabel('damage')" class="btn btn-outline-secondary">Take Damage</button>
+      <span id="action-labels">
+        <button onclick="setLabel('wait')" class="btn btn-outline-secondary">Idle</button>
+        <button onclick="setLabel('attack')" class="btn btn-outline-secondary">Attack</button>
+        <button onclick="setLabel('damage')" class="btn btn-outline-secondary">Take Damage</button>
+      </span>
+      <button onclick="expand_controls()" class="btn btn-light" id="expand-button" style="border-radius:50%;padding:.375rem">
+        <img src="https://fonts.gstatic.com/s/i/googlematerialicons/arrow_drop_down/v11/grey600-24dp/2x/gm_arrow_drop_down_grey600_24dp.png" alt="Expand options" title="Expand options">
+      </button>
+
+      <form id="expanded-controls" style="display:none" onsubmit="event.preventDefault();resize()">
+        <input id="width-field" type="text" class="form-control" style="width:100px">
+        x
+        <input id="height-field" type="text" class="form-control" style="width:100px;margin-right:1em">
+        <div style="display:inline-block">
+          <label for="bg-color-field">Background Color:</label>
+          <input id="bg-color-field" list="colors" class="form-control" style="width:auto" placeholder="#xxxxxx">
+          <datalist id="colors">
+            <option value="#000000">Black</option>
+            <option value="#ffffff">White</option>
+          </datalist>
+        </div>
+        <button type="submit" class="btn btn-primary"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/confirm/v10/white-48dp/2x/gm_confirm_white_48dp.png" alt="Confirm" title="Confirm"></button>
+        <div>
+          <h6>Recording options:</h6>
+          <label class="form-check-label" for="record-action">Action:</label>
+          <select id="record-action" class="form-control" style="display:inline-block;width:auto">
+            <option value="">Record canvas contents until stopped</option>
+            <option value="wait">Idle</option>
+            <option value="attack">Attack</option>
+            <option value="damage">Take Damage</option>
+          </select>
+          <div style="display:inline-block;margin-left:2em">
+            <input type="checkbox" class="form-check-input" id="repeat" checked>
+            <label class="form-check-label" for="repeat">Repeat</label>
+          </div>
+        </div>
+      </form>
     </div>
     <canvas id="canvas" style="border:1px solid;max-width:100%"></canvas>
+    <div id="gif-output" style="display:none">
+      <div style="border:1px solid;margin:1em auto;display:inline-block">
+        <div id="loading-gif" style="display:flex;flex-direction:column;align-items:center;justify-content:center;width:400px;height:400px;max-width:100%">
+          <div id="loader" style="border:8px solid #eee;border-top-color:#777;border-radius:50%;width:50px;height:50px;animation:spin 2s ease-in-out infinite;margin-bottom:1em"></div>
+          <span>Generating GIF...</span>
+        </div>
+        <div id="loaded-gif" style="display:none">
+          <img id="gif-img"><br>
+          <a id="gif-download-link">Download GIF</a>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="nav-icons">
     <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
   </div>
   <script>
     let current_time, from_time;
+    let recording = false;
     const downloadLink = document.createElement('a');
     const stage = document.getElementById("canvas");
     // "LWF" has been initialized and accessible by using LWF.
@@ -54,41 +115,48 @@
         window.lwf.setFrameRate(60); // Override animations frame rate.
         window.lwf.rootMovie.x = (stage.width - lwf.width) / 2;
         window.lwf.rootMovie.y = (stage.height - lwf.height) / 2;
+        $('#width-field').val(stage.width);
+        $('#height-field').val(stage.height);
       },
     });
-    // Main loop preparation
+    // Polyfill if browser is missing the function.
     window.requestAnimationFrame = (function() {
       return  window.requestAnimationFrame       ||
-              window.webkitRequestAnimationFrame ||
-              window.mozRequestAnimationFrame    ||
-              window.oRequestAnimationFrame      ||
-              window.msRequestAnimationFrame     ||
               function(/* function */ callback, /* DOMElement */ element) {
                 window.setTimeout(callback, 1000 / 60);
               };
     })();
 
-    const controlsEl = $('#controls');
-    const unique_skill = !!parseInt(params.get('unique_skill'));
-    const is_enemy = !!parseInt(params.get('enemy'));
-    if (unique_skill) {
-      controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
-    }
-    if (is_enemy) {
-      controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
-    } else {
-      controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
-    }
+    fetch('index.json')
+        .then(response => response.json())
+        .then(json => {
+          const controlsEl = $('#action-labels');
+          const actionOptions = $('#record-action');
+          const charData = json['characters'].find(x => x['mini_id'] == mini_id);
+          const unique_skill = !!charData && !!charData['unique_skill'];
+          if (unique_skill) {
+            controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
+            actionOptions.append('<option value="skill2">Skill</option>');
+          }
+          if (charData) {
+            controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
+          } else {
+            controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
+          }
+          $('#record-button').click(record);
+        });
 
-    function main() {
-      window.requestAnimationFrame(main);
+    function main_loop() {
+      if (!recording) {
+        window.requestAnimationFrame(main_loop);
+      }
       if (window.lwf != null) {
         // Evaluate lwf and render it 
         window.lwf.exec(calc_tick());
-        window.lwf.render();     
+        window.lwf.render();
       }
     }
-    main();
+    main_loop();
 
     function calc_tick() {
       current_time =  Date.now() / 1000.0;
@@ -100,22 +168,18 @@
     function stop_start() {
       if (window.lwf.isExecDisabled) {
         window.lwf.enableExec();
-        window.lwf.rootMovie.play();
         $('#play-btn').attr('title', 'Pause');
       } else {
-        window.lwf.rootMovie.stop();
         window.lwf.disableExec();
         $('#play-btn').attr('title', 'Play');
       }
     }
 
     function setLabel(label) {
-      window.lwf.rootMovie.gotoLabel(label);
+      window.lwf.rootMovie.gotoAndPlay(label);
       if (window.lwf.isExecDisabled) {
         window.lwf.enableExec();
         window.lwf.disableExec();
-      } else {
-        window.lwf.rootMovie.play();
       }
     }
 
@@ -171,6 +235,86 @@
     }
     function xyToInd(x, y, width) {
       return (x * width + y) * 4;
+    }
+
+    function expand_controls() {
+      $('#expanded-controls').slideToggle('fast');
+      $('#expand-button').toggleClass('expanded');
+    }
+    function resize(e) {
+      stage.width = $('#width-field').val();
+      stage.height = $('#height-field').val();
+      window.lwf.rootMovie.x = (stage.width - lwf.width) / 2;
+      window.lwf.rootMovie.y = (stage.height - lwf.height) / 2;
+      let color = $('#bg-color-field').val().replace('#', '');
+      if (color.length < 8) {
+        color = 'ff' + color;
+      }
+      window.lwf.rendererFactory.setBackgroundColor(color);
+    }
+
+    function record() {
+      recording = !recording;
+      $('#record-icon').toggle(!recording);
+      $('#stop-icon').toggle(recording);
+
+      if (recording) {
+        $('#gif-output').hide();
+
+        const gif = new GIF({
+          workerScript :"../gif.worker.js",
+          workers: 8,
+          quality: 1,
+          repeat: $('#repeat').is(':checked') ? 0 : -1,
+          dither: 'Atkinson',
+        });
+        gif.on('finished', exportRecording);
+
+        let min_frame = 0;
+        const action = $('#record-action').val();
+        if (action) {
+          window.lwf.rootMovie.gotoAndPlay(action);
+          if (window.lwf.isExecDisabled) {
+            window.lwf.enableExec();
+            $('#play-btn').attr('title', 'Pause');
+          }
+        }
+        const callback = () => {
+          const currentFrame = window.lwf.rootMovie.currentFrameCurrent;
+          if (currentFrame >= min_frame) {
+            gif.addFrame(stage, {copy: true, delay: 20});
+            if (action) {
+              min_frame = currentFrame;
+            }
+          } else {
+            recording = false;
+            $('#record-icon').show();
+            $('#stop-icon').hide();
+          }
+          recordFrame();
+        };
+        const recordFrame = () => {
+          main_loop();
+          if (!recording) {
+            gif.render();
+            $('#gif-output').show();
+            $('#loading-gif').show();
+            $('#loaded-gif').hide();
+          } else {
+            window.requestAnimationFrame(callback);
+          }
+        };
+        recordFrame();
+      }
+    }
+    function exportRecording(blob) {
+      const outputEl = $('#gif-img');
+      outputEl.attr('src', URL.createObjectURL(blob));
+      const exportLink = $('#gif-download-link');
+      exportLink.attr('download', mini_id + '.gif');
+      exportLink.attr('href', outputEl.attr('src'));
+      $('#loading-gif').hide();
+      $('#loaded-gif').show();
     }
   </script>
 </body>
