@@ -4,6 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  <title>Bungo Battle Sprite Viewer</title>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const mini_id = params.get('id');
+    document.title = 'Bungo Battle Sprite - ' + mini_id;
+  </script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../gif.js" type="module"></script>
@@ -24,7 +30,6 @@
     }
     h2, h3 {text-align:center}
   </style>
-  <title>Bungo Stray Dogs: Tales of the Lost - Battle Sprites</title>
   <meta name="description" content="Battle Sprites animations viewer for the Bungo Stray Dogs mobile game.">
 </head>
 <body>
@@ -47,12 +52,19 @@
       </button>
 
       <form id="expanded-controls" style="display:none" onsubmit="event.preventDefault();resize()">
-        <input id="width-field" type="text" class="form-control" style="width:100px">
-        x
-        <input id="height-field" type="text" class="form-control" style="width:100px;margin-right:1em">
+        <label for="width-field">Size:</label>
+        <div style="display:inline-block">
+          <input id="width-field" type="text" class="form-control" style="width:80px"> x
+          <input id="height-field" type="text" class="form-control" style="width:80px;margin-right:1em">
+        </div>
+        <label for="position-x-field" title="Default centered if unspecified">Position:</label>
+        <div style="display:inline-block">
+          <input id="position-x-field" type="text" class="form-control" style="width:60px" placeholder="x">
+          <input id="position-y-field" type="text" class="form-control" style="width:60px;margin-right:1em"  placeholder="y">
+        </div>
         <div style="display:inline-block">
           <label for="bg-color-field">Background Color:</label>
-          <input id="bg-color-field" list="colors" class="form-control" style="width:auto" placeholder="#xxxxxx">
+          <input id="bg-color-field" list="colors" class="form-control" style="width:100px" placeholder="#xxxxxx">
           <datalist id="colors">
             <option value="#000000">Black</option>
             <option value="#ffffff">White</option>
@@ -90,6 +102,7 @@
     </div>
   </div>
   <div class="nav-icons">
+    <a href="./"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/home/v7/gm_grey-48dp/2x/gm_home_gm_grey_48dp.png"></a>
     <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
   </div>
   <script>
@@ -101,16 +114,14 @@
     LWF.useCanvasRenderer();
 
     const cache = LWF.ResourceCache.get();
-    const params = new URLSearchParams(window.location.search);
-    const mini_id = params.get('id');
 
     cache.loadLWF({
       "lwf": mini_id + ".lwf",
       "prefix": "./" + mini_id + "/",
       "stage": stage,
       "onload": function(lwf) {
-        stage.width = lwf.width * 3;
-        stage.height = lwf.height * 3;
+        stage.width = lwf.width * 2;
+        stage.height = lwf.height * 2;
         window.lwf = lwf;
         window.lwf.setFrameRate(60); // Override animations frame rate.
         window.lwf.rootMovie.x = (stage.width - lwf.width) / 2;
@@ -244,8 +255,8 @@
     function resize(e) {
       stage.width = $('#width-field').val();
       stage.height = $('#height-field').val();
-      window.lwf.rootMovie.x = (stage.width - lwf.width) / 2;
-      window.lwf.rootMovie.y = (stage.height - lwf.height) / 2;
+      window.lwf.rootMovie.x = $('#position-x-field').val() || (stage.width - lwf.width) / 2;
+      window.lwf.rootMovie.y = $('#position-y-field').val() || (stage.height - lwf.height) / 2;
       let color = $('#bg-color-field').val().replace('#', '');
       if (color.length < 8) {
         color = 'ff' + color;
