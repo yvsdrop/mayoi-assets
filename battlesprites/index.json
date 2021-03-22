@@ -1164,7 +1164,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10509,
+        "en": 0,
         "jp": 510
       },
       "name": {
@@ -1185,7 +1185,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10508,
+        "en": 0,
         "jp": 509
       },
       "name": {
@@ -1563,7 +1563,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10490,
+        "en": 0,
         "jp": 491
       },
       "name": {
@@ -1584,7 +1584,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10490,
+        "en": 0,
         "jp": 491
       },
       "name": {
@@ -1606,7 +1606,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10489,
+        "en": 0,
         "jp": 490
       },
       "name": {
@@ -1627,7 +1627,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10489,
+        "en": 0,
         "jp": 490
       },
       "name": {
@@ -1733,7 +1733,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10484,
+        "en": 0,
         "jp": 485
       },
       "name": {
@@ -1754,7 +1754,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10483,
+        "en": 0,
         "jp": 484
       },
       "name": {
@@ -1775,7 +1775,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10482,
+        "en": 0,
         "jp": 483
       },
       "name": {
@@ -1796,7 +1796,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10481,
+        "en": 0,
         "jp": 482
       },
       "name": {
@@ -1817,7 +1817,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10481,
+        "en": 0,
         "jp": 482
       },
       "name": {
@@ -1839,7 +1839,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10480,
+        "en": 0,
         "jp": 481
       },
       "name": {
@@ -1860,7 +1860,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10480,
+        "en": 0,
         "jp": 481
       },
       "name": {
@@ -2428,7 +2428,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10453,
+        "en": 0,
         "jp": 454
       },
       "name": {
@@ -2533,7 +2533,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10448,
+        "en": 0,
         "jp": 449
       },
       "name": {
@@ -5519,7 +5519,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10310,
+        "en": 0,
         "jp": 311
       },
       "name": {
@@ -6296,7 +6296,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10273,
+        "en": 0,
         "jp": 274
       },
       "name": {
@@ -7871,7 +7871,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10198,
+        "en": 0,
         "jp": 199
       },
       "name": {
@@ -8837,7 +8837,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10152,
+        "en": 0,
         "jp": 153
       },
       "name": {
@@ -8858,7 +8858,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10151,
+        "en": 0,
         "jp": 152
       },
       "name": {
@@ -8963,7 +8963,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 10146,
+        "en": 0,
         "jp": 147
       },
       "name": {
@@ -8984,7 +8984,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 10145,
+        "en": 0,
         "jp": 146
       },
       "name": {
