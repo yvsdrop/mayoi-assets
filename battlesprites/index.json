@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100381",
+      "img_id": "100899",
+      "release_time": 1617253200,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 552,
+        "jp": 569
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Kodachi Blade",
+        "jp": "小太刀"
+      }
+    },
+    {
+      "mini_id": "100567",
+      "img_id": "800151",
+      "release_time": 1617202800,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 551,
+        "jp": 568
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Filial Piety",
+        "jp": "孝行"
+      }
+    },
+    {
+      "mini_id": "100566",
+      "img_id": "800149",
+      "release_time": 1617202800,
+      "affinity": 4,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 550,
+        "jp": 567
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Back Rub",
+        "jp": "肩たたき"
+      }
+    },
+    {
+      "mini_id": "100565",
+      "img_id": "800007",
+      "release_time": 1617202800,
+      "affinity": 4,
+      "rarity": 4,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 549,
+        "jp": 566
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
       "mini_id": "100553",
       "img_id": "101179",
       "release_time": 1615438800,
@@ -5519,7 +5603,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 548,
         "jp": 311
       },
       "name": {
@@ -5527,7 +5611,7 @@
         "jp": "立原道造"
       },
       "title": {
-        "en": "二丁拳銃",
+        "en": "Dual Pistols",
         "jp": "二丁拳銃"
       }
     },
