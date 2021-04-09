@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100561",
+      "img_id": "101193",
+      "release_time": 1617858000,
+      "affinity": 2,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 557,
+        "jp": 574
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100560",
+      "img_id": "101191",
+      "release_time": 1617858000,
+      "affinity": 3,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 556,
+        "jp": 573
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100559",
+      "img_id": "101189",
+      "release_time": 1617858000,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 555,
+        "jp": 572
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100558",
+      "img_id": "101187",
+      "release_time": 1617858000,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 554,
+        "jp": 571
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100557",
+      "img_id": "101185",
+      "release_time": 1617858000,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 553,
+        "jp": 570
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
       "mini_id": "100381",
       "img_id": "100899",
       "release_time": 1617253200,
