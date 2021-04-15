@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100564",
+      "img_id": "101199",
+      "release_time": 1618462800,
+      "affinity": 5,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 577
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "新学期",
+        "jp": "新学期"
+      }
+    },
+    {
+      "mini_id": "100563",
+      "img_id": "101197",
+      "release_time": 1618462800,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 576
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "新学期",
+        "jp": "新学期"
+      }
+    },
+    {
+      "mini_id": "100562",
+      "img_id": "101195",
+      "release_time": 1618462800,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 575
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "新学期",
+        "jp": "新学期"
+      }
+    },
+    {
       "mini_id": "100561",
       "img_id": "101193",
       "release_time": 1617858000,
@@ -12814,6 +12877,14 @@
       "name": {
         "en": "[洋菓子]芥川龍之介（無） (Akutagawa Ryunosuke)",
         "jp": "[洋菓子]芥川龍之介（無）"
+      }
+    },
+    {
+      "mini_id": "100564",
+      "unique_skill": 0,
+      "name": {
+        "en": "[新学期]与謝野晶子（無）",
+        "jp": "[新学期]与謝野晶子（無）"
       }
     },
     {
