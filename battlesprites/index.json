@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100554",
+      "img_id": "101181",
+      "release_time": 1619154000,
+      "affinity": 2,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 558,
+        "jp": 578
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "A Promise at Dusk",
+        "jp": "夕暮れの約束"
+      }
+    },
+    {
       "mini_id": "100564",
       "img_id": "101199",
       "release_time": 1618462800,
