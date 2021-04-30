@@ -1,6 +1,153 @@
 {
   "characters": [
     {
+      "mini_id": "100569",
+      "img_id": "101201",
+      "release_time": 1619845200,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 562,
+        "jp": 585
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "Rulers",
+        "jp": "支配する者"
+      }
+    },
+    {
+      "mini_id": "100575",
+      "img_id": "101213",
+      "release_time": 1619586000,
+      "affinity": 5,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 584
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "執事",
+        "jp": "執事"
+      }
+    },
+    {
+      "mini_id": "100574",
+      "img_id": "101211",
+      "release_time": 1619586000,
+      "affinity": 4,
+      "rarity": 6,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 583
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "執事",
+        "jp": "執事"
+      }
+    },
+    {
+      "mini_id": "100573",
+      "img_id": "101209",
+      "release_time": 1619586000,
+      "affinity": 5,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 582
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "執事",
+        "jp": "執事"
+      }
+    },
+    {
+      "mini_id": "100572",
+      "img_id": "101207",
+      "release_time": 1619586000,
+      "affinity": 4,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 581
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "メイド",
+        "jp": "メイド"
+      }
+    },
+    {
+      "mini_id": "100571",
+      "img_id": "101205",
+      "release_time": 1619586000,
+      "affinity": 1,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 580
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "執事",
+        "jp": "執事"
+      }
+    },
+    {
+      "mini_id": "100570",
+      "img_id": "101203",
+      "release_time": 1619586000,
+      "affinity": 3,
+      "rarity": 8,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 579
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "執事",
+        "jp": "執事"
+      }
+    },
+    {
       "mini_id": "100554",
       "img_id": "101181",
       "release_time": 1619154000,
@@ -30,7 +177,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 561,
         "jp": 577
       },
       "name": {
@@ -38,7 +185,7 @@
         "jp": "与謝野晶子"
       },
       "title": {
-        "en": "新学期",
+        "en": "New Semester",
         "jp": "新学期"
       }
     },
@@ -51,7 +198,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 560,
         "jp": 576
       },
       "name": {
@@ -59,7 +206,7 @@
         "jp": "福沢諭吉"
       },
       "title": {
-        "en": "新学期",
+        "en": "New Semester",
         "jp": "新学期"
       }
     },
@@ -72,7 +219,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 559,
         "jp": 575
       },
       "name": {
@@ -80,7 +227,7 @@
         "jp": "江戸川乱歩"
       },
       "title": {
-        "en": "新学期",
+        "en": "New Semester",
         "jp": "新学期"
       }
     },
@@ -12904,7 +13051,7 @@
       "mini_id": "100564",
       "unique_skill": 0,
       "name": {
-        "en": "[新学期]与謝野晶子（無）",
+        "en": "[新学期]与謝野晶子（無） (Yosano Akiko)",
         "jp": "[新学期]与謝野晶子（無）"
       }
     },
@@ -13672,16 +13819,16 @@
       "mini_id": "200104",
       "unique_skill": 0,
       "name": {
-        "en": "ギルドA（正装）紅",
-        "jp": "ギルドA（正装）紅"
+        "en": "ギルドA（正装）無",
+        "jp": "ギルドA（正装）無"
       }
     },
     {
       "mini_id": "200105",
       "unique_skill": 0,
       "name": {
-        "en": "ギルドB（正装）蒼",
-        "jp": "ギルドB（正装）蒼"
+        "en": "ギルドB（正装）無",
+        "jp": "ギルドB（正装）無"
       }
     },
     {
