@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100579",
+      "img_id": "101221",
+      "release_time": 1621486800,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 566,
+        "jp": 591
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
+      "mini_id": "100578",
+      "img_id": "101219",
+      "release_time": 1621486800,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 565,
+        "jp": 590
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
+      "mini_id": "100577",
+      "img_id": "101217",
+      "release_time": 1621486800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 564,
+        "jp": 589
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
+      "mini_id": "100576",
+      "img_id": "101215",
+      "release_time": 1621486800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 563,
+        "jp": 588
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
       "mini_id": "100556",
       "img_id": "121183",
       "release_time": 1620795600,
@@ -13095,6 +13179,14 @@
       "name": {
         "en": "[新学期]与謝野晶子（無） (Yosano Akiko)",
         "jp": "[新学期]与謝野晶子（無）"
+      }
+    },
+    {
+      "mini_id": "100579",
+      "unique_skill": 0,
+      "name": {
+        "en": "[水族館]芥川龍之介（無） (Akutagawa Ryunosuke)",
+        "jp": "[水族館]芥川龍之介（無）"
       }
     },
     {
