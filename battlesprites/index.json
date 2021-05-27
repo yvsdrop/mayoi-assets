@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100583",
+      "img_id": "101225",
+      "release_time": 1622523600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 567,
+        "jp": 592
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Fretful",
+        "jp": "愁事"
+      }
+    },
+    {
       "mini_id": "100579",
       "img_id": "101221",
       "release_time": 1621486800,
