@@ -1,6 +1,153 @@
 {
   "characters": [
     {
+      "mini_id": "100663",
+      "img_id": "101313",
+      "release_time": 1623819600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 603
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "対峙",
+        "jp": "対峙"
+      }
+    },
+    {
+      "mini_id": "100662",
+      "img_id": "101311",
+      "release_time": 1623819600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 602
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "対峙",
+        "jp": "対峙"
+      }
+    },
+    {
+      "mini_id": "100596",
+      "img_id": "101243",
+      "release_time": 1623301200,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 576,
+        "jp": 601
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Marching Band",
+        "jp": "音楽隊"
+      }
+    },
+    {
+      "mini_id": "100592",
+      "img_id": "101235",
+      "release_time": 1623301200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 575,
+        "jp": 600
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Marching Band",
+        "jp": "音楽隊"
+      }
+    },
+    {
+      "mini_id": "100595",
+      "img_id": "101241",
+      "release_time": 1623301200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 574,
+        "jp": 599
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Marching Band",
+        "jp": "音楽隊"
+      }
+    },
+    {
+      "mini_id": "100594",
+      "img_id": "101239",
+      "release_time": 1623301200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 573,
+        "jp": 598
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Marching Band",
+        "jp": "音楽隊"
+      }
+    },
+    {
+      "mini_id": "100593",
+      "img_id": "101237",
+      "release_time": 1623301200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 572,
+        "jp": 597
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Marching Band",
+        "jp": "音楽隊"
+      }
+    },
+    {
       "mini_id": "100584",
       "img_id": "101227",
       "release_time": 1623128400,
@@ -9,15 +156,15 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 571,
         "jp": 596
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "黎明",
+        "en": "Daybreak",
         "jp": "黎明"
       }
     },
@@ -55,7 +202,7 @@
         "jp": 594
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -118,7 +265,7 @@
         "jp": 591
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -181,7 +328,7 @@
         "jp": 588
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -202,7 +349,7 @@
         "jp": 587
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -223,7 +370,7 @@
         "jp": 586
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -286,7 +433,7 @@
         "jp": 583
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -307,7 +454,7 @@
         "jp": 582
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -328,7 +475,7 @@
         "jp": 581
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -349,7 +496,7 @@
         "jp": 580
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -370,7 +517,7 @@
         "jp": 579
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -391,7 +538,7 @@
         "jp": 578
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -475,7 +622,7 @@
         "jp": 574
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -496,7 +643,7 @@
         "jp": 573
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -664,7 +811,7 @@
         "jp": 565
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -727,7 +874,7 @@
         "jp": 562
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -790,7 +937,7 @@
         "jp": 559
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -853,7 +1000,7 @@
         "jp": 556
       },
       "name": {
-        "en": "Herman M.",
+        "en": "Herman M",
         "jp": "ハーマン・M"
       },
       "title": {
@@ -895,7 +1042,7 @@
         "jp": 554
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -1000,7 +1147,7 @@
         "jp": 549
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -1021,7 +1168,7 @@
         "jp": 548
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -1063,7 +1210,7 @@
         "jp": 546
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -1126,7 +1273,7 @@
         "jp": 543
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -1147,7 +1294,7 @@
         "jp": 542
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -1189,7 +1336,7 @@
         "jp": 540
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -1252,7 +1399,7 @@
         "jp": 537
       },
       "name": {
-        "en": "Margaret M.",
+        "en": "Margaret M",
         "jp": "マーガレット・M"
       },
       "title": {
@@ -1294,7 +1441,7 @@
         "jp": 535
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -1315,7 +1462,7 @@
         "jp": 534
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -1357,7 +1504,7 @@
         "jp": 532
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -1378,7 +1525,7 @@
         "jp": 531
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -1441,7 +1588,7 @@
         "jp": 528
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -1504,7 +1651,7 @@
         "jp": 525
       },
       "name": {
-        "en": "Agatha C.",
+        "en": "Agatha C",
         "jp": "アガサ・C"
       },
       "title": {
@@ -1630,7 +1777,7 @@
         "jp": 519
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -1651,7 +1798,7 @@
         "jp": 518
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -1735,7 +1882,7 @@
         "jp": 514
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -1840,7 +1987,7 @@
         "jp": 509
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -1903,7 +2050,7 @@
         "jp": 506
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -1924,7 +2071,7 @@
         "jp": 505
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -1945,7 +2092,7 @@
         "jp": 504
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -1966,7 +2113,7 @@
         "jp": 503
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -1987,7 +2134,7 @@
         "jp": 502
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -2029,7 +2176,7 @@
         "jp": 500
       },
       "name": {
-        "en": "Margaret M.",
+        "en": "Margaret M",
         "jp": "マーガレット・M"
       },
       "title": {
@@ -2050,7 +2197,7 @@
         "jp": 499
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -2071,7 +2218,7 @@
         "jp": 498
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -2155,7 +2302,7 @@
         "jp": 494
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -2176,7 +2323,7 @@
         "jp": 493
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -2367,7 +2514,7 @@
         "jp": 486
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -2494,7 +2641,7 @@
         "jp": 481
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -2515,7 +2662,7 @@
         "jp": 481
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -2621,7 +2768,7 @@
         "jp": 476
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -2663,7 +2810,7 @@
         "jp": 474
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -2705,7 +2852,7 @@
         "jp": 472
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -2768,7 +2915,7 @@
         "jp": 469
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -2789,7 +2936,7 @@
         "jp": 468
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -2810,7 +2957,7 @@
         "jp": 467
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -2831,7 +2978,7 @@
         "jp": 466
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -2852,7 +2999,7 @@
         "jp": 465
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -2936,7 +3083,7 @@
         "jp": 461
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -3062,7 +3209,7 @@
         "jp": 455
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -3104,7 +3251,7 @@
         "jp": 453
       },
       "name": {
-        "en": "Herman M.",
+        "en": "Herman M",
         "jp": "ハーマン・M"
       },
       "title": {
@@ -3125,7 +3272,7 @@
         "jp": 452
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -3146,7 +3293,7 @@
         "jp": 451
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -3209,7 +3356,7 @@
         "jp": 448
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -3272,7 +3419,7 @@
         "jp": 445
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -3335,7 +3482,7 @@
         "jp": 442
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -3356,7 +3503,7 @@
         "jp": 442
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -3378,7 +3525,7 @@
         "jp": 441
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -3399,7 +3546,7 @@
         "jp": 441
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -3464,7 +3611,7 @@
         "jp": 439
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -3485,7 +3632,7 @@
         "jp": 439
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -3633,7 +3780,7 @@
         "jp": 432
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -3675,7 +3822,7 @@
         "jp": 430
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -3717,7 +3864,7 @@
         "jp": 428
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -3801,7 +3948,7 @@
         "jp": 424
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -3822,7 +3969,7 @@
         "jp": 423
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -3885,7 +4032,7 @@
         "jp": 420
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -3906,7 +4053,7 @@
         "jp": 419
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -3990,7 +4137,7 @@
         "jp": 415
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -4011,7 +4158,7 @@
         "jp": 414
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -4032,7 +4179,7 @@
         "jp": 413
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -4095,7 +4242,7 @@
         "jp": 410
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -4116,7 +4263,7 @@
         "jp": 409
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -4137,7 +4284,7 @@
         "jp": 408
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -4158,7 +4305,7 @@
         "jp": 407
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -4200,7 +4347,7 @@
         "jp": 405
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -4221,7 +4368,7 @@
         "jp": 404
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -4242,7 +4389,7 @@
         "jp": 403
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -4263,7 +4410,7 @@
         "jp": 402
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -4284,7 +4431,7 @@
         "jp": 401
       },
       "name": {
-        "en": "Margaret M.",
+        "en": "Margaret M",
         "jp": "マーガレット・M"
       },
       "title": {
@@ -4305,7 +4452,7 @@
         "jp": 400
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -4326,7 +4473,7 @@
         "jp": 399
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -4368,7 +4515,7 @@
         "jp": 397
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -4410,7 +4557,7 @@
         "jp": 395
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -4473,7 +4620,7 @@
         "jp": 392
       },
       "name": {
-        "en": "Mark T.",
+        "en": "Mark T",
         "jp": "マーク・T"
       },
       "title": {
@@ -4536,7 +4683,7 @@
         "jp": 389
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -4557,7 +4704,7 @@
         "jp": 388
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -4578,7 +4725,7 @@
         "jp": 387
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -4620,7 +4767,7 @@
         "jp": 385
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -4704,7 +4851,7 @@
         "jp": 381
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -4746,7 +4893,7 @@
         "jp": 379
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -4830,7 +4977,7 @@
         "jp": 375
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -4851,7 +4998,7 @@
         "jp": 374
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -4893,7 +5040,7 @@
         "jp": 372
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -4914,7 +5061,7 @@
         "jp": 371
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -4998,7 +5145,7 @@
         "jp": 367
       },
       "name": {
-        "en": "Yumeno Kyuusaku",
+        "en": "Yumeno Kyusaku",
         "jp": "夢野久作"
       },
       "title": {
@@ -5103,7 +5250,7 @@
         "jp": 362
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -5124,7 +5271,7 @@
         "jp": 361
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -5208,7 +5355,7 @@
         "jp": 357
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -5250,7 +5397,7 @@
         "jp": 355
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -5292,7 +5439,7 @@
         "jp": 353
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -5313,7 +5460,7 @@
         "jp": 352
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -5376,7 +5523,7 @@
         "jp": 349
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -5397,7 +5544,7 @@
         "jp": 348
       },
       "name": {
-        "en": "Margaret M.",
+        "en": "Margaret M",
         "jp": "マーガレット・M"
       },
       "title": {
@@ -5460,7 +5607,7 @@
         "jp": 345
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -5607,7 +5754,7 @@
         "jp": 338
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -5649,7 +5796,7 @@
         "jp": 336
       },
       "name": {
-        "en": "Agatha C.",
+        "en": "Agatha C",
         "jp": "アガサ・C"
       },
       "title": {
@@ -5691,7 +5838,7 @@
         "jp": 334
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -5796,7 +5943,7 @@
         "jp": 329
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -5817,7 +5964,7 @@
         "jp": 328
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -5922,7 +6069,7 @@
         "jp": 323
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -5943,7 +6090,7 @@
         "jp": 322
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -6006,7 +6153,7 @@
         "jp": 319
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -6195,7 +6342,7 @@
         "jp": 310
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -6237,7 +6384,7 @@
         "jp": 308
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -6300,7 +6447,7 @@
         "jp": 305
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -6342,7 +6489,7 @@
         "jp": 303
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -6447,7 +6594,7 @@
         "jp": 298
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -6489,7 +6636,7 @@
         "jp": 296
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -6510,7 +6657,7 @@
         "jp": 295
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -6531,7 +6678,7 @@
         "jp": 294
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -6615,7 +6762,7 @@
         "jp": 290
       },
       "name": {
-        "en": "Margaret M.",
+        "en": "Margaret M",
         "jp": "マーガレット・M"
       },
       "title": {
@@ -6636,7 +6783,7 @@
         "jp": 289
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -6678,7 +6825,7 @@
         "jp": 287
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -6699,7 +6846,7 @@
         "jp": 286
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -6720,7 +6867,7 @@
         "jp": 285
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -6741,7 +6888,7 @@
         "jp": 284
       },
       "name": {
-        "en": "Nathaniel H.",
+        "en": "Nathaniel H",
         "jp": "ナサニエル・H"
       },
       "title": {
@@ -6783,7 +6930,7 @@
         "jp": 282
       },
       "name": {
-        "en": "John S.",
+        "en": "John S",
         "jp": "ジョン・S"
       },
       "title": {
@@ -6825,7 +6972,7 @@
         "jp": 280
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -6846,7 +6993,7 @@
         "jp": 279
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -6867,7 +7014,7 @@
         "jp": 278
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -6993,7 +7140,7 @@
         "jp": 272
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -7014,7 +7161,7 @@
         "jp": 271
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -7056,7 +7203,7 @@
         "jp": 269
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -7119,7 +7266,7 @@
         "jp": 266
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -7224,7 +7371,7 @@
         "jp": 261
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -7245,7 +7392,7 @@
         "jp": 260
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -7266,7 +7413,7 @@
         "jp": 259
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -7287,7 +7434,7 @@
         "jp": 258
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -7392,7 +7539,7 @@
         "jp": 253
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -7413,7 +7560,7 @@
         "jp": 252
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -7560,7 +7707,7 @@
         "jp": 245
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -7644,7 +7791,7 @@
         "jp": 241
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -7686,7 +7833,7 @@
         "jp": 239
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -7707,7 +7854,7 @@
         "jp": 238
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -7728,7 +7875,7 @@
         "jp": 237
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -7791,7 +7938,7 @@
         "jp": 234
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -7812,7 +7959,7 @@
         "jp": 233
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -7896,7 +8043,7 @@
         "jp": 229
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -7959,7 +8106,7 @@
         "jp": 226
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -8022,7 +8169,7 @@
         "jp": 223
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -8064,7 +8211,7 @@
         "jp": 221
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -8127,7 +8274,7 @@
         "jp": 218
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -8148,7 +8295,7 @@
         "jp": 217
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -8169,7 +8316,7 @@
         "jp": 216
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -8316,7 +8463,7 @@
         "jp": 209
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -8379,7 +8526,7 @@
         "jp": 206
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -8421,7 +8568,7 @@
         "jp": 204
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -8442,7 +8589,7 @@
         "jp": 203
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -8463,7 +8610,7 @@
         "jp": 202
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -8526,7 +8673,7 @@
         "jp": 199
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -8589,7 +8736,7 @@
         "jp": 196
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -8631,7 +8778,7 @@
         "jp": 194
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -8757,7 +8904,7 @@
         "jp": 188
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -8778,7 +8925,7 @@
         "jp": 187
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -8799,7 +8946,7 @@
         "jp": 186
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -8820,7 +8967,7 @@
         "jp": 185
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -8904,7 +9051,7 @@
         "jp": 181
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -8967,7 +9114,7 @@
         "jp": 178
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -9009,7 +9156,7 @@
         "jp": 176
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -9030,7 +9177,7 @@
         "jp": 175
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -9072,7 +9219,7 @@
         "jp": 173
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -9114,7 +9261,7 @@
         "jp": 171
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -9135,7 +9282,7 @@
         "jp": 170
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -9219,7 +9366,7 @@
         "jp": 166
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -9282,7 +9429,7 @@
         "jp": 163
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -9303,7 +9450,7 @@
         "jp": 162
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -9429,7 +9576,7 @@
         "jp": 156
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -9450,7 +9597,7 @@
         "jp": 155
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -9492,7 +9639,7 @@
         "jp": 153
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -9534,7 +9681,7 @@
         "jp": 151
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -9576,7 +9723,7 @@
         "jp": 149
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -9639,7 +9786,7 @@
         "jp": 146
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -9765,7 +9912,7 @@
         "jp": 140
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -9786,7 +9933,7 @@
         "jp": 139
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -9891,7 +10038,7 @@
         "jp": 134
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -9912,7 +10059,7 @@
         "jp": 133
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -9933,7 +10080,7 @@
         "jp": 132
       },
       "name": {
-        "en": "Lucy M.",
+        "en": "Lucy M",
         "jp": "ルーシー・M"
       },
       "title": {
@@ -9954,7 +10101,7 @@
         "jp": 131
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -9996,7 +10143,7 @@
         "jp": 129
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -10143,7 +10290,7 @@
         "jp": 122
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -10206,7 +10353,7 @@
         "jp": 119
       },
       "name": {
-        "en": "Fyodor D.",
+        "en": "Fyodor D",
         "jp": "フョードル・D"
       },
       "title": {
@@ -10374,7 +10521,7 @@
         "jp": 111
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -10395,7 +10542,7 @@
         "jp": 110
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -10416,7 +10563,7 @@
         "jp": 109
       },
       "name": {
-        "en": "Francis F.",
+        "en": "Francis F",
         "jp": "フランシス・F"
       },
       "title": {
@@ -10626,7 +10773,7 @@
         "jp": 99
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -10731,7 +10878,7 @@
         "jp": 94
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -10794,7 +10941,7 @@
         "jp": 91
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -10836,7 +10983,7 @@
         "jp": 89
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -10857,7 +11004,7 @@
         "jp": 88
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -10899,7 +11046,7 @@
         "jp": 86
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -10962,7 +11109,7 @@
         "jp": 83
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -11088,7 +11235,7 @@
         "jp": 77
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -11130,7 +11277,7 @@
         "jp": 75
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -11193,7 +11340,7 @@
         "jp": 72
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11214,7 +11361,7 @@
         "jp": 71
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -11340,7 +11487,7 @@
         "jp": 65
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -11382,7 +11529,7 @@
         "jp": 63
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11403,7 +11550,7 @@
         "jp": 62
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -11424,7 +11571,7 @@
         "jp": 61
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11445,7 +11592,7 @@
         "jp": 60
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11613,7 +11760,7 @@
         "jp": 52
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -11634,7 +11781,7 @@
         "jp": 51
       },
       "name": {
-        "en": "Hirotsu Ryuurou",
+        "en": "Hirotsu Ryurou",
         "jp": "広津柳浪"
       },
       "title": {
@@ -11655,7 +11802,7 @@
         "jp": 50
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11676,7 +11823,7 @@
         "jp": 49
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11697,7 +11844,7 @@
         "jp": 48
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11718,7 +11865,7 @@
         "jp": 47
       },
       "name": {
-        "en": "Nakahara Chuuya",
+        "en": "Nakahara Chuya",
         "jp": "中原中也"
       },
       "title": {
@@ -11739,7 +11886,7 @@
         "jp": 46
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -11760,7 +11907,7 @@
         "jp": 45
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -11781,7 +11928,7 @@
         "jp": 44
       },
       "name": {
-        "en": "Kajii Motojirou",
+        "en": "Kajii Motojiro",
         "jp": "梶井基次郎"
       },
       "title": {
@@ -11802,7 +11949,7 @@
         "jp": 43
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11823,7 +11970,7 @@
         "jp": 42
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11844,7 +11991,7 @@
         "jp": 41
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11865,7 +12012,7 @@
         "jp": 40
       },
       "name": {
-        "en": "Izumi Kyouka",
+        "en": "Izumi Kyoka",
         "jp": "泉鏡花"
       },
       "title": {
@@ -11928,7 +12075,7 @@
         "jp": 37
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -11949,7 +12096,7 @@
         "jp": 36
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -11970,7 +12117,7 @@
         "jp": 35
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -11991,7 +12138,7 @@
         "jp": 34
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -12012,7 +12159,7 @@
         "jp": 33
       },
       "name": {
-        "en": "Akutagawa Ryuunosuke",
+        "en": "Akutagawa Ryunosuke",
         "jp": "芥川龍之介"
       },
       "title": {
@@ -12243,7 +12390,7 @@
         "jp": 22
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -12264,7 +12411,7 @@
         "jp": 21
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -12285,7 +12432,7 @@
         "jp": 20
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -12306,7 +12453,7 @@
         "jp": 19
       },
       "name": {
-        "en": "Tanizaki Junichirou",
+        "en": "Tanizaki Jun-ichiro",
         "jp": "谷崎潤一郎"
       },
       "title": {
@@ -12730,7 +12877,7 @@
       "mini_id": "100009",
       "unique_skill": 0,
       "name": {
-        "en": "Tanizaki Jun-ichiro (Drk) (Tanizaki Junichirou)",
+        "en": "Tanizaki Jun-ichiro (Drk)",
         "jp": "谷崎潤一郎(闇)"
       }
     },
@@ -12762,7 +12909,7 @@
       "mini_id": "100016",
       "unique_skill": 0,
       "name": {
-        "en": "Akutagawa Ryunosuke (Drk) (Akutagawa Ryuunosuke)",
+        "en": "Akutagawa Ryunosuke (Drk)",
         "jp": "芥川龍之介(闇)"
       }
     },
@@ -12770,7 +12917,7 @@
       "mini_id": "100017",
       "unique_skill": 0,
       "name": {
-        "en": "Akutagawa Ryunosuke (SSR)(Drk) (Akutagawa Ryuunosuke)",
+        "en": "Akutagawa Ryunosuke (SSR)(Drk)",
         "jp": "芥川龍之介（SSR)(闇)"
       }
     },
@@ -12786,7 +12933,7 @@
       "mini_id": "100019",
       "unique_skill": 0,
       "name": {
-        "en": "Kajii Motojiro (Em) (Kajii Motojirou)",
+        "en": "Kajii Motojiro (Em)",
         "jp": "梶井基次郎(翠)"
       }
     },
@@ -12794,7 +12941,7 @@
       "mini_id": "100020",
       "unique_skill": 0,
       "name": {
-        "en": "Nakahara Chuya (Drk) (Nakahara Chuuya)",
+        "en": "Nakahara Chuya (Drk)",
         "jp": "中原中也(闇)"
       }
     },
@@ -12810,7 +12957,7 @@
       "mini_id": "100022",
       "unique_skill": 0,
       "name": {
-        "en": "Hirotsu Ryurou (Drk) (Hirotsu Ryuurou)",
+        "en": "Hirotsu Ryurou (Drk)",
         "jp": "広津柳浪(闇)"
       }
     },
@@ -12834,7 +12981,7 @@
       "mini_id": "100028",
       "unique_skill": 0,
       "name": {
-        "en": "Izumi Kyoka (SSR)(Li) (Izumi Kyouka)",
+        "en": "Izumi Kyoka (SSR)(Li)",
         "jp": "泉鏡花（SSR）(光)"
       }
     },
@@ -12842,7 +12989,7 @@
       "mini_id": "100031",
       "unique_skill": 0,
       "name": {
-        "en": "フランシス・F(無) (Francis F.)",
+        "en": "フランシス・F(無) (Francis F)",
         "jp": "フランシス・F(無)"
       }
     },
@@ -12850,7 +12997,7 @@
       "mini_id": "100032",
       "unique_skill": 0,
       "name": {
-        "en": "Lucy M (Lucy M.)",
+        "en": "Lucy M",
         "jp": "ルーシー・M（紅）"
       }
     },
@@ -12890,7 +13037,7 @@
       "mini_id": "100064",
       "unique_skill": 0,
       "name": {
-        "en": "ジョン・S（闇） (John S.)",
+        "en": "ジョン・S（闇） (John S)",
         "jp": "ジョン・S（闇）"
       }
     },
@@ -12898,7 +13045,7 @@
       "mini_id": "100066",
       "unique_skill": 0,
       "name": {
-        "en": "ナサニエル・H（紅） (Nathaniel H.)",
+        "en": "ナサニエル・H（紅） (Nathaniel H)",
         "jp": "ナサニエル・H（紅）"
       }
     },
@@ -12906,7 +13053,7 @@
       "mini_id": "100067",
       "unique_skill": 0,
       "name": {
-        "en": "マーガレット・M（闇） (Margaret M.)",
+        "en": "マーガレット・M（闇） (Margaret M)",
         "jp": "マーガレット・M（闇）"
       }
     },
@@ -12922,7 +13069,7 @@
       "mini_id": "100071",
       "unique_skill": 0,
       "name": {
-        "en": "[異能MAX]フランシス・F(無) (Francis F.)",
+        "en": "[異能MAX]フランシス・F(無) (Francis F)",
         "jp": "[異能MAX]フランシス・F(無)"
       }
     },
@@ -12954,7 +13101,7 @@
       "mini_id": "100133",
       "unique_skill": 0,
       "name": {
-        "en": "学園夏服芥川龍之介（翠） (Akutagawa Ryuunosuke)",
+        "en": "学園夏服芥川龍之介（翠） (Akutagawa Ryunosuke)",
         "jp": "学園夏服芥川龍之介（翠）"
       }
     },
@@ -12970,7 +13117,7 @@
       "mini_id": "100146",
       "unique_skill": 0,
       "name": {
-        "en": "バンド中原中也（N） (Nakahara Chuuya)",
+        "en": "バンド中原中也（N） (Nakahara Chuya)",
         "jp": "バンド中原中也（光）"
       }
     },
@@ -12978,7 +13125,7 @@
       "mini_id": "100147",
       "unique_skill": 0,
       "name": {
-        "en": "バンド芥川龍之介（N） (Akutagawa Ryuunosuke)",
+        "en": "バンド芥川龍之介（N） (Akutagawa Ryunosuke)",
         "jp": "バンド芥川龍之介（紅）"
       }
     },
@@ -13026,7 +13173,7 @@
       "mini_id": "100153",
       "unique_skill": 0,
       "name": {
-        "en": "バンド谷崎潤一郎（N） (Tanizaki Junichirou)",
+        "en": "バンド谷崎潤一郎（N） (Tanizaki Jun-ichiro)",
         "jp": "バンド谷崎潤一郎（闇）"
       }
     },
@@ -13042,7 +13189,7 @@
       "mini_id": "100155",
       "unique_skill": 0,
       "name": {
-        "en": "バンド泉鏡花（N） (Izumi Kyouka)",
+        "en": "バンド泉鏡花（N） (Izumi Kyoka)",
         "jp": "バンド泉鏡花（蒼）"
       }
     },
@@ -13050,7 +13197,7 @@
       "mini_id": "100177",
       "unique_skill": 0,
       "name": {
-        "en": "夏祭りルーシー・M（闇） (Lucy M.)",
+        "en": "夏祭りルーシー・M（闇） (Lucy M)",
         "jp": "夏祭りルーシー・M（闇）"
       }
     },
@@ -13098,7 +13245,7 @@
       "mini_id": "100288",
       "unique_skill": 0,
       "name": {
-        "en": "夏の休暇ジョン・S（無） (John S.)",
+        "en": "夏の休暇ジョン・S（無） (John S)",
         "jp": "夏の休暇ジョン・S（無）"
       }
     },
@@ -13114,7 +13261,7 @@
       "mini_id": "100311",
       "unique_skill": 0,
       "name": {
-        "en": "[芸術の秋]梶井基次郎（無） (Kajii Motojirou)",
+        "en": "[芸術の秋]梶井基次郎（無） (Kajii Motojiro)",
         "jp": "[芸術の秋]梶井基次郎（無）"
       }
     },
@@ -13146,7 +13293,7 @@
       "mini_id": "100365",
       "unique_skill": 0,
       "name": {
-        "en": "[洋菓子]夢野久作 （無） (Yumeno Kyuusaku)",
+        "en": "[洋菓子]夢野久作 （無） (Yumeno Kyusaku)",
         "jp": "[洋菓子]夢野久作 （無）"
       }
     },
@@ -13170,7 +13317,7 @@
       "mini_id": "100402",
       "unique_skill": 0,
       "name": {
-        "en": "[天魔纏鎧]芥川龍之介(闇) (Akutagawa Ryuunosuke)",
+        "en": "[天魔纏鎧]芥川龍之介(闇) (Akutagawa Ryunosuke)",
         "jp": "[天魔纏鎧]芥川龍之介(闇)"
       }
     },
@@ -13250,7 +13397,7 @@
       "mini_id": "100449",
       "unique_skill": 0,
       "name": {
-        "en": "[大運動会]泉鏡花（無） (Izumi Kyouka)",
+        "en": "[大運動会]泉鏡花（無） (Izumi Kyoka)",
         "jp": "[大運動会]泉鏡花（無）"
       }
     },
@@ -13274,7 +13421,7 @@
       "mini_id": "100553",
       "unique_skill": 0,
       "name": {
-        "en": "[洋菓子]芥川龍之介（無） (Akutagawa Ryuunosuke)",
+        "en": "[洋菓子]芥川龍之介（無） (Akutagawa Ryunosuke)",
         "jp": "[洋菓子]芥川龍之介（無）"
       }
     },
@@ -13290,7 +13437,7 @@
       "mini_id": "100579",
       "unique_skill": 0,
       "name": {
-        "en": "[水族館]芥川龍之介（無） (Akutagawa Ryuunosuke)",
+        "en": "[水族館]芥川龍之介（無） (Akutagawa Ryunosuke)",
         "jp": "[水族館]芥川龍之介（無）"
       }
     },
@@ -13434,7 +13581,7 @@
       "mini_id": "200025",
       "unique_skill": 0,
       "name": {
-        "en": "Anne (Lucy M.)",
+        "en": "Anne (Lucy M)",
         "jp": "アン（紅）"
       }
     },
@@ -14082,7 +14229,7 @@
       "mini_id": "200106",
       "unique_skill": 0,
       "name": {
-        "en": "アン（2020年エイプリル/組合用） (Lucy M.)",
+        "en": "アン（2020年エイプリル/組合用） (Lucy M)",
         "jp": "アン（2020年エイプリル/組合用）"
       }
     },
@@ -14274,7 +14421,7 @@
       "mini_id": "200132",
       "unique_skill": 0,
       "name": {
-        "en": "[遊園地]マーク・T（無） (Mark T.)",
+        "en": "[遊園地]マーク・T（無） (Mark T)",
         "jp": "[遊園地]マーク・T（無）"
       }
     },
@@ -14316,6 +14463,30 @@
       "name": {
         "en": "桂正作（フード付き/光） (Katsura Shousaku)",
         "jp": "桂正作（フード付き/光）"
+      }
+    },
+    {
+      "mini_id": "200141",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(音楽隊) 蒼",
+        "jp": "敵_チンピラE(音楽隊) 蒼"
+      }
+    },
+    {
+      "mini_id": "200142",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(音楽隊) 紅",
+        "jp": "敵_チンピラF(音楽隊) 紅"
+      }
+    },
+    {
+      "mini_id": "200143",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボス(音楽隊) 無",
+        "jp": "敵_チンピラボス(音楽隊) 無"
       }
     }
   ]
