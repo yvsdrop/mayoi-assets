@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  <title>Bungo Animated Illustration Viewer</title>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const img_id = params.get('id');
+    document.title = 'Bungo Animation - ' + img_id;
+  </script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../spine-player.css">
+  <script type="text/javascript" src="../spine-player.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
+  <style>
+    .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
+    .nav-icons img {height:24px}
+    #spine-player-button-settings {display:none}
+  </style>
+  <meta name="description" content="Animated Illustrations viewer for the Bungo Stray Dogs mobile game.">
+</head>
+<body>
+  <div id="spine-player-container" style="height:100vh;max-height:1600px;padding:1em"></div>
+  <div class="nav-icons">
+    <a href="./"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/home/v7/gm_grey-48dp/2x/gm_home_gm_grey_48dp.png"></a>
+    <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
+  </div>
+  <script>
+    new spine.SpinePlayer("spine-player-container", {
+      skelUrl: `${img_id}/${img_id}.skel`,
+      atlasUrl: `${img_id}/${img_id}.atlas`,
+      premultipliedAlpha: false,
+      backgroundColor: "#00000000", // Transparent
+      fullScreenBackgroundColor: "#ffffffff", // Transparent
+      alpha: true,
+      viewport: {
+        debugRender: false,
+      },
+      showControls: true,
+    });
+  </script>
+</body>
+</html>

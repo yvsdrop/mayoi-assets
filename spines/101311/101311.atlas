@@ -1,0 +1,418 @@
+
+101311.png
+size: 2000,1639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 462, 1479
+  size: 170, 103
+  orig: 170, 103
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 804, 697
+  size: 357, 393
+  orig: 357, 393
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 620, 93
+  size: 602, 514
+  orig: 602, 514
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 576, 1584
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+eff_black1
+  rotate: false
+  xy: 2, 1627
+  size: 13, 10
+  orig: 15, 13
+  offset: 1, 1
+  index: -1
+eff_black2
+  rotate: true
+  xy: 512, 1588
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+eff_black3
+  rotate: true
+  xy: 2, 1517
+  size: 90, 121
+  orig: 92, 123
+  offset: 1, 1
+  index: -1
+eff_black4
+  rotate: false
+  xy: 663, 1583
+  size: 111, 54
+  orig: 113, 56
+  offset: 1, 1
+  index: -1
+eff_black5
+  rotate: false
+  xy: 126, 1607
+  size: 40, 30
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+eff_black6
+  rotate: true
+  xy: 17, 1627
+  size: 10, 68
+  orig: 12, 70
+  offset: 1, 1
+  index: -1
+eff_black7
+  rotate: true
+  xy: 839, 1577
+  size: 60, 71
+  orig: 62, 73
+  offset: 1, 1
+  index: -1
+eff_black8
+  rotate: false
+  xy: 125, 1503
+  size: 101, 98
+  orig: 103, 100
+  offset: 1, 1
+  index: -1
+eff_fire1
+  rotate: false
+  xy: 286, 1594
+  size: 47, 43
+  orig: 54, 49
+  offset: 4, 3
+  index: -1
+eff_fire2
+  rotate: false
+  xy: 386, 1590
+  size: 124, 47
+  orig: 130, 53
+  offset: 3, 3
+  index: -1
+eff_fire3
+  rotate: false
+  xy: 615, 1321
+  size: 174, 150
+  orig: 181, 157
+  offset: 3, 4
+  index: -1
+eff_fire4
+  rotate: false
+  xy: 1882, 1555
+  size: 116, 82
+  orig: 122, 89
+  offset: 3, 4
+  index: -1
+eff_fire5
+  rotate: true
+  xy: 228, 1490
+  size: 98, 232
+  orig: 104, 238
+  offset: 3, 3
+  index: -1
+eff_fire6
+  rotate: false
+  xy: 1772, 1424
+  size: 164, 129
+  orig: 169, 135
+  offset: 2, 3
+  index: -1
+eff_fire7
+  rotate: false
+  xy: 233, 1595
+  size: 51, 42
+  orig: 58, 47
+  offset: 4, 2
+  index: -1
+eff_fire8
+  rotate: true
+  xy: 1371, 1441
+  size: 122, 186
+  orig: 128, 193
+  offset: 3, 3
+  index: -1
+eff_fire9
+  rotate: true
+  xy: 1158, 1568
+  size: 69, 85
+  orig: 76, 91
+  offset: 3, 3
+  index: -1
+eff_flame1
+  rotate: false
+  xy: 1588, 1220
+  size: 278, 202
+  orig: 282, 206
+  offset: 2, 2
+  index: -1
+eff_flame2
+  rotate: false
+  xy: 1058, 1299
+  size: 247, 154
+  orig: 251, 157
+  offset: 2, 1
+  index: -1
+eff_flame3
+  rotate: false
+  xy: 1559, 1433
+  size: 211, 125
+  orig: 215, 128
+  offset: 2, 1
+  index: -1
+eff_flame4
+  rotate: false
+  xy: 976, 1573
+  size: 180, 64
+  orig: 184, 68
+  offset: 2, 2
+  index: -1
+eff_flame5
+  rotate: true
+  xy: 335, 1594
+  size: 43, 49
+  orig: 47, 52
+  offset: 2, 1
+  index: -1
+eff_floor
+  rotate: false
+  xy: 1225, 999
+  size: 336, 250
+  orig: 338, 252
+  offset: 1, 1
+  index: -1
+eff_under_l
+  rotate: true
+  xy: 2, 255
+  size: 484, 616
+  orig: 490, 620
+  offset: 3, 1
+  index: -1
+eff_wind1
+  rotate: false
+  xy: 293, 1100
+  size: 363, 219
+  orig: 368, 224
+  offset: 2, 3
+  index: -1
+eff_wind2
+  rotate: true
+  xy: 2, 786
+  size: 312, 420
+  orig: 316, 425
+  offset: 2, 3
+  index: -1
+eff_wind3
+  rotate: true
+  xy: 1563, 956
+  size: 262, 382
+  orig: 266, 387
+  offset: 2, 2
+  index: -1
+eff_wind4
+  rotate: true
+  xy: 1199, 518
+  size: 436, 462
+  orig: 441, 468
+  offset: 3, 3
+  index: -1
+eye1
+  rotate: false
+  xy: 1626, 1562
+  size: 126, 75
+  orig: 126, 75
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1754, 1560
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 1500, 1565
+  size: 124, 72
+  orig: 124, 72
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 940, 1056
+  size: 241, 283
+  orig: 241, 283
+  offset: 0, 0
+  index: -1
+hair_f1_edit
+  rotate: false
+  xy: 807, 1465
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+hair_l
+  rotate: true
+  xy: 1371, 1566
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+hair_r1
+  rotate: false
+  xy: 348, 1334
+  size: 265, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+hair_r2
+  rotate: false
+  xy: 1159, 1455
+  size: 210, 111
+  orig: 210, 111
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: true
+  xy: 776, 1578
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 168, 1603
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 87, 1609
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+shadow_arm_l
+  rotate: false
+  xy: 634, 1473
+  size: 171, 103
+  orig: 171, 103
+  offset: 0, 0
+  index: -1
+shadow_arm_r
+  rotate: true
+  xy: 424, 741
+  size: 330, 378
+  orig: 334, 381
+  offset: 2, 1
+  index: -1
+shadow_body
+  rotate: false
+  xy: 1136, 2
+  size: 603, 514
+  orig: 603, 514
+  offset: 0, 0
+  index: -1
+shadow_face
+  rotate: true
+  xy: 658, 1073
+  size: 239, 280
+  orig: 243, 284
+  offset: 2, 2
+  index: -1
+shadow_hair_l
+  rotate: true
+  xy: 1245, 1568
+  size: 69, 124
+  orig: 71, 127
+  offset: 1, 1
+  index: -1
+shadow_hair_r1
+  rotate: false
+  xy: 791, 1314
+  size: 265, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+shadow_hair_r2
+  rotate: false
+  xy: 949, 1459
+  size: 208, 107
+  orig: 211, 111
+  offset: 2, 2
+  index: -1
+shadow_hair_top
+  rotate: true
+  xy: 912, 1577
+  size: 60, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+shadow_shoulder_l
+  rotate: false
+  xy: 174, 1357
+  size: 172, 131
+  orig: 175, 134
+  offset: 1, 1
+  index: -1
+shadow_shoulder_r
+  rotate: false
+  xy: 1307, 1251
+  size: 279, 180
+  orig: 283, 183
+  offset: 2, 2
+  index: -1
+shoulder_l
+  rotate: false
+  xy: 2, 1372
+  size: 170, 129
+  orig: 174, 133
+  offset: 2, 2
+  index: -1
+shoulder_r
+  rotate: false
+  xy: 2, 1153
+  size: 289, 202
+  orig: 294, 207
+  offset: 4, 3
+  index: -1
+
+1013112.png
+size: 1944,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_blue10
+  rotate: false
+  xy: 704, 80
+  size: 613, 831
+  orig: 625, 845
+  offset: 7, 6
+  index: -1
+eff_explosion
+  rotate: true
+  xy: 1319, 261
+  size: 650, 623
+  orig: 654, 627
+  offset: 2, 3
+  index: -1
+eff_smog_purple
+  rotate: false
+  xy: 2, 2
+  size: 700, 909
+  orig: 704, 968
+  offset: 3, 14
+  index: -1
