@@ -5,7 +5,7 @@
       "img_id": "101313",
       "release_time": 1623819600,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -27,7 +27,7 @@
       "img_id": "101311",
       "release_time": 1623819600,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -49,7 +49,7 @@
       "img_id": "101243",
       "release_time": 1623301200,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -70,7 +70,7 @@
       "img_id": "101235",
       "release_time": 1623301200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -91,7 +91,7 @@
       "img_id": "101241",
       "release_time": 1623301200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -112,7 +112,7 @@
       "img_id": "101239",
       "release_time": 1623301200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -133,7 +133,7 @@
       "img_id": "101237",
       "release_time": 1623301200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -154,7 +154,7 @@
       "img_id": "101227",
       "release_time": 1623128400,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -175,7 +175,7 @@
       "img_id": "101233",
       "release_time": 1622696400,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -196,7 +196,7 @@
       "img_id": "101231",
       "release_time": 1622696400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -217,7 +217,7 @@
       "img_id": "101229",
       "release_time": 1622696400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -238,7 +238,7 @@
       "img_id": "101225",
       "release_time": 1622523600,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -259,7 +259,7 @@
       "img_id": "101221",
       "release_time": 1621486800,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -280,7 +280,7 @@
       "img_id": "101219",
       "release_time": 1621486800,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -301,7 +301,7 @@
       "img_id": "101217",
       "release_time": 1621486800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -322,7 +322,7 @@
       "img_id": "101215",
       "release_time": 1621486800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -343,7 +343,7 @@
       "img_id": "121183",
       "release_time": 1620795600,
       "affinity": 4,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -364,7 +364,7 @@
       "img_id": "101183",
       "release_time": 1620795600,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -385,7 +385,7 @@
       "img_id": "101201",
       "release_time": 1619845200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -406,7 +406,7 @@
       "img_id": "101213",
       "release_time": 1619586000,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -427,7 +427,7 @@
       "img_id": "101211",
       "release_time": 1619586000,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -448,7 +448,7 @@
       "img_id": "101209",
       "release_time": 1619586000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -469,7 +469,7 @@
       "img_id": "101207",
       "release_time": 1619586000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -490,7 +490,7 @@
       "img_id": "101205",
       "release_time": 1619586000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -511,7 +511,7 @@
       "img_id": "101203",
       "release_time": 1619586000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -532,7 +532,7 @@
       "img_id": "101181",
       "release_time": 1619154000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -553,7 +553,7 @@
       "img_id": "101199",
       "release_time": 1618462800,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -574,7 +574,7 @@
       "img_id": "101197",
       "release_time": 1618462800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -595,7 +595,7 @@
       "img_id": "101195",
       "release_time": 1618462800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -616,7 +616,7 @@
       "img_id": "101193",
       "release_time": 1617858000,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -637,7 +637,7 @@
       "img_id": "101191",
       "release_time": 1617858000,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -658,7 +658,7 @@
       "img_id": "101189",
       "release_time": 1617858000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -679,7 +679,7 @@
       "img_id": "101187",
       "release_time": 1617858000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -700,7 +700,7 @@
       "img_id": "101185",
       "release_time": 1617858000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -721,7 +721,7 @@
       "img_id": "100899",
       "release_time": 1617253200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -742,7 +742,7 @@
       "img_id": "800151",
       "release_time": 1617202800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -763,7 +763,7 @@
       "img_id": "800149",
       "release_time": 1617202800,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -784,7 +784,7 @@
       "img_id": "800007",
       "release_time": 1617202800,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -805,7 +805,7 @@
       "img_id": "101179",
       "release_time": 1615438800,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -826,7 +826,7 @@
       "img_id": "101177",
       "release_time": 1615438800,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -847,7 +847,7 @@
       "img_id": "101175",
       "release_time": 1615438800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -868,7 +868,7 @@
       "img_id": "101173",
       "release_time": 1615438800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -889,7 +889,7 @@
       "img_id": "101223",
       "release_time": 1614834000,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -910,7 +910,7 @@
       "img_id": "101169",
       "release_time": 1614834000,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -931,7 +931,7 @@
       "img_id": "101167",
       "release_time": 1614834000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -952,7 +952,7 @@
       "img_id": "101165",
       "release_time": 1614834000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -973,7 +973,7 @@
       "img_id": "101163",
       "release_time": 1614834000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -994,7 +994,7 @@
       "img_id": "100897",
       "release_time": 1614574800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1015,7 +1015,7 @@
       "img_id": "101159",
       "release_time": 1614229200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1036,7 +1036,7 @@
       "img_id": "101155",
       "release_time": 1613624400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1057,7 +1057,7 @@
       "img_id": "101153",
       "release_time": 1613624400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1078,7 +1078,7 @@
       "img_id": "101151",
       "release_time": 1612933200,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -1099,7 +1099,7 @@
       "img_id": "101149",
       "release_time": 1612933200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1120,7 +1120,7 @@
       "img_id": "101147",
       "release_time": 1612933200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1141,7 +1141,7 @@
       "img_id": "101145",
       "release_time": 1612414800,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -1162,7 +1162,7 @@
       "img_id": "101143",
       "release_time": 1612414800,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -1183,7 +1183,7 @@
       "img_id": "101141",
       "release_time": 1612414800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1204,7 +1204,7 @@
       "img_id": "101139",
       "release_time": 1612414800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1225,7 +1225,7 @@
       "img_id": "101137",
       "release_time": 1612414800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1246,7 +1246,7 @@
       "img_id": "101135",
       "release_time": 1612414800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1267,7 +1267,7 @@
       "img_id": "101157",
       "release_time": 1612155600,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1288,7 +1288,7 @@
       "img_id": "101133",
       "release_time": 1611205200,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -1309,7 +1309,7 @@
       "img_id": "101131",
       "release_time": 1611205200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1330,7 +1330,7 @@
       "img_id": "101129",
       "release_time": 1611205200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1351,7 +1351,7 @@
       "img_id": "121127",
       "release_time": 1610600400,
       "affinity": 3,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1372,7 +1372,7 @@
       "img_id": "101127",
       "release_time": 1610600400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1393,7 +1393,7 @@
       "img_id": "101125",
       "release_time": 1609995600,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1414,7 +1414,7 @@
       "img_id": "101123",
       "release_time": 1609426800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1435,7 +1435,7 @@
       "img_id": "101121",
       "release_time": 1609426800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1456,7 +1456,7 @@
       "img_id": "101119",
       "release_time": 1609426800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1477,7 +1477,7 @@
       "img_id": "101117",
       "release_time": 1609426800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1498,7 +1498,7 @@
       "img_id": "101115",
       "release_time": 1609426800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1519,7 +1519,7 @@
       "img_id": "101113",
       "release_time": 1609426800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1540,7 +1540,7 @@
       "img_id": "101111",
       "release_time": 1609426800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1561,7 +1561,7 @@
       "img_id": "101109",
       "release_time": 1609426800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1582,7 +1582,7 @@
       "img_id": "101107",
       "release_time": 1609426800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1603,7 +1603,7 @@
       "img_id": "101103",
       "release_time": 1608872400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1624,7 +1624,7 @@
       "img_id": "101101",
       "release_time": 1608872400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1645,7 +1645,7 @@
       "img_id": "101097",
       "release_time": 1608526800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1666,7 +1666,7 @@
       "img_id": "101105",
       "release_time": 1607922000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1687,7 +1687,7 @@
       "img_id": "101089",
       "release_time": 1607922000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1708,7 +1708,7 @@
       "img_id": "101093",
       "release_time": 1607922000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1729,7 +1729,7 @@
       "img_id": "101091",
       "release_time": 1607922000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1750,7 +1750,7 @@
       "img_id": "101087",
       "release_time": 1607922000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1771,7 +1771,7 @@
       "img_id": "101085",
       "release_time": 1607922000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1792,7 +1792,7 @@
       "img_id": "101083",
       "release_time": 1607922000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1813,7 +1813,7 @@
       "img_id": "101081",
       "release_time": 1607922000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1834,7 +1834,7 @@
       "img_id": "101079",
       "release_time": 1607922000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1855,7 +1855,7 @@
       "img_id": "101099",
       "release_time": 1606971600,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1876,7 +1876,7 @@
       "img_id": "101095",
       "release_time": 1606798800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1897,7 +1897,7 @@
       "img_id": "101057",
       "release_time": 1606366800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1918,7 +1918,7 @@
       "img_id": "101055",
       "release_time": 1606366800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1939,7 +1939,7 @@
       "img_id": "101053",
       "release_time": 1606366800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -1960,7 +1960,7 @@
       "img_id": "101051",
       "release_time": 1605157200,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -1981,7 +1981,7 @@
       "img_id": "101049",
       "release_time": 1605157200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2002,7 +2002,7 @@
       "img_id": "101047",
       "release_time": 1605157200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2023,7 +2023,7 @@
       "img_id": "101045",
       "release_time": 1605157200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2044,7 +2044,7 @@
       "img_id": "101043",
       "release_time": 1605157200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2065,7 +2065,7 @@
       "img_id": "101041",
       "release_time": 1605157200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2086,7 +2086,7 @@
       "img_id": "120927",
       "release_time": 1604552400,
       "affinity": 2,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2107,7 +2107,7 @@
       "img_id": "100927",
       "release_time": 1604552400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2128,7 +2128,7 @@
       "img_id": "100647",
       "release_time": 1604206800,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2149,7 +2149,7 @@
       "img_id": "101059",
       "release_time": 1604206800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2170,7 +2170,7 @@
       "img_id": "100893",
       "release_time": 1604206800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2191,7 +2191,7 @@
       "img_id": "101037",
       "release_time": 1604206800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2212,7 +2212,7 @@
       "img_id": "101039",
       "release_time": 1603688400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2233,7 +2233,7 @@
       "img_id": "101077",
       "release_time": 1602738000,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2254,7 +2254,7 @@
       "img_id": "101075",
       "release_time": 1602738000,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2275,7 +2275,7 @@
       "img_id": "101073",
       "release_time": 1602738000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2296,7 +2296,7 @@
       "img_id": "101071",
       "release_time": 1602738000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2317,7 +2317,7 @@
       "img_id": "101069",
       "release_time": 1602738000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2338,7 +2338,7 @@
       "img_id": "101067",
       "release_time": 1602738000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2359,7 +2359,7 @@
       "img_id": "101035",
       "release_time": 1602133200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2380,7 +2380,7 @@
       "img_id": "101035",
       "release_time": 1602133200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2402,7 +2402,7 @@
       "img_id": "101033",
       "release_time": 1602133200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2423,7 +2423,7 @@
       "img_id": "101033",
       "release_time": 1602133200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2445,7 +2445,7 @@
       "img_id": "101031",
       "release_time": 1601701200,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2466,7 +2466,7 @@
       "img_id": "101029",
       "release_time": 1601701200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2487,7 +2487,7 @@
       "img_id": "101027",
       "release_time": 1601701200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2508,7 +2508,7 @@
       "img_id": "101013",
       "release_time": 1601528400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2529,7 +2529,7 @@
       "img_id": "101065",
       "release_time": 1601182800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2550,7 +2550,7 @@
       "img_id": "101063",
       "release_time": 1601182800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2571,7 +2571,7 @@
       "img_id": "101061",
       "release_time": 1601182800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2592,7 +2592,7 @@
       "img_id": "101009",
       "release_time": 1600578000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2613,7 +2613,7 @@
       "img_id": "101009",
       "release_time": 1600578000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2635,7 +2635,7 @@
       "img_id": "101011",
       "release_time": 1600578000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2656,7 +2656,7 @@
       "img_id": "101011",
       "release_time": 1600578000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -2678,7 +2678,7 @@
       "img_id": "101001",
       "release_time": 1599714000,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2699,7 +2699,7 @@
       "img_id": "100997",
       "release_time": 1599714000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2720,7 +2720,7 @@
       "img_id": "100999",
       "release_time": 1599714000,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2741,7 +2741,7 @@
       "img_id": "100995",
       "release_time": 1599714000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2762,7 +2762,7 @@
       "img_id": "100993",
       "release_time": 1599714000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2783,7 +2783,7 @@
       "img_id": "100991",
       "release_time": 1599714000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2804,7 +2804,7 @@
       "img_id": "101003",
       "release_time": 1599714000,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2825,7 +2825,7 @@
       "img_id": "101005",
       "release_time": 1598936400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2846,7 +2846,7 @@
       "img_id": "100533",
       "release_time": 1598504400,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2867,7 +2867,7 @@
       "img_id": "101007",
       "release_time": 1598504400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2888,7 +2888,7 @@
       "img_id": "100983",
       "release_time": 1597035600,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2909,7 +2909,7 @@
       "img_id": "100981",
       "release_time": 1597035600,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -2930,7 +2930,7 @@
       "img_id": "100979",
       "release_time": 1597035600,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2951,7 +2951,7 @@
       "img_id": "100977",
       "release_time": 1597035600,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2972,7 +2972,7 @@
       "img_id": "100975",
       "release_time": 1597035600,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -2993,7 +2993,7 @@
       "img_id": "100973",
       "release_time": 1597035600,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3014,7 +3014,7 @@
       "img_id": "100971",
       "release_time": 1597035600,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3035,7 +3035,7 @@
       "img_id": "100969",
       "release_time": 1597035600,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3056,7 +3056,7 @@
       "img_id": "100989",
       "release_time": 1596776400,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3077,7 +3077,7 @@
       "img_id": "100987",
       "release_time": 1596776400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3098,7 +3098,7 @@
       "img_id": "100985",
       "release_time": 1596776400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3119,7 +3119,7 @@
       "img_id": "120147",
       "release_time": 1596776400,
       "affinity": 1,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3140,7 +3140,7 @@
       "img_id": "100745",
       "release_time": 1596085200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3161,7 +3161,7 @@
       "img_id": "100963",
       "release_time": 1595394000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3182,7 +3182,7 @@
       "img_id": "100847",
       "release_time": 1594875600,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3203,7 +3203,7 @@
       "img_id": "100953",
       "release_time": 1594702800,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3224,7 +3224,7 @@
       "img_id": "100943",
       "release_time": 1594702800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3245,7 +3245,7 @@
       "img_id": "100951",
       "release_time": 1594270800,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3266,7 +3266,7 @@
       "img_id": "100949",
       "release_time": 1594270800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3287,7 +3287,7 @@
       "img_id": "100947",
       "release_time": 1594270800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3308,7 +3308,7 @@
       "img_id": "100945",
       "release_time": 1594270800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3329,7 +3329,7 @@
       "img_id": "100961",
       "release_time": 1593666000,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3350,7 +3350,7 @@
       "img_id": "100955",
       "release_time": 1593666000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3371,7 +3371,7 @@
       "img_id": "100959",
       "release_time": 1593666000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3392,7 +3392,7 @@
       "img_id": "100957",
       "release_time": 1593666000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3413,7 +3413,7 @@
       "img_id": "100965",
       "release_time": 1593579600,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3434,7 +3434,7 @@
       "img_id": "100925",
       "release_time": 1593061200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3455,7 +3455,7 @@
       "img_id": "100657",
       "release_time": 1593061200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3476,7 +3476,7 @@
       "img_id": "100939",
       "release_time": 1592542800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3497,7 +3497,7 @@
       "img_id": "100939",
       "release_time": 1592542800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3519,7 +3519,7 @@
       "img_id": "100937",
       "release_time": 1592110800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3540,7 +3540,7 @@
       "img_id": "100937",
       "release_time": 1592110800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3562,7 +3562,7 @@
       "img_id": "100935",
       "release_time": 1592110800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3583,7 +3583,7 @@
       "img_id": "100935",
       "release_time": 1592110800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3605,7 +3605,7 @@
       "img_id": "100941",
       "release_time": 1592110800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3626,7 +3626,7 @@
       "img_id": "100941",
       "release_time": 1592110800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
@@ -3648,7 +3648,7 @@
       "img_id": "100931",
       "release_time": 1591246800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3669,7 +3669,7 @@
       "img_id": "100929",
       "release_time": 1591246800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3690,7 +3690,7 @@
       "img_id": "100933",
       "release_time": 1591246800,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3711,7 +3711,7 @@
       "img_id": "100751",
       "release_time": 1590987600,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3732,7 +3732,7 @@
       "img_id": "100921",
       "release_time": 1590382800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3753,7 +3753,7 @@
       "img_id": "100905",
       "release_time": 1590037200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3774,7 +3774,7 @@
       "img_id": "100907",
       "release_time": 1590037200,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3795,7 +3795,7 @@
       "img_id": "100901",
       "release_time": 1589778000,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3816,7 +3816,7 @@
       "img_id": "100909",
       "release_time": 1589432400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3837,7 +3837,7 @@
       "img_id": "100911",
       "release_time": 1589432400,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3858,7 +3858,7 @@
       "img_id": "100913",
       "release_time": 1589432400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3879,7 +3879,7 @@
       "img_id": "100333",
       "release_time": 1589432400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3900,7 +3900,7 @@
       "img_id": "100539",
       "release_time": 1589432400,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3921,7 +3921,7 @@
       "img_id": "100967",
       "release_time": 1589432400,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -3942,7 +3942,7 @@
       "img_id": "100915",
       "release_time": 1589173200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3963,7 +3963,7 @@
       "img_id": "100919",
       "release_time": 1588482000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -3984,7 +3984,7 @@
       "img_id": "100917",
       "release_time": 1588482000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4005,7 +4005,7 @@
       "img_id": "100903",
       "release_time": 1588309200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4026,7 +4026,7 @@
       "img_id": "120125",
       "release_time": 1587618000,
       "affinity": 4,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4047,7 +4047,7 @@
       "img_id": "100883",
       "release_time": 1587013200,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4068,7 +4068,7 @@
       "img_id": "100881",
       "release_time": 1587013200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4089,7 +4089,7 @@
       "img_id": "100879",
       "release_time": 1587013200,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4110,7 +4110,7 @@
       "img_id": "100887",
       "release_time": 1587013200,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4131,7 +4131,7 @@
       "img_id": "100885",
       "release_time": 1587013200,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4152,7 +4152,7 @@
       "img_id": "100799",
       "release_time": 1586408400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4173,7 +4173,7 @@
       "img_id": "100877",
       "release_time": 1586149200,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4194,7 +4194,7 @@
       "img_id": "100875",
       "release_time": 1586149200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4215,7 +4215,7 @@
       "img_id": "100889",
       "release_time": 1585803600,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4236,7 +4236,7 @@
       "img_id": "100891",
       "release_time": 1585803600,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4257,7 +4257,7 @@
       "img_id": "800041",
       "release_time": 1585666800,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4278,7 +4278,7 @@
       "img_id": "800019",
       "release_time": 1585666800,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4299,7 +4299,7 @@
       "img_id": "100873",
       "release_time": 1585544400,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4320,7 +4320,7 @@
       "img_id": "100923",
       "release_time": 1584594000,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4341,7 +4341,7 @@
       "img_id": "100659",
       "release_time": 1584248400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4362,7 +4362,7 @@
       "img_id": "100833",
       "release_time": 1583989200,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4383,7 +4383,7 @@
       "img_id": "100831",
       "release_time": 1583989200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4404,7 +4404,7 @@
       "img_id": "100835",
       "release_time": 1583989200,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4425,7 +4425,7 @@
       "img_id": "100839",
       "release_time": 1583989200,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4446,7 +4446,7 @@
       "img_id": "100837",
       "release_time": 1583989200,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4467,7 +4467,7 @@
       "img_id": "100863",
       "release_time": 1583384400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4488,7 +4488,7 @@
       "img_id": "100861",
       "release_time": 1583384400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4509,7 +4509,7 @@
       "img_id": "100867",
       "release_time": 1583384400,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4530,7 +4530,7 @@
       "img_id": "100855",
       "release_time": 1583038800,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4551,7 +4551,7 @@
       "img_id": "100655",
       "release_time": 1582606800,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4572,7 +4572,7 @@
       "img_id": "100421",
       "release_time": 1582174800,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4593,7 +4593,7 @@
       "img_id": "100441",
       "release_time": 1582174800,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4614,7 +4614,7 @@
       "img_id": "100267",
       "release_time": 1582174800,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4635,7 +4635,7 @@
       "img_id": "100853",
       "release_time": 1582174800,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4656,7 +4656,7 @@
       "img_id": "100753",
       "release_time": 1581742800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4677,7 +4677,7 @@
       "img_id": "100857",
       "release_time": 1581570000,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4698,7 +4698,7 @@
       "img_id": "100859",
       "release_time": 1581570000,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4719,7 +4719,7 @@
       "img_id": "100747",
       "release_time": 1581570000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4740,7 +4740,7 @@
       "img_id": "100849",
       "release_time": 1581570000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4761,7 +4761,7 @@
       "img_id": "100851",
       "release_time": 1581570000,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4782,7 +4782,7 @@
       "img_id": "100845",
       "release_time": 1580792400,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4803,7 +4803,7 @@
       "img_id": "100843",
       "release_time": 1580792400,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4824,7 +4824,7 @@
       "img_id": "100841",
       "release_time": 1580792400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4845,7 +4845,7 @@
       "img_id": "100749",
       "release_time": 1580533200,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4866,7 +4866,7 @@
       "img_id": "100397",
       "release_time": 1579755600,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4887,7 +4887,7 @@
       "img_id": "120133",
       "release_time": 1579755600,
       "affinity": 2,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4908,7 +4908,7 @@
       "img_id": "100819",
       "release_time": 1579150800,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4929,7 +4929,7 @@
       "img_id": "100817",
       "release_time": 1579150800,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4950,7 +4950,7 @@
       "img_id": "100815",
       "release_time": 1579150800,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -4971,7 +4971,7 @@
       "img_id": "100529",
       "release_time": 1578063600,
       "affinity": 1,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -4992,7 +4992,7 @@
       "img_id": "100531",
       "release_time": 1578063600,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5013,7 +5013,7 @@
       "img_id": "100823",
       "release_time": 1577804400,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5034,7 +5034,7 @@
       "img_id": "100827",
       "release_time": 1577804400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5055,7 +5055,7 @@
       "img_id": "100825",
       "release_time": 1577804400,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5076,7 +5076,7 @@
       "img_id": "100821",
       "release_time": 1577804400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5097,7 +5097,7 @@
       "img_id": "120435",
       "release_time": 1577336400,
       "affinity": 1,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5118,7 +5118,7 @@
       "img_id": "120155",
       "release_time": 1577336400,
       "affinity": 3,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5139,7 +5139,7 @@
       "img_id": "100257",
       "release_time": 1576818000,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5160,7 +5160,7 @@
       "img_id": "100829",
       "release_time": 1576818000,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5181,7 +5181,7 @@
       "img_id": "100803",
       "release_time": 1576292400,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5202,7 +5202,7 @@
       "img_id": "100801",
       "release_time": 1576292400,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5223,7 +5223,7 @@
       "img_id": "100813",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5244,7 +5244,7 @@
       "img_id": "100811",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5265,7 +5265,7 @@
       "img_id": "100809",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5286,7 +5286,7 @@
       "img_id": "100807",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5307,7 +5307,7 @@
       "img_id": "100805",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5328,7 +5328,7 @@
       "img_id": "100797",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5349,7 +5349,7 @@
       "img_id": "100789",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5370,7 +5370,7 @@
       "img_id": "100757",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5391,7 +5391,7 @@
       "img_id": "100793",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5412,7 +5412,7 @@
       "img_id": "100795",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5433,7 +5433,7 @@
       "img_id": "100791",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5454,7 +5454,7 @@
       "img_id": "120279",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5475,7 +5475,7 @@
       "img_id": "120277",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5496,7 +5496,7 @@
       "img_id": "100775",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5517,7 +5517,7 @@
       "img_id": "100755",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5538,7 +5538,7 @@
       "img_id": "100251",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5559,7 +5559,7 @@
       "img_id": "100771",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5580,7 +5580,7 @@
       "img_id": "100773",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5601,7 +5601,7 @@
       "img_id": "100779",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5622,7 +5622,7 @@
       "img_id": "100777",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5643,7 +5643,7 @@
       "img_id": "100785",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5664,7 +5664,7 @@
       "img_id": "100783",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5685,7 +5685,7 @@
       "img_id": "100781",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5706,7 +5706,7 @@
       "img_id": "100787",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5727,7 +5727,7 @@
       "img_id": "100743",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5748,7 +5748,7 @@
       "img_id": "100741",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5769,7 +5769,7 @@
       "img_id": "100769",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5790,7 +5790,7 @@
       "img_id": "100761",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5811,7 +5811,7 @@
       "img_id": "100739",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5832,7 +5832,7 @@
       "img_id": "100737",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5853,7 +5853,7 @@
       "img_id": "100713",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5874,7 +5874,7 @@
       "img_id": "100765",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5895,7 +5895,7 @@
       "img_id": "100763",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -5916,7 +5916,7 @@
       "img_id": "100759",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5937,7 +5937,7 @@
       "img_id": "100767",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5958,7 +5958,7 @@
       "img_id": "100723",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -5979,7 +5979,7 @@
       "img_id": "100727",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6000,7 +6000,7 @@
       "img_id": "100725",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6021,7 +6021,7 @@
       "img_id": "100733",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6042,7 +6042,7 @@
       "img_id": "100735",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6063,7 +6063,7 @@
       "img_id": "100731",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6084,7 +6084,7 @@
       "img_id": "100729",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6105,7 +6105,7 @@
       "img_id": "100661",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6126,7 +6126,7 @@
       "img_id": "100721",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6147,7 +6147,7 @@
       "img_id": "100711",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6168,7 +6168,7 @@
       "img_id": "100709",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6189,7 +6189,7 @@
       "img_id": "100707",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6210,7 +6210,7 @@
       "img_id": "100715",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6231,7 +6231,7 @@
       "img_id": "100717",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6252,7 +6252,7 @@
       "img_id": "100701",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6273,7 +6273,7 @@
       "img_id": "100705",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6294,7 +6294,7 @@
       "img_id": "100703",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6315,7 +6315,7 @@
       "img_id": "100459",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6336,7 +6336,7 @@
       "img_id": "100679",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6357,7 +6357,7 @@
       "img_id": "100699",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6378,7 +6378,7 @@
       "img_id": "100693",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6399,7 +6399,7 @@
       "img_id": "100691",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6420,7 +6420,7 @@
       "img_id": "120141",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6441,7 +6441,7 @@
       "img_id": "100689",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6462,7 +6462,7 @@
       "img_id": "100687",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6483,7 +6483,7 @@
       "img_id": "100685",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6504,7 +6504,7 @@
       "img_id": "100683",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6525,7 +6525,7 @@
       "img_id": "100681",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6546,7 +6546,7 @@
       "img_id": "100669",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6567,7 +6567,7 @@
       "img_id": "100653",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6588,7 +6588,7 @@
       "img_id": "100651",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6609,7 +6609,7 @@
       "img_id": "100649",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6630,7 +6630,7 @@
       "img_id": "100645",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6651,7 +6651,7 @@
       "img_id": "100643",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6672,7 +6672,7 @@
       "img_id": "100663",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6693,7 +6693,7 @@
       "img_id": "100667",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6714,7 +6714,7 @@
       "img_id": "100665",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6735,7 +6735,7 @@
       "img_id": "100671",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6756,7 +6756,7 @@
       "img_id": "100511",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6777,7 +6777,7 @@
       "img_id": "100509",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6798,7 +6798,7 @@
       "img_id": "100675",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6819,7 +6819,7 @@
       "img_id": "100673",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6840,7 +6840,7 @@
       "img_id": "100537",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6861,7 +6861,7 @@
       "img_id": "100463",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6882,7 +6882,7 @@
       "img_id": "100253",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6903,7 +6903,7 @@
       "img_id": "100265",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6924,7 +6924,7 @@
       "img_id": "100263",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -6945,7 +6945,7 @@
       "img_id": "100635",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6966,7 +6966,7 @@
       "img_id": "100633",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -6987,7 +6987,7 @@
       "img_id": "100631",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7008,7 +7008,7 @@
       "img_id": "100629",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7029,7 +7029,7 @@
       "img_id": "100627",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7050,7 +7050,7 @@
       "img_id": "100695",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7071,7 +7071,7 @@
       "img_id": "100697",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7092,7 +7092,7 @@
       "img_id": "100617",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7113,7 +7113,7 @@
       "img_id": "100147",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7134,7 +7134,7 @@
       "img_id": "100623",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7155,7 +7155,7 @@
       "img_id": "100621",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7176,7 +7176,7 @@
       "img_id": "100625",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7197,7 +7197,7 @@
       "img_id": "120117",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7218,7 +7218,7 @@
       "img_id": "800063",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7239,7 +7239,7 @@
       "img_id": "100619",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7260,7 +7260,7 @@
       "img_id": "100641",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7281,7 +7281,7 @@
       "img_id": "100637",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7302,7 +7302,7 @@
       "img_id": "100639",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7323,7 +7323,7 @@
       "img_id": "100601",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7344,7 +7344,7 @@
       "img_id": "100613",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7365,7 +7365,7 @@
       "img_id": "100607",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7386,7 +7386,7 @@
       "img_id": "100603",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7407,7 +7407,7 @@
       "img_id": "100597",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7428,7 +7428,7 @@
       "img_id": "100595",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7449,7 +7449,7 @@
       "img_id": "100419",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7470,7 +7470,7 @@
       "img_id": "100417",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7491,7 +7491,7 @@
       "img_id": "100415",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7512,7 +7512,7 @@
       "img_id": "100413",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7533,7 +7533,7 @@
       "img_id": "120105",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7554,7 +7554,7 @@
       "img_id": "100609",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7575,7 +7575,7 @@
       "img_id": "100309",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7596,7 +7596,7 @@
       "img_id": "100305",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7617,7 +7617,7 @@
       "img_id": "100581",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7638,7 +7638,7 @@
       "img_id": "100451",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7659,7 +7659,7 @@
       "img_id": "100271",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7680,7 +7680,7 @@
       "img_id": "100591",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7701,7 +7701,7 @@
       "img_id": "100589",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7722,7 +7722,7 @@
       "img_id": "100587",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7743,7 +7743,7 @@
       "img_id": "100585",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7764,7 +7764,7 @@
       "img_id": "100135",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7785,7 +7785,7 @@
       "img_id": "100245",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7806,7 +7806,7 @@
       "img_id": "100139",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7827,7 +7827,7 @@
       "img_id": "100593",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7848,7 +7848,7 @@
       "img_id": "120069",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7869,7 +7869,7 @@
       "img_id": "100215",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7890,7 +7890,7 @@
       "img_id": "100525",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7911,7 +7911,7 @@
       "img_id": "100249",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7932,7 +7932,7 @@
       "img_id": "100583",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7953,7 +7953,7 @@
       "img_id": "120043",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -7974,7 +7974,7 @@
       "img_id": "100303",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -7995,7 +7995,7 @@
       "img_id": "100577",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8016,7 +8016,7 @@
       "img_id": "100575",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8037,7 +8037,7 @@
       "img_id": "100573",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8058,7 +8058,7 @@
       "img_id": "100571",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8079,7 +8079,7 @@
       "img_id": "100569",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8100,7 +8100,7 @@
       "img_id": "100567",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8121,7 +8121,7 @@
       "img_id": "100565",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8142,7 +8142,7 @@
       "img_id": "100561",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8163,7 +8163,7 @@
       "img_id": "100559",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8184,7 +8184,7 @@
       "img_id": "100563",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8205,7 +8205,7 @@
       "img_id": "100557",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8226,7 +8226,7 @@
       "img_id": "100555",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8247,7 +8247,7 @@
       "img_id": "100553",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8268,7 +8268,7 @@
       "img_id": "100551",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8289,7 +8289,7 @@
       "img_id": "100547",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8310,7 +8310,7 @@
       "img_id": "100549",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8331,7 +8331,7 @@
       "img_id": "100545",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8352,7 +8352,7 @@
       "img_id": "120393",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8373,7 +8373,7 @@
       "img_id": "120051",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8394,7 +8394,7 @@
       "img_id": "120035",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8415,7 +8415,7 @@
       "img_id": "120027",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8436,7 +8436,7 @@
       "img_id": "100523",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8457,7 +8457,7 @@
       "img_id": "100521",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8478,7 +8478,7 @@
       "img_id": "100519",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8499,7 +8499,7 @@
       "img_id": "100517",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8520,7 +8520,7 @@
       "img_id": "100515",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8541,7 +8541,7 @@
       "img_id": "100513",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8562,7 +8562,7 @@
       "img_id": "100535",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8583,7 +8583,7 @@
       "img_id": "100311",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8604,7 +8604,7 @@
       "img_id": "100307",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8625,7 +8625,7 @@
       "img_id": "100167",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8646,7 +8646,7 @@
       "img_id": "100163",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8667,7 +8667,7 @@
       "img_id": "100505",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8688,7 +8688,7 @@
       "img_id": "100503",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8709,7 +8709,7 @@
       "img_id": "100501",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8730,7 +8730,7 @@
       "img_id": "100409",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8751,7 +8751,7 @@
       "img_id": "100297",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8772,7 +8772,7 @@
       "img_id": "100403",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8793,7 +8793,7 @@
       "img_id": "100405",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8814,7 +8814,7 @@
       "img_id": "100351",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8835,7 +8835,7 @@
       "img_id": "100361",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8856,7 +8856,7 @@
       "img_id": "100347",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8877,7 +8877,7 @@
       "img_id": "100349",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8898,7 +8898,7 @@
       "img_id": "100359",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8919,7 +8919,7 @@
       "img_id": "100357",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -8940,7 +8940,7 @@
       "img_id": "100343",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8961,7 +8961,7 @@
       "img_id": "100345",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -8982,7 +8982,7 @@
       "img_id": "100355",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9003,7 +9003,7 @@
       "img_id": "100353",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9024,7 +9024,7 @@
       "img_id": "100363",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9045,7 +9045,7 @@
       "img_id": "100401",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9066,7 +9066,7 @@
       "img_id": "100543",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9087,7 +9087,7 @@
       "img_id": "100497",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9108,7 +9108,7 @@
       "img_id": "100321",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9129,7 +9129,7 @@
       "img_id": "100317",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9150,7 +9150,7 @@
       "img_id": "100491",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9171,7 +9171,7 @@
       "img_id": "100319",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9192,7 +9192,7 @@
       "img_id": "100315",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9213,7 +9213,7 @@
       "img_id": "100313",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9234,7 +9234,7 @@
       "img_id": "100499",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9255,7 +9255,7 @@
       "img_id": "120115",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9276,7 +9276,7 @@
       "img_id": "100495",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9297,7 +9297,7 @@
       "img_id": "100479",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9318,7 +9318,7 @@
       "img_id": "100471",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9339,7 +9339,7 @@
       "img_id": "100475",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9360,7 +9360,7 @@
       "img_id": "100477",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9381,7 +9381,7 @@
       "img_id": "100481",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9402,7 +9402,7 @@
       "img_id": "100469",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9423,7 +9423,7 @@
       "img_id": "100473",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9444,7 +9444,7 @@
       "img_id": "100483",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9465,7 +9465,7 @@
       "img_id": "100461",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9486,7 +9486,7 @@
       "img_id": "100435",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9507,7 +9507,7 @@
       "img_id": "120019",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9528,7 +9528,7 @@
       "img_id": "100485",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9549,7 +9549,7 @@
       "img_id": "100487",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9570,7 +9570,7 @@
       "img_id": "100431",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9591,7 +9591,7 @@
       "img_id": "100241",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9612,7 +9612,7 @@
       "img_id": "100155",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9633,7 +9633,7 @@
       "img_id": "100429",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9654,7 +9654,7 @@
       "img_id": "100427",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9675,7 +9675,7 @@
       "img_id": "100373",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9696,7 +9696,7 @@
       "img_id": "100369",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9717,7 +9717,7 @@
       "img_id": "100371",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9738,7 +9738,7 @@
       "img_id": "100367",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9759,7 +9759,7 @@
       "img_id": "100425",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9780,7 +9780,7 @@
       "img_id": "100423",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9801,7 +9801,7 @@
       "img_id": "120097",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9822,7 +9822,7 @@
       "img_id": "100243",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9843,7 +9843,7 @@
       "img_id": "100433",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9864,7 +9864,7 @@
       "img_id": "100153",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9885,7 +9885,7 @@
       "img_id": "100391",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9906,7 +9906,7 @@
       "img_id": "100387",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9927,7 +9927,7 @@
       "img_id": "100389",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9948,7 +9948,7 @@
       "img_id": "100395",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -9969,7 +9969,7 @@
       "img_id": "100385",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -9990,7 +9990,7 @@
       "img_id": "100393",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10011,7 +10011,7 @@
       "img_id": "100377",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10032,7 +10032,7 @@
       "img_id": "100133",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10053,7 +10053,7 @@
       "img_id": "100129",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10074,7 +10074,7 @@
       "img_id": "100127",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10095,7 +10095,7 @@
       "img_id": "100261",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10116,7 +10116,7 @@
       "img_id": "100399",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10137,7 +10137,7 @@
       "img_id": "100457",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10158,7 +10158,7 @@
       "img_id": "100365",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10179,7 +10179,7 @@
       "img_id": "100199",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10200,7 +10200,7 @@
       "img_id": "100445",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10221,7 +10221,7 @@
       "img_id": "100301",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10242,7 +10242,7 @@
       "img_id": "100381",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10263,7 +10263,7 @@
       "img_id": "100383",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10284,7 +10284,7 @@
       "img_id": "100201",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10305,7 +10305,7 @@
       "img_id": "100255",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10326,7 +10326,7 @@
       "img_id": "120009",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 10,
+      "rarity": 9,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10347,7 +10347,7 @@
       "img_id": "100281",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10368,7 +10368,7 @@
       "img_id": "100283",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10389,7 +10389,7 @@
       "img_id": "100285",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10410,7 +10410,7 @@
       "img_id": "100293",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10431,7 +10431,7 @@
       "img_id": "100341",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10452,7 +10452,7 @@
       "img_id": "100339",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10473,7 +10473,7 @@
       "img_id": "100323",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10494,7 +10494,7 @@
       "img_id": "100325",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10515,7 +10515,7 @@
       "img_id": "100125",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10536,7 +10536,7 @@
       "img_id": "100123",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10557,7 +10557,7 @@
       "img_id": "100119",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10578,7 +10578,7 @@
       "img_id": "800001",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10599,7 +10599,7 @@
       "img_id": "100259",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10620,7 +10620,7 @@
       "img_id": "100161",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10641,7 +10641,7 @@
       "img_id": "100157",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10662,7 +10662,7 @@
       "img_id": "100231",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10683,7 +10683,7 @@
       "img_id": "100151",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10704,7 +10704,7 @@
       "img_id": "100149",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10725,7 +10725,7 @@
       "img_id": "100335",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10746,7 +10746,7 @@
       "img_id": "100183",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10767,7 +10767,7 @@
       "img_id": "100179",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10788,7 +10788,7 @@
       "img_id": "100171",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10809,7 +10809,7 @@
       "img_id": "100177",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10830,7 +10830,7 @@
       "img_id": "100173",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10851,7 +10851,7 @@
       "img_id": "100175",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10872,7 +10872,7 @@
       "img_id": "100169",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10893,7 +10893,7 @@
       "img_id": "100291",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10914,7 +10914,7 @@
       "img_id": "100299",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10935,7 +10935,7 @@
       "img_id": "100191",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10956,7 +10956,7 @@
       "img_id": "100181",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -10977,7 +10977,7 @@
       "img_id": "100269",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -10998,7 +10998,7 @@
       "img_id": "100295",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11019,7 +11019,7 @@
       "img_id": "100289",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11040,7 +11040,7 @@
       "img_id": "100287",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11061,7 +11061,7 @@
       "img_id": "100331",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11082,7 +11082,7 @@
       "img_id": "100197",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11103,7 +11103,7 @@
       "img_id": "100195",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11124,7 +11124,7 @@
       "img_id": "100111",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11145,7 +11145,7 @@
       "img_id": "100189",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11166,7 +11166,7 @@
       "img_id": "100109",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11187,7 +11187,7 @@
       "img_id": "100107",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11208,7 +11208,7 @@
       "img_id": "100141",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11229,7 +11229,7 @@
       "img_id": "100279",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11250,7 +11250,7 @@
       "img_id": "100277",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11271,7 +11271,7 @@
       "img_id": "100217",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11292,7 +11292,7 @@
       "img_id": "100275",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11313,7 +11313,7 @@
       "img_id": "100273",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11334,7 +11334,7 @@
       "img_id": "100237",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11355,7 +11355,7 @@
       "img_id": "100239",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11376,7 +11376,7 @@
       "img_id": "100233",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11397,7 +11397,7 @@
       "img_id": "100235",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11418,7 +11418,7 @@
       "img_id": "100229",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11439,7 +11439,7 @@
       "img_id": "100223",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11460,7 +11460,7 @@
       "img_id": "100221",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11481,7 +11481,7 @@
       "img_id": "100219",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11502,7 +11502,7 @@
       "img_id": "100227",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11523,7 +11523,7 @@
       "img_id": "100225",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11544,7 +11544,7 @@
       "img_id": "100209",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11565,7 +11565,7 @@
       "img_id": "100207",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11586,7 +11586,7 @@
       "img_id": "100211",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11607,7 +11607,7 @@
       "img_id": "100213",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11628,7 +11628,7 @@
       "img_id": "100205",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11649,7 +11649,7 @@
       "img_id": "100203",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11670,7 +11670,7 @@
       "img_id": "100095",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11691,7 +11691,7 @@
       "img_id": "100093",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11712,7 +11712,7 @@
       "img_id": "100091",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11733,7 +11733,7 @@
       "img_id": "100089",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11754,7 +11754,7 @@
       "img_id": "100087",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11775,7 +11775,7 @@
       "img_id": "100085",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11796,7 +11796,7 @@
       "img_id": "100105",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11817,7 +11817,7 @@
       "img_id": "100103",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11838,7 +11838,7 @@
       "img_id": "100101",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11859,7 +11859,7 @@
       "img_id": "100099",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11880,7 +11880,7 @@
       "img_id": "100115",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11901,7 +11901,7 @@
       "img_id": "100083",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11922,7 +11922,7 @@
       "img_id": "100081",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11943,7 +11943,7 @@
       "img_id": "100117",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -11964,7 +11964,7 @@
       "img_id": "100079",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -11985,7 +11985,7 @@
       "img_id": "100077",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12006,7 +12006,7 @@
       "img_id": "100075",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12027,7 +12027,7 @@
       "img_id": "100073",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12048,7 +12048,7 @@
       "img_id": "100071",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12069,7 +12069,7 @@
       "img_id": "100069",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12090,7 +12090,7 @@
       "img_id": "100113",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12111,7 +12111,7 @@
       "img_id": "100067",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12132,7 +12132,7 @@
       "img_id": "100065",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12153,7 +12153,7 @@
       "img_id": "100063",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12174,7 +12174,7 @@
       "img_id": "100061",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12195,7 +12195,7 @@
       "img_id": "100059",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12216,7 +12216,7 @@
       "img_id": "100097",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12237,7 +12237,7 @@
       "img_id": "100057",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12258,7 +12258,7 @@
       "img_id": "100055",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12279,7 +12279,7 @@
       "img_id": "100053",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12300,7 +12300,7 @@
       "img_id": "100051",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12321,7 +12321,7 @@
       "img_id": "100049",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12342,7 +12342,7 @@
       "img_id": "100047",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12363,7 +12363,7 @@
       "img_id": "100045",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12384,7 +12384,7 @@
       "img_id": "100043",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12405,7 +12405,7 @@
       "img_id": "100041",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12426,7 +12426,7 @@
       "img_id": "100039",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12447,7 +12447,7 @@
       "img_id": "100037",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12468,7 +12468,7 @@
       "img_id": "100035",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12489,7 +12489,7 @@
       "img_id": "100033",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12510,7 +12510,7 @@
       "img_id": "100031",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12531,7 +12531,7 @@
       "img_id": "100029",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12552,7 +12552,7 @@
       "img_id": "100027",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12573,7 +12573,7 @@
       "img_id": "100025",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12594,7 +12594,7 @@
       "img_id": "100023",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12615,7 +12615,7 @@
       "img_id": "100021",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12636,7 +12636,7 @@
       "img_id": "100019",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12657,7 +12657,7 @@
       "img_id": "100017",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12678,7 +12678,7 @@
       "img_id": "100015",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12699,7 +12699,7 @@
       "img_id": "100013",
       "release_time": 0,
       "affinity": 5,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12720,7 +12720,7 @@
       "img_id": "100011",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12741,7 +12741,7 @@
       "img_id": "100009",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 8,
+      "rarity": 7,
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
@@ -12762,7 +12762,7 @@
       "img_id": "100007",
       "release_time": 0,
       "affinity": 4,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12783,7 +12783,7 @@
       "img_id": "100005",
       "release_time": 0,
       "affinity": 2,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12804,7 +12804,7 @@
       "img_id": "100003",
       "release_time": 0,
       "affinity": 3,
-      "rarity": 6,
+      "rarity": 5,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12825,7 +12825,7 @@
       "img_id": "100001",
       "release_time": 0,
       "affinity": 1,
-      "rarity": 4,
+      "rarity": 3,
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
@@ -12847,24 +12847,24 @@
       "mini_id": "100001",
       "unique_skill": 0,
       "name": {
-        "en": "中島敦（光） (Nakajima Atsushi)",
-        "jp": "中島敦（光）"
+        "en": "Nakajima Atsushi (Az)",
+        "jp": "中島敦(蒼)"
       }
     },
     {
       "mini_id": "100003",
       "unique_skill": 0,
       "name": {
-        "en": "太宰治(闇) (Dazai Osamu)",
-        "jp": "太宰治(闇)"
+        "en": "Dazai Osamu (Cr)",
+        "jp": "太宰治(紅)"
       }
     },
     {
       "mini_id": "100005",
       "unique_skill": 0,
       "name": {
-        "en": "国木田独歩（光） (Kunikida Doppo)",
-        "jp": "国木田独歩（光）"
+        "en": "国木田（紅） (Kunikida Doppo)",
+        "jp": "国木田（紅）"
       }
     },
     {
@@ -12879,8 +12879,8 @@
       "mini_id": "100009",
       "unique_skill": 0,
       "name": {
-        "en": "谷崎潤一郎（光） (Tanizaki Jun-ichiro)",
-        "jp": "谷崎潤一郎（光）"
+        "en": "Tanizaki Jun-ichiro (Drk)",
+        "jp": "谷崎潤一郎(闇)"
       }
     },
     {
@@ -12895,24 +12895,24 @@
       "mini_id": "100013",
       "unique_skill": 0,
       "name": {
-        "en": "与謝野晶子(闇) (Yosano Akiko)",
-        "jp": "与謝野晶子(闇)"
+        "en": "与謝野晶子（Em） (Yosano Akiko)",
+        "jp": "与謝野晶子（翠）"
       }
     },
     {
       "mini_id": "100015",
       "unique_skill": 0,
       "name": {
-        "en": "福沢諭吉（闇） (Fukuzawa Yukichi)",
-        "jp": "福沢諭吉（闇）"
+        "en": "福沢諭吉（無） (Fukuzawa Yukichi)",
+        "jp": "福沢諭吉（無）"
       }
     },
     {
       "mini_id": "100016",
       "unique_skill": 0,
       "name": {
-        "en": "芥川龍之介(蒼) (Akutagawa Ryunosuke)",
-        "jp": "芥川龍之介(蒼)"
+        "en": "Akutagawa Ryunosuke (Drk)",
+        "jp": "芥川龍之介(闇)"
       }
     },
     {
@@ -12927,16 +12927,16 @@
       "mini_id": "100018",
       "unique_skill": 0,
       "name": {
-        "en": "Higuchi Ichiyou(Li)",
-        "jp": "樋口一葉(光)"
+        "en": "Higuchi Ichiyou (Cr)",
+        "jp": "樋口一葉(紅)"
       }
     },
     {
       "mini_id": "100019",
       "unique_skill": 0,
       "name": {
-        "en": "Kajii Motojiro (Drk)",
-        "jp": "梶井基次郎（闇）"
+        "en": "Kajii Motojiro (Em)",
+        "jp": "梶井基次郎(翠)"
       }
     },
     {
@@ -12951,8 +12951,8 @@
       "mini_id": "100021",
       "unique_skill": 0,
       "name": {
-        "en": "Mori Ougai (Az)",
-        "jp": "森鴎外(蒼)"
+        "en": "森鴎外（無） (Mori Ougai)",
+        "jp": "森鴎外（無）"
       }
     },
     {
@@ -12967,16 +12967,16 @@
       "mini_id": "100023",
       "unique_skill": 0,
       "name": {
-        "en": "Tachihara Michizou (Cri)",
-        "jp": "立原道造(紅)"
+        "en": "Tachihara Michizou (Az)",
+        "jp": "立原道造(蒼)"
       }
     },
     {
       "mini_id": "100024",
       "unique_skill": 0,
       "name": {
-        "en": "Gin (Drk)",
-        "jp": "銀(闇)"
+        "en": "Gin (Cr)",
+        "jp": "銀(紅)"
       }
     },
     {
@@ -12991,8 +12991,8 @@
       "mini_id": "100031",
       "unique_skill": 0,
       "name": {
-        "en": "Francis F(Em)",
-        "jp": "フランシス・F(翠)"
+        "en": "フランシス・F(無) (Francis F)",
+        "jp": "フランシス・F(無)"
       }
     },
     {
@@ -13015,16 +13015,16 @@
       "mini_id": "100041",
       "unique_skill": 0,
       "name": {
-        "en": "織田作之助（光） (Oda Sakunosuke)",
-        "jp": "織田作之助（光）"
+        "en": "織田作（蒼） (Oda Sakunosuke)",
+        "jp": "織田作（蒼）"
       }
     },
     {
       "mini_id": "100048",
       "unique_skill": 0,
       "name": {
-        "en": "ジイド（光） (Gide)",
-        "jp": "ジイド（光）"
+        "en": "Gide(Drk)",
+        "jp": "ジイド（闇）"
       }
     },
     {
@@ -13047,24 +13047,24 @@
       "mini_id": "100066",
       "unique_skill": 0,
       "name": {
-        "en": "ナサニエル（光） (Nathaniel H)",
-        "jp": "ナサニエル（光）"
+        "en": "ナサニエル・H（紅） (Nathaniel H)",
+        "jp": "ナサニエル・H（紅）"
       }
     },
     {
       "mini_id": "100067",
       "unique_skill": 0,
       "name": {
-        "en": "マーガレット（光） (Margaret M)",
-        "jp": "マーガレット（光）"
+        "en": "マーガレット・M（闇） (Margaret M)",
+        "jp": "マーガレット・M（闇）"
       }
     },
     {
       "mini_id": "100068",
       "unique_skill": 0,
       "name": {
-        "en": "ラヴクラフト（無） (Lovecraft)",
-        "jp": "ラヴクラフト（無）"
+        "en": "ラヴクラフト（闇） (Lovecraft)",
+        "jp": "ラヴクラフト（闇）"
       }
     },
     {
@@ -13455,64 +13455,64 @@
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
-        "en": "Thug C (Drk)",
-        "jp": "チンピラC(闇)"
+        "en": "Thug C (N)",
+        "jp": "チンピラC(無)"
       }
     },
     {
       "mini_id": "200002",
       "unique_skill": 0,
       "name": {
-        "en": "Thug A (Drk)",
-        "jp": "チンピラA(闇)"
+        "en": "Thug A (N)",
+        "jp": "チンピラA(無)"
       }
     },
     {
       "mini_id": "200003",
       "unique_skill": 0,
       "name": {
-        "en": "Mafia A (Drk)",
-        "jp": "マフィアA(闇)"
+        "en": "Mafia A (N)",
+        "jp": "マフィアA(無)"
       }
     },
     {
       "mini_id": "200004",
       "unique_skill": 0,
       "name": {
-        "en": "Mafia B (Drk)",
-        "jp": "マフィアB(闇)"
+        "en": "Mafia B (N)",
+        "jp": "マフィアB(無)"
       }
     },
     {
       "mini_id": "200005",
       "unique_skill": 0,
       "name": {
-        "en": "白虎（闇） (Nakajima Atsushi)",
-        "jp": "白虎（闇）"
+        "en": "Tiger (Cr) (Nakajima Atsushi)",
+        "jp": "虎(紅)"
       }
     },
     {
       "mini_id": "200006",
       "unique_skill": 0,
       "name": {
-        "en": "杉本巡査(Az)",
-        "jp": "杉本巡査(蒼)"
+        "en": "Officer Sugimoto (Em)",
+        "jp": "杉本巡査(翠)"
       }
     },
     {
       "mini_id": "200007",
       "unique_skill": 0,
       "name": {
-        "en": "金髪の青年(Cr)",
-        "jp": "金髪の青年(紅)"
+        "en": "Blond Guy (Li)",
+        "jp": "金髪の青年(光)"
       }
     },
     {
       "mini_id": "200008",
       "unique_skill": 0,
       "name": {
-        "en": "大男(Cr)",
-        "jp": "大男(紅)"
+        "en": "Large Man (Az)",
+        "jp": "大男(蒼)"
       }
     },
     {
@@ -13527,48 +13527,48 @@
       "mini_id": "200018",
       "unique_skill": 0,
       "name": {
-        "en": "Thug D (Drk)",
-        "jp": "チンピラD(闇)"
+        "en": "Thug D (N)",
+        "jp": "チンピラD(無)"
       }
     },
     {
       "mini_id": "200019",
       "unique_skill": 0,
       "name": {
-        "en": "Thug B (Drk)",
-        "jp": "チンピラB(闇)"
+        "en": "Thug B (N)",
+        "jp": "チンピラB(無)"
       }
     },
     {
       "mini_id": "200020",
       "unique_skill": 0,
       "name": {
-        "en": "Thug Boss (Drk)",
-        "jp": "チンピラボス(闇)"
+        "en": "Thug Boss (N)",
+        "jp": "チンピラボス(無)"
       }
     },
     {
       "mini_id": "200021",
       "unique_skill": 0,
       "name": {
-        "en": "Mafia C (Drk)",
-        "jp": "マフィアC(闇)"
+        "en": "Mafia C (N)",
+        "jp": "マフィアC(無)"
       }
     },
     {
       "mini_id": "200022",
       "unique_skill": 0,
       "name": {
-        "en": "Mafia D (Drk)",
-        "jp": "マフィアD(闇)"
+        "en": "Mafia D (N)",
+        "jp": "マフィアD(無)"
       }
     },
     {
       "mini_id": "200023",
       "unique_skill": 0,
       "name": {
-        "en": "Mafia Boss (Drk)",
-        "jp": "マフィアボス(闇)"
+        "en": "Mafia Boss (N)",
+        "jp": "マフィアボス(無)"
       }
     },
     {
@@ -13576,7 +13576,7 @@
       "unique_skill": 0,
       "name": {
         "en": "Karma Transit",
-        "jp": "カルマトランジット　闇"
+        "jp": "カルマトランジット　無"
       }
     },
     {
@@ -13592,7 +13592,7 @@
       "unique_skill": 0,
       "name": {
         "en": "Mimic Soldier",
-        "jp": "ミミック　闇"
+        "jp": "ミミック　無"
       }
     },
     {
@@ -13615,8 +13615,8 @@
       "mini_id": "200029",
       "unique_skill": 0,
       "name": {
-        "en": "一般人（ドグラマグラ）闇",
-        "jp": "一般人（ドグラマグラ）闇"
+        "en": "一般人（ドグラマグラ）無",
+        "jp": "一般人（ドグラマグラ）無"
       }
     },
     {
@@ -13624,7 +13624,7 @@
       "unique_skill": 0,
       "name": {
         "en": "Guild Troop",
-        "jp": "ギルドA　闇"
+        "jp": "ギルドA　無"
       }
     },
     {
@@ -13632,135 +13632,135 @@
       "unique_skill": 0,
       "name": {
         "en": "Guild Troop",
-        "jp": "ギルドB　闇"
+        "jp": "ギルドB　無"
       }
     },
     {
       "mini_id": "200032",
       "unique_skill": 0,
       "name": {
-        "en": "Goon A (Swimwear) Drk",
-        "jp": "汎用ザコA（水着）闇"
+        "en": "Goon A (Swimwear) Cr",
+        "jp": "汎用ザコA（水着）紅"
       }
     },
     {
       "mini_id": "200033",
       "unique_skill": 0,
       "name": {
-        "en": "Goon E (Swimwear) Drk",
-        "jp": "汎用ザコE（水着）闇"
+        "en": "Goon E (Swimwear) Cr",
+        "jp": "汎用ザコE（水着）紅"
       }
     },
     {
       "mini_id": "200034",
       "unique_skill": 0,
       "name": {
-        "en": "Goon B (Christmas) Drk",
-        "jp": "汎用ザコB（クリスマス）闇"
+        "en": "Goon B (Christmas) N",
+        "jp": "汎用ザコB（クリスマス）無"
       }
     },
     {
       "mini_id": "200035",
       "unique_skill": 0,
       "name": {
-        "en": "チンピラF（降誕祭）蒼",
-        "jp": "チンピラF（降誕祭）蒼"
+        "en": "Goon F (Christmas) N",
+        "jp": "汎用ザコF（クリスマス）無"
       }
     },
     {
       "mini_id": "200036",
       "unique_skill": 0,
       "name": {
-        "en": "Goon C (Christmas) Drk",
-        "jp": "汎用ザコC（クリスマス）闇"
+        "en": "Goon C (Christmas) N",
+        "jp": "汎用ザコC（クリスマス）無"
       }
     },
     {
       "mini_id": "200037",
       "unique_skill": 0,
       "name": {
-        "en": "Goon D (Christmas) Drk",
-        "jp": "汎用ザコD（クリスマス）闇"
+        "en": "Goon D (Christmas) N",
+        "jp": "汎用ザコD（クリスマス）無"
       }
     },
     {
       "mini_id": "200038",
       "unique_skill": 0,
       "name": {
-        "en": "Goon A (New Year) Drk",
-        "jp": "汎用ザコA（正月）闇"
+        "en": "Goon A (New Year) Cr",
+        "jp": "汎用ザコA（正月）紅"
       }
     },
     {
       "mini_id": "200039",
       "unique_skill": 0,
       "name": {
-        "en": "Goon E (New Year) Drk",
-        "jp": "汎用ザコE（正月）闇"
+        "en": "Goon E (New Year) Cr",
+        "jp": "汎用ザコE（正月）紅"
       }
     },
     {
       "mini_id": "200040",
       "unique_skill": 0,
       "name": {
-        "en": "Goon G (New Year) Drk",
-        "jp": "汎用ザコG（正月）闇"
+        "en": "Goon G (New Year) Cr",
+        "jp": "汎用ザコG（正月）紅"
       }
     },
     {
       "mini_id": "200041",
       "unique_skill": 0,
       "name": {
-        "en": "Goon H (New Year) Drk",
-        "jp": "汎用ザコH（正月）闇"
+        "en": "Goon H (New Year) Cr",
+        "jp": "汎用ザコH（正月）紅"
       }
     },
     {
       "mini_id": "200042",
       "unique_skill": 0,
       "name": {
-        "en": "Goon A (Swimwear) Drk",
-        "jp": "汎用ボスA（水着）闇"
+        "en": "Goon A (Swimwear) Cr",
+        "jp": "汎用ボスA（水着）紅"
       }
     },
     {
       "mini_id": "200043",
       "unique_skill": 0,
       "name": {
-        "en": "Goon D (Swimwear) Drk",
-        "jp": "汎用ザコD（水着）闇"
+        "en": "Goon D (Swimwear) Cr",
+        "jp": "汎用ザコD（水着）紅"
       }
     },
     {
       "mini_id": "200044",
       "unique_skill": 0,
       "name": {
-        "en": "Goon A (School) N",
-        "jp": "汎用ザコA（学園）無"
+        "en": "Goon A (School) Cr",
+        "jp": "汎用ザコA（学園）紅"
       }
     },
     {
       "mini_id": "200045",
       "unique_skill": 0,
       "name": {
-        "en": "Goon B (School) N",
-        "jp": "汎用ザコB（学園）無"
+        "en": "Goon B (School) Cr",
+        "jp": "汎用ザコB（学園）紅"
       }
     },
     {
       "mini_id": "200046",
       "unique_skill": 0,
       "name": {
-        "en": "Goon E (School) N",
-        "jp": "汎用ザコE（学園）無"
+        "en": "Goon E (School) Cr",
+        "jp": "汎用ザコE（学園）紅"
       }
     },
     {
       "mini_id": "200047",
       "unique_skill": 0,
       "name": {
-        "en": "Goon F (School) N",
-        "jp": "汎用ザコF（学園）無"
+        "en": "Goon F (School) Cr",
+        "jp": "汎用ザコF（学園）紅"
       }
     },
     {
@@ -13775,8 +13775,8 @@
       "mini_id": "200049",
       "unique_skill": 0,
       "name": {
-        "en": "マフィアD（正装）翠",
-        "jp": "マフィアD（正装）翠"
+        "en": "Sharp Dressed Boss",
+        "jp": "スーツレア 無"
       }
     },
     {
@@ -13791,8 +13791,8 @@
       "mini_id": "200051",
       "unique_skill": 0,
       "name": {
-        "en": "マフィアH（正装）ボス　無",
-        "jp": "マフィアH（正装）ボス　無"
+        "en": "Sharp Dressed Thug C",
+        "jp": "スーツC 紅"
       }
     },
     {
@@ -13831,8 +13831,8 @@
       "mini_id": "200056",
       "unique_skill": 0,
       "name": {
-        "en": "Pale Qilin Associate B(N)",
-        "jp": "白麒麟仲間B　無"
+        "en": "Pale Qilin Associate B(Drk)",
+        "jp": "白麒麟仲間B　闇"
       }
     },
     {
@@ -13847,24 +13847,24 @@
       "mini_id": "200058",
       "unique_skill": 0,
       "name": {
-        "en": "DA Mafia C(Li)",
-        "jp": "DAマフィアC　光"
+        "en": "DA Mafia C(Cr)",
+        "jp": "DAマフィアC　紅"
       }
     },
     {
       "mini_id": "200059",
       "unique_skill": 0,
       "name": {
-        "en": "DA Mafia A(Li)",
-        "jp": "DAマフィアA　光"
+        "en": "DA Mafia A(Em)",
+        "jp": "DAマフィアA　翠"
       }
     },
     {
       "mini_id": "200060",
       "unique_skill": 0,
       "name": {
-        "en": "祭りチンピラA（強化）　無",
-        "jp": "祭りチンピラA（強化）　無"
+        "en": "祭りチンピラA　翠",
+        "jp": "祭りチンピラA　翠"
       }
     },
     {
@@ -13959,8 +13959,8 @@
       "mini_id": "200072",
       "unique_skill": 0,
       "name": {
-        "en": "チンピラA（降誕祭）無",
-        "jp": "チンピラA（降誕祭）無"
+        "en": "降誕祭チンピラA　闇",
+        "jp": "降誕祭チンピラA　闇"
       }
     },
     {
@@ -14015,8 +14015,8 @@
       "mini_id": "200079",
       "unique_skill": 0,
       "name": {
-        "en": "龍　無",
-        "jp": "龍　無"
+        "en": "龍　紅",
+        "jp": "龍　紅"
       }
     },
     {
@@ -14135,8 +14135,8 @@
       "mini_id": "200094",
       "unique_skill": 0,
       "name": {
-        "en": "チンピラA（不思議な国）無",
-        "jp": "チンピラA（不思議な国）無"
+        "en": "チンピラA（不思議な国）光",
+        "jp": "チンピラA（不思議な国）光"
       }
     },
     {
@@ -14215,16 +14215,16 @@
       "mini_id": "200104",
       "unique_skill": 0,
       "name": {
-        "en": "ギルドA（正装）無",
-        "jp": "ギルドA（正装）無"
+        "en": "ギルドA（正装）紅",
+        "jp": "ギルドA（正装）紅"
       }
     },
     {
       "mini_id": "200105",
       "unique_skill": 0,
       "name": {
-        "en": "ギルドB（正装）無",
-        "jp": "ギルドB（正装）無"
+        "en": "ギルドB（正装）蒼",
+        "jp": "ギルドB（正装）蒼"
       }
     },
     {
@@ -14399,24 +14399,24 @@
       "mini_id": "200129",
       "unique_skill": 0,
       "name": {
-        "en": "敵_チンピラF(祝宴) 闇",
-        "jp": "敵_チンピラF(祝宴) 闇"
+        "en": "敵_チンピラF(祝宴) 紅",
+        "jp": "敵_チンピラF(祝宴) 紅"
       }
     },
     {
       "mini_id": "200130",
       "unique_skill": 0,
       "name": {
-        "en": "敵_チンピラE(祝宴) 闇",
-        "jp": "敵_チンピラE(祝宴) 闇"
+        "en": "敵_チンピラE(祝宴) 紅",
+        "jp": "敵_チンピラE(祝宴) 紅"
       }
     },
     {
       "mini_id": "200131",
       "unique_skill": 0,
       "name": {
-        "en": "敵_マフィアボスA(祝宴) 闇",
-        "jp": "敵_マフィアボスA(祝宴) 闇"
+        "en": "敵_マフィアボスA(祝宴) 紅",
+        "jp": "敵_マフィアボスA(祝宴) 紅"
       }
     },
     {
@@ -14479,8 +14479,8 @@
       "mini_id": "200142",
       "unique_skill": 0,
       "name": {
-        "en": "敵_チンピラF(音楽隊) 翠",
-        "jp": "敵_チンピラF(音楽隊) 翠"
+        "en": "敵_チンピラF(音楽隊) 紅",
+        "jp": "敵_チンピラF(音楽隊) 紅"
       }
     },
     {
