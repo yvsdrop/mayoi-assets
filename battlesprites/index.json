@@ -1,6 +1,195 @@
 {
   "characters": [
     {
+      "mini_id": "100605",
+      "img_id": "101261",
+      "release_time": 1626238800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 585,
+        "jp": 612
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "Summer Vacation",
+        "jp": "夏の休暇"
+      }
+    },
+    {
+      "mini_id": "100604",
+      "img_id": "101259",
+      "release_time": 1626238800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 584,
+        "jp": 611
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Summer Vacation",
+        "jp": "夏の休暇"
+      }
+    },
+    {
+      "mini_id": "100603",
+      "img_id": "101257",
+      "release_time": 1626238800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 583,
+        "jp": 610
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Summer Vacation",
+        "jp": "夏の休暇"
+      }
+    },
+    {
+      "mini_id": "100602",
+      "img_id": "101255",
+      "release_time": 1625115600,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 582,
+        "jp": 609
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100601",
+      "img_id": "101253",
+      "release_time": 1625115600,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 581,
+        "jp": 608
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100600",
+      "img_id": "101251",
+      "release_time": 1625115600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 580,
+        "jp": 607
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100599",
+      "img_id": "101249",
+      "release_time": 1625115600,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 579,
+        "jp": 606
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100598",
+      "img_id": "101247",
+      "release_time": 1625115600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 578,
+        "jp": 605
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100597",
+      "img_id": "101245",
+      "release_time": 1625115600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 577,
+        "jp": 604
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Sibling Routine",
+        "jp": "兄妹の日常"
+      }
+    },
+    {
       "mini_id": "100663",
       "img_id": "101313",
       "release_time": 1623819600,
@@ -13452,6 +13641,14 @@
       }
     },
     {
+      "mini_id": "100605",
+      "unique_skill": 0,
+      "name": {
+        "en": "[夏の休暇]マーク・T（無） (Mark T)",
+        "jp": "[夏の休暇]マーク・T（無）"
+      }
+    },
+    {
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
@@ -14465,6 +14662,30 @@
       "name": {
         "en": "桂正作（フード付き/光） (Katsura Shousaku)",
         "jp": "桂正作（フード付き/光）"
+      }
+    },
+    {
+      "mini_id": "200138",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(七夕) 翠",
+        "jp": "敵_チンピラE(七夕) 翠"
+      }
+    },
+    {
+      "mini_id": "200139",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(七夕) 光",
+        "jp": "敵_チンピラF(七夕) 光"
+      }
+    },
+    {
+      "mini_id": "200140",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボス(七夕) 無",
+        "jp": "敵_チンピラボス(七夕) 無"
       }
     },
     {
