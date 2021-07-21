@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100291",
+      "img_id": "100719",
+      "release_time": 1626843600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 586,
+        "jp": 613
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "House of Tragedy",
+        "jp": "惨劇の館"
+      }
+    },
+    {
       "mini_id": "100605",
       "img_id": "101261",
       "release_time": 1626238800,
