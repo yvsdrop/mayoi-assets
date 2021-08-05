@@ -1,6 +1,132 @@
 {
   "characters": [
     {
+      "mini_id": "100612",
+      "img_id": "101267",
+      "release_time": 1628139600,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 592,
+        "jp": 619
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100460",
+      "img_id": "101019",
+      "release_time": 1628139600,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 591,
+        "jp": 618
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Diviner",
+        "jp": "陰陽師"
+      }
+    },
+    {
+      "mini_id": "100461",
+      "img_id": "101021",
+      "release_time": 1628139600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 590,
+        "jp": 617
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100459",
+      "img_id": "101017",
+      "release_time": 1628139600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 589,
+        "jp": 616
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Diviner",
+        "jp": "陰陽師"
+      }
+    },
+    {
+      "mini_id": "100458",
+      "img_id": "101015",
+      "release_time": 1628139600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 588,
+        "jp": 615
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Diviner",
+        "jp": "陰陽師"
+      }
+    },
+    {
+      "mini_id": "100610",
+      "img_id": "101263",
+      "release_time": 1627794000,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 587,
+        "jp": 614
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Free Will",
+        "jp": "心志"
+      }
+    },
+    {
       "mini_id": "100291",
       "img_id": "100719",
       "release_time": 1626843600,
@@ -2806,7 +2932,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 594,
         "jp": 482
       },
       "name": {
@@ -2814,7 +2940,7 @@
         "jp": "ラヴクラフト"
       },
       "title": {
-        "en": "未知なる異形",
+        "en": "Unfamiliar Abnormality",
         "jp": "未知なる異形"
       }
     },
@@ -2827,7 +2953,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 594,
         "jp": 482
       },
       "name": {
@@ -2835,7 +2961,7 @@
         "jp": "ラヴクラフト"
       },
       "title": {
-        "en": "未知なる異形",
+        "en": "Unfamiliar Abnormality",
         "jp": "未知なる異形"
       },
       "extra": true
@@ -2849,7 +2975,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 593,
         "jp": 481
       },
       "name": {
@@ -2857,7 +2983,7 @@
         "jp": "谷崎潤一郎"
       },
       "title": {
-        "en": "幻影",
+        "en": "Phantasm",
         "jp": "幻影"
       }
     },
@@ -2870,7 +2996,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 593,
         "jp": 481
       },
       "name": {
@@ -2878,7 +3004,7 @@
         "jp": "谷崎潤一郎"
       },
       "title": {
-        "en": "幻影",
+        "en": "Phantasm",
         "jp": "幻影"
       },
       "extra": true
@@ -14579,6 +14705,22 @@
       "name": {
         "en": "敵_チンピラF(妖怪) 無",
         "jp": "敵_チンピラF(妖怪) 無"
+      }
+    },
+    {
+      "mini_id": "200123",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアC(陰陽師) 闇",
+        "jp": "敵_マフィアC(陰陽師) 闇"
+      }
+    },
+    {
+      "mini_id": "200124",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアボス(陰陽師) 無",
+        "jp": "敵_マフィアボス(陰陽師) 無"
       }
     },
     {
