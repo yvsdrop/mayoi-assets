@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100611",
+      "img_id": "101265",
+      "release_time": 1628744400,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 598,
+        "jp": 623
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Abandoned Railway",
+        "jp": "廃線"
+      }
+    },
+    {
+      "mini_id": "100619",
+      "img_id": "101281",
+      "release_time": 1628744400,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 597,
+        "jp": 622
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Summer Festival",
+        "jp": "夏祭り"
+      }
+    },
+    {
+      "mini_id": "100618",
+      "img_id": "101279",
+      "release_time": 1628744400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 596,
+        "jp": 621
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Summer Festival",
+        "jp": "夏祭り"
+      }
+    },
+    {
+      "mini_id": "100617",
+      "img_id": "101277",
+      "release_time": 1628744400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 595,
+        "jp": 620
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Summer Festival",
+        "jp": "夏祭り"
+      }
+    },
+    {
       "mini_id": "100612",
       "img_id": "101267",
       "release_time": 1628139600,
@@ -9973,7 +10057,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 600,
         "jp": 153
       },
       "name": {
@@ -9981,7 +10065,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "水着",
+        "en": "Swimwear",
         "jp": "水着"
       }
     },
@@ -9994,7 +10078,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 599,
         "jp": 152
       },
       "name": {
@@ -10002,7 +10086,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "西瓜割り",
+        "en": "Watermelon Splitting",
         "jp": "西瓜割り"
       }
     },
@@ -13793,6 +13877,14 @@
       "name": {
         "en": "[夏の休暇]マーク・T（無） (Mark T)",
         "jp": "[夏の休暇]マーク・T（無）"
+      }
+    },
+    {
+      "mini_id": "100619",
+      "unique_skill": 0,
+      "name": {
+        "en": "[夏祭り]ポオ（無） (Poe)",
+        "jp": "[夏祭り]ポオ（無）"
       }
     },
     {
