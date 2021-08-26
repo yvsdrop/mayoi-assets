@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100622",
+      "img_id": "101283",
+      "release_time": 1630472400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 603,
+        "jp": 628
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Privilege in Hand",
+        "jp": "掌中の権利"
+      }
+    },
+    {
+      "mini_id": "100613",
+      "img_id": "101269",
+      "release_time": 1629954000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 627
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "熱砂の御伽噺",
+        "jp": "熱砂の御伽噺"
+      }
+    },
+    {
+      "mini_id": "100616",
+      "img_id": "101275",
+      "release_time": 1629954000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 626
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "熱砂の御伽噺",
+        "jp": "熱砂の御伽噺"
+      }
+    },
+    {
+      "mini_id": "100615",
+      "img_id": "101273",
+      "release_time": 1629954000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 625
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "熱砂の御伽噺",
+        "jp": "熱砂の御伽噺"
+      }
+    },
+    {
+      "mini_id": "100614",
+      "img_id": "101271",
+      "release_time": 1629954000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 624
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "熱砂の御伽噺",
+        "jp": "熱砂の御伽噺"
+      }
+    },
+    {
       "mini_id": "100611",
       "img_id": "101265",
       "release_time": 1628744400,
@@ -10183,7 +10288,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 602,
         "jp": 147
       },
       "name": {
@@ -10191,7 +10296,7 @@
         "jp": "与謝野晶子"
       },
       "title": {
-        "en": "水着",
+        "en": "Swimwear",
         "jp": "水着"
       }
     },
@@ -10204,7 +10309,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 601,
         "jp": 146
       },
       "name": {
@@ -10212,7 +10317,7 @@
         "jp": "泉鏡花"
       },
       "title": {
-        "en": "水着",
+        "en": "Swimwear",
         "jp": "水着"
       }
     },
@@ -13880,6 +13985,14 @@
       }
     },
     {
+      "mini_id": "100613",
+      "unique_skill": 0,
+      "name": {
+        "en": "[熱砂の御伽噺]森鴎外（無）",
+        "jp": "[熱砂の御伽噺]森鴎外（無）"
+      }
+    },
+    {
       "mini_id": "100619",
       "unique_skill": 0,
       "name": {
@@ -14965,6 +15078,30 @@
       "name": {
         "en": "敵_チンピラボス(音楽隊) 無",
         "jp": "敵_チンピラボス(音楽隊) 無"
+      }
+    },
+    {
+      "mini_id": "200144",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアG(アラビアン) 無",
+        "jp": "敵_マフィアG(アラビアン) 無"
+      }
+    },
+    {
+      "mini_id": "200145",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアH(アラビアン) 無",
+        "jp": "敵_マフィアH(アラビアン) 無"
+      }
+    },
+    {
+      "mini_id": "200146",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアボスB(アラビアン) 無",
+        "jp": "敵_マフィアボスB(アラビアン) 無"
       }
     }
   ]
