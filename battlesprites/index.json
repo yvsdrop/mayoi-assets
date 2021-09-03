@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100643",
+      "img_id": "101305",
+      "release_time": 1630558800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 630
+      },
+      "name": {
+        "en": "Tanizaki Naomi",
+        "jp": "谷崎ナオミ"
+      },
+      "title": {
+        "en": "ダヰナー",
+        "jp": "ダヰナー"
+      }
+    },
+    {
+      "mini_id": "100642",
+      "img_id": "101303",
+      "release_time": 1630558800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 629
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "ダヰナー",
+        "jp": "ダヰナー"
+      }
+    },
+    {
       "mini_id": "100622",
       "img_id": "101283",
       "release_time": 1630472400,
@@ -2489,7 +2531,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 605,
         "jp": 510
       },
       "name": {
@@ -2497,7 +2539,7 @@
         "jp": "森鴎外"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
@@ -2510,7 +2552,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 604,
         "jp": 509
       },
       "name": {
@@ -2518,7 +2560,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "童話",
+        "en": "Fables",
         "jp": "童話"
       }
     },
