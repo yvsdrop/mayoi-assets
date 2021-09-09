@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100631",
+      "img_id": "101301",
+      "release_time": 1631163600,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 633
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "秋色遊歩",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
+      "mini_id": "100630",
+      "img_id": "101299",
+      "release_time": 1631163600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 632
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "秋色遊歩",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
+      "mini_id": "100629",
+      "img_id": "101297",
+      "release_time": 1631163600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 631
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "秋色遊歩",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
       "mini_id": "100643",
       "img_id": "101305",
       "release_time": 1630558800,
@@ -9,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 607,
         "jp": 630
       },
       "name": {
@@ -17,7 +80,7 @@
         "jp": "谷崎ナオミ"
       },
       "title": {
-        "en": "ダヰナー",
+        "en": "Diner",
         "jp": "ダヰナー"
       }
     },
@@ -30,7 +93,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 606,
         "jp": 629
       },
       "name": {
@@ -38,7 +101,7 @@
         "jp": "与謝野晶子"
       },
       "title": {
-        "en": "ダヰナー",
+        "en": "Diner",
         "jp": "ダヰナー"
       }
     },
@@ -914,7 +977,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 609,
         "jp": 587
       },
       "name": {
@@ -922,7 +985,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "迎撃",
+        "en": "Counter-Attack",
         "jp": "迎撃"
       }
     },
@@ -935,7 +998,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 608,
         "jp": 586
       },
       "name": {
@@ -943,7 +1006,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "迎撃",
+        "en": "Counter-Attack",
         "jp": "迎撃"
       }
     },
@@ -14040,6 +14103,14 @@
       "name": {
         "en": "[夏祭り]ポオ（無） (Poe)",
         "jp": "[夏祭り]ポオ（無）"
+      }
+    },
+    {
+      "mini_id": "100631",
+      "unique_skill": 0,
+      "name": {
+        "en": "[秋色遊歩]ルーシー・M（無）",
+        "jp": "[秋色遊歩]ルーシー・M（無）"
       }
     },
     {
