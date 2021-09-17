@@ -1,6 +1,134 @@
 {
   "characters": [
     {
+      "mini_id": "100627",
+      "img_id": "101293",
+      "release_time": 1631768400,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 615,
+        "jp": 639
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100625",
+      "img_id": "101289",
+      "release_time": 1631768400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 614,
+        "jp": 638
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100628",
+      "img_id": "101295",
+      "release_time": 1631768400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 613,
+        "jp": 637
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100626",
+      "img_id": "101291",
+      "release_time": 1631768400,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 612,
+        "jp": 636
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100624",
+      "img_id": "101287",
+      "release_time": 1631768400,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 611,
+        "jp": 635
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      },
+      "is_animation": 1
+    },
+    {
+      "mini_id": "100623",
+      "img_id": "101285",
+      "release_time": 1631768400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 610,
+        "jp": 634
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      },
+      "is_animation": 1
+    },
+    {
       "mini_id": "100631",
       "img_id": "101301",
       "release_time": 1631163600,
@@ -15215,6 +15343,30 @@
       "name": {
         "en": "敵_マフィアボスB(アラビアン) 無",
         "jp": "敵_マフィアボスB(アラビアン) 無"
+      }
+    },
+    {
+      "mini_id": "200147",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(十五夜) 紅",
+        "jp": "敵_チンピラA(十五夜) 紅"
+      }
+    },
+    {
+      "mini_id": "200148",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(十五夜) 光",
+        "jp": "敵_チンピラE(十五夜) 光"
+      }
+    },
+    {
+      "mini_id": "200149",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスB(十五夜) 無",
+        "jp": "敵_チンピラボスB(十五夜) 無"
       }
     }
   ]
