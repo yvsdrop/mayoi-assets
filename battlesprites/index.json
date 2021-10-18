@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100544",
+      "img_id": "101161",
+      "release_time": 1634533200,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 620,
+        "jp": 640
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Bygone Days",
+        "jp": "在りし日"
+      }
+    },
+    {
       "mini_id": "100627",
       "img_id": "101293",
       "release_time": 1631768400,
@@ -137,7 +158,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 618,
         "jp": 633
       },
       "name": {
@@ -145,7 +166,7 @@
         "jp": "ルーシー・M"
       },
       "title": {
-        "en": "秋色遊歩",
+        "en": "Autumn Colors",
         "jp": "秋色遊歩"
       }
     },
@@ -158,7 +179,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 617,
         "jp": 632
       },
       "name": {
@@ -166,7 +187,7 @@
         "jp": "ラヴクラフト"
       },
       "title": {
-        "en": "秋色遊歩",
+        "en": "Autumn Colors",
         "jp": "秋色遊歩"
       }
     },
@@ -179,7 +200,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 616,
         "jp": 631
       },
       "name": {
@@ -187,7 +208,7 @@
         "jp": "マーク・T"
       },
       "title": {
-        "en": "秋色遊歩",
+        "en": "Autumn Colors",
         "jp": "秋色遊歩"
       }
     },
@@ -9429,7 +9450,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 619,
         "jp": 199
       },
       "name": {
@@ -9437,7 +9458,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "仮装招宴",
+        "en": "Costume Party",
         "jp": "仮装招宴"
       }
     },
@@ -13973,7 +13994,7 @@
       "mini_id": "100193",
       "unique_skill": 0,
       "name": {
-        "en": "仮装招宴芥川龍之介（紅）",
+        "en": "仮装招宴芥川龍之介（Cr） (Akutagawa Ryunosuke)",
         "jp": "仮装招宴芥川龍之介（紅）"
       }
     },
@@ -14237,7 +14258,7 @@
       "mini_id": "100631",
       "unique_skill": 0,
       "name": {
-        "en": "[秋色遊歩]ルーシー・M（無）",
+        "en": "[秋色遊歩]ルーシー・M（無） (Lucy M)",
         "jp": "[秋色遊歩]ルーシー・M（無）"
       }
     },
