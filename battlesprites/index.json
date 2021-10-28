@@ -1,6 +1,153 @@
 {
   "characters": [
     {
+      "mini_id": "100664",
+      "img_id": "101315",
+      "release_time": 1635742800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 647
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "策動",
+        "jp": "策動"
+      }
+    },
+    {
+      "mini_id": "100721",
+      "img_id": "101427",
+      "release_time": 1635397200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 646
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰・中也"
+      },
+      "title": {
+        "en": "邂逅",
+        "jp": "邂逅"
+      }
+    },
+    {
+      "mini_id": "100669",
+      "img_id": "101325",
+      "release_time": 1634878800,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 625,
+        "jp": 645
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100668",
+      "img_id": "101323",
+      "release_time": 1634878800,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 624,
+        "jp": 644
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100667",
+      "img_id": "101321",
+      "release_time": 1634878800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 623,
+        "jp": 643
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100666",
+      "img_id": "101319",
+      "release_time": 1634878800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 622,
+        "jp": 642
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100665",
+      "img_id": "101317",
+      "release_time": 1634878800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 621,
+        "jp": 641
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
       "mini_id": "100544",
       "img_id": "101161",
       "release_time": 1634533200,
