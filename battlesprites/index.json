@@ -1,6 +1,70 @@
 {
   "characters": [
     {
+      "mini_id": "100672",
+      "img_id": "101331",
+      "release_time": 1636002000,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 650
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "天体観測",
+        "jp": "天体観測"
+      }
+    },
+    {
+      "mini_id": "100670",
+      "img_id": "101327",
+      "release_time": 1636002000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 649
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "天体観測",
+        "jp": "天体観測"
+      }
+    },
+    {
+      "mini_id": "100671",
+      "img_id": "101329",
+      "release_time": 1636002000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 648
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "天体観測",
+        "jp": "天体観測"
+      },
+      "is_animation": 1
+    },
+    {
       "mini_id": "100664",
       "img_id": "101315",
       "release_time": 1635742800,
@@ -9,7 +73,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 630,
         "jp": 647
       },
       "name": {
@@ -17,7 +81,7 @@
         "jp": "森鴎外"
       },
       "title": {
-        "en": "策動",
+        "en": "Instigator",
         "jp": "策動"
       }
     },
@@ -431,7 +495,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 629,
         "jp": 627
       },
       "name": {
@@ -439,7 +503,7 @@
         "jp": "森鴎外"
       },
       "title": {
-        "en": "熱砂の御伽噺",
+        "en": "Bazaar",
         "jp": "熱砂の御伽噺"
       }
     },
@@ -452,7 +516,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 628,
         "jp": 626
       },
       "name": {
@@ -460,7 +524,7 @@
         "jp": "梶井基次郎"
       },
       "title": {
-        "en": "熱砂の御伽噺",
+        "en": "Bazaar",
         "jp": "熱砂の御伽噺"
       }
     },
@@ -473,7 +537,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 627,
         "jp": 625
       },
       "name": {
@@ -481,7 +545,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "熱砂の御伽噺",
+        "en": "Bazaar",
         "jp": "熱砂の御伽噺"
       }
     },
@@ -494,7 +558,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 626,
         "jp": 624
       },
       "name": {
@@ -502,7 +566,7 @@
         "jp": "樋口一葉"
       },
       "title": {
-        "en": "熱砂の御伽噺",
+        "en": "Bazaar",
         "jp": "熱砂の御伽噺"
       }
     },
@@ -14389,7 +14453,7 @@
       "mini_id": "100613",
       "unique_skill": 0,
       "name": {
-        "en": "[熱砂の御伽噺]森鴎外（無）",
+        "en": "[熱砂の御伽噺]森鴎外（無） (Mori Ougai)",
         "jp": "[熱砂の御伽噺]森鴎外（無）"
       }
     },
@@ -14407,6 +14471,14 @@
       "name": {
         "en": "[秋色遊歩]ルーシー・M（無） (Lucy M)",
         "jp": "[秋色遊歩]ルーシー・M（無）"
+      }
+    },
+    {
+      "mini_id": "100672",
+      "unique_skill": 0,
+      "name": {
+        "en": "[天体観測]中島敦（無）",
+        "jp": "[天体観測]中島敦（無）"
       }
     },
     {
@@ -15535,6 +15607,30 @@
       "name": {
         "en": "敵_チンピラボスB(十五夜) 無",
         "jp": "敵_チンピラボスB(十五夜) 無"
+      }
+    },
+    {
+      "mini_id": "200150",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(天体観測)無",
+        "jp": "敵_チンピラA(天体観測)無"
+      }
+    },
+    {
+      "mini_id": "200151",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(天体観測)無",
+        "jp": "敵_チンピラE(天体観測)無"
+      }
+    },
+    {
+      "mini_id": "200152",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスA(天体観測)無",
+        "jp": "敵_チンピラボスA(天体観測)無"
       }
     }
   ]
