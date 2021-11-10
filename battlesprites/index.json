@@ -1,6 +1,112 @@
 {
   "characters": [
     {
+      "mini_id": "100689",
+      "img_id": "101369",
+      "release_time": 1636520400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 635,
+        "jp": 655
+      },
+      "name": {
+        "en": "Herman M",
+        "jp": "ハーマン・M"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100683",
+      "img_id": "101357",
+      "release_time": 1636520400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 634,
+        "jp": 654
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100682",
+      "img_id": "101355",
+      "release_time": 1636520400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 633,
+        "jp": 653
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100681",
+      "img_id": "101353",
+      "release_time": 1636520400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 632,
+        "jp": 652
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100680",
+      "img_id": "101351",
+      "release_time": 1636520400,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 631,
+        "jp": 651
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      },
+      "is_animation": 1
+    },
+    {
       "mini_id": "100672",
       "img_id": "101331",
       "release_time": 1636002000,
