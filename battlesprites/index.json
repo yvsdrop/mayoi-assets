@@ -1,6 +1,112 @@
 {
   "characters": [
     {
+      "mini_id": "100688",
+      "img_id": "101367",
+      "release_time": 1637211600,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 640,
+        "jp": 660
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100687",
+      "img_id": "101365",
+      "release_time": 1637211600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 639,
+        "jp": 659
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100686",
+      "img_id": "101363",
+      "release_time": 1637211600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 638,
+        "jp": 658
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100685",
+      "img_id": "101361",
+      "release_time": 1637211600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 637,
+        "jp": 657
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100684",
+      "img_id": "101359",
+      "release_time": 1637211600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 636,
+        "jp": 656
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Starry Winter Solstice",
+        "jp": "星の降誕祭"
+      },
+      "is_animation": 1
+    },
+    {
       "mini_id": "100689",
       "img_id": "101369",
       "release_time": 1636520400,
