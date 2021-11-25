@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100679",
+      "img_id": "101349",
+      "release_time": 1638334800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 661
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "応対",
+        "jp": "応対"
+      }
+    },
+    {
       "mini_id": "100688",
       "img_id": "101367",
       "release_time": 1637211600,
