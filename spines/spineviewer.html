@@ -32,7 +32,7 @@
     new spine.SpinePlayer("spine-player-container", {
       skelUrl: `${img_id}/${img_id}.skel`,
       atlasUrl: `${img_id}/${img_id}.atlas`,
-      premultipliedAlpha: false,
+      premultipliedAlpha: (img_id != '101311' && img_id != '101313'),
       backgroundColor: "#00000000", // Transparent
       fullScreenBackgroundColor: "#ffffffff", // Transparent
       alpha: true,
