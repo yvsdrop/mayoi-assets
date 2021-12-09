@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100645",
+      "img_id": "101309",
+      "release_time": 1639630800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 666
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "図書館",
+        "jp": "図書館"
+      }
+    },
+    {
+      "mini_id": "100644",
+      "img_id": "101307",
+      "release_time": 1639630800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 665
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "図書館",
+        "jp": "図書館"
+      }
+    },
+    {
+      "mini_id": "100549",
+      "img_id": "101343",
+      "release_time": 1639026000,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 647,
+        "jp": 664
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Blacknight Formalwear",
+        "jp": "黒夜の正装"
+      }
+    },
+    {
+      "mini_id": "100674",
+      "img_id": "101335",
+      "release_time": 1639026000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 646,
+        "jp": 663
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "Blacknight Formalwear",
+        "jp": "黒夜の正装"
+      }
+    },
+    {
+      "mini_id": "100673",
+      "img_id": "101333",
+      "release_time": 1639026000,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 645,
+        "jp": 662
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "Blacknight Formalwear",
+        "jp": "黒夜の正装"
+      }
+    },
+    {
       "mini_id": "100679",
       "img_id": "101349",
       "release_time": 1638334800,
@@ -9,7 +114,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 644,
         "jp": 661
       },
       "name": {
@@ -17,7 +122,7 @@
         "jp": "与謝野晶子"
       },
       "title": {
-        "en": "応対",
+        "en": "Service",
         "jp": "応対"
       }
     },
@@ -242,7 +347,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 643,
         "jp": 650
       },
       "name": {
@@ -250,7 +355,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "天体観測",
+        "en": "Star Gazer",
         "jp": "天体観測"
       }
     },
@@ -263,7 +368,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 642,
         "jp": 649
       },
       "name": {
@@ -271,7 +376,7 @@
         "jp": "谷崎潤一郎"
       },
       "title": {
-        "en": "天体観測",
+        "en": "Star Gazer",
         "jp": "天体観測"
       }
     },
@@ -284,7 +389,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 641,
         "jp": 648
       },
       "name": {
@@ -292,7 +397,7 @@
         "jp": "泉鏡花"
       },
       "title": {
-        "en": "天体観測",
+        "en": "Star Gazer",
         "jp": "天体観測"
       },
       "is_animation": 1
@@ -8319,7 +8424,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 648,
         "jp": 274
       },
       "name": {
@@ -8327,7 +8432,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "御祝い",
+        "en": "Celebration",
         "jp": "御祝い"
       }
     },
@@ -14310,8 +14415,8 @@
       "mini_id": "100129",
       "unique_skill": 0,
       "name": {
-        "en": "澁澤龍彦(龍頭抗争)　闇",
-        "jp": "澁澤龍彦(龍頭抗争)　闇"
+        "en": "[龍頭抗争]澁澤龍彦 無",
+        "jp": "[龍頭抗争]澁澤龍彦 無"
       }
     },
     {
@@ -14710,7 +14815,7 @@
       "mini_id": "100672",
       "unique_skill": 0,
       "name": {
-        "en": "[天体観測]中島敦（無）",
+        "en": "[天体観測]中島敦（無） (Nakajima Atsushi)",
         "jp": "[天体観測]中島敦（無）"
       }
     },
@@ -15086,40 +15191,40 @@
       "mini_id": "200055",
       "unique_skill": 0,
       "name": {
-        "en": "Pale Qilin Associate A(N)",
-        "jp": "白麒麟仲間A　無"
+        "en": "白麒麟の仲間A 無",
+        "jp": "白麒麟の仲間A 無"
       }
     },
     {
       "mini_id": "200056",
       "unique_skill": 0,
       "name": {
-        "en": "Pale Qilin Associate B(Drk)",
-        "jp": "白麒麟仲間B　闇"
+        "en": "白麒麟の仲間B 無",
+        "jp": "白麒麟の仲間B 無"
       }
     },
     {
       "mini_id": "200057",
       "unique_skill": 0,
       "name": {
-        "en": "DA Mafia B(Li)",
-        "jp": "DAマフィアB　光"
+        "en": "DAマフィアB 無",
+        "jp": "DAマフィアB 無"
       }
     },
     {
       "mini_id": "200058",
       "unique_skill": 0,
       "name": {
-        "en": "DA Mafia C(Cr)",
-        "jp": "DAマフィアC　紅"
+        "en": "DAマフィアC 無",
+        "jp": "DAマフィアC 無"
       }
     },
     {
       "mini_id": "200059",
       "unique_skill": 0,
       "name": {
-        "en": "DA Mafia A(Em)",
-        "jp": "DAマフィアA　翠"
+        "en": "DAマフィアA 無",
+        "jp": "DAマフィアA 無"
       }
     },
     {
@@ -15254,24 +15359,24 @@
       "mini_id": "200076",
       "unique_skill": 0,
       "name": {
-        "en": "月下獣（異能分離体）　紅",
-        "jp": "月下獣（異能分離体）　紅"
+        "en": "月下獣（異能分離体） 紅",
+        "jp": "月下獣（異能分離体） 紅"
       }
     },
     {
       "mini_id": "200077",
       "unique_skill": 0,
       "name": {
-        "en": "羅生門（異能分離体）　闇",
-        "jp": "羅生門（異能分離体）　闇"
+        "en": "羅生門（異能分離体） 闇",
+        "jp": "羅生門（異能分離体） 闇"
       }
     },
     {
       "mini_id": "200078",
       "unique_skill": 0,
       "name": {
-        "en": "夜叉白雪（異能分離体）　翠",
-        "jp": "夜叉白雪（異能分離体）　翠"
+        "en": "夜叉白雪（異能分離体） 翠",
+        "jp": "夜叉白雪（異能分離体） 翠"
       }
     },
     {
@@ -15350,8 +15455,8 @@
       "mini_id": "200088",
       "unique_skill": 0,
       "name": {
-        "en": "独歩吟客（異能分離体）闇",
-        "jp": "独歩吟客（異能分離体）闇"
+        "en": "独歩吟客（異能分離体） 闇",
+        "jp": "独歩吟客（異能分離体） 闇"
       }
     },
     {
