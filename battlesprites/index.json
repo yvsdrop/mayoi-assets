@@ -1,6 +1,132 @@
 {
   "characters": [
     {
+      "mini_id": "100709",
+      "img_id": "101403",
+      "release_time": 1640962800,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 656,
+        "jp": 672
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
+      "mini_id": "100708",
+      "img_id": "101401",
+      "release_time": 1640962800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 655,
+        "jp": 671
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
+      "mini_id": "100707",
+      "img_id": "101399",
+      "release_time": 1640962800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 654,
+        "jp": 670
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
+      "mini_id": "100706",
+      "img_id": "101397",
+      "release_time": 1640962800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 653,
+        "jp": 669
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
+      "mini_id": "100705",
+      "img_id": "101395",
+      "release_time": 1640962800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 652,
+        "jp": 668
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
+      "mini_id": "100704",
+      "img_id": "101393",
+      "release_time": 1640962800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 651,
+        "jp": 667
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Year of the Tiger",
+        "jp": "寅月"
+      }
+    },
+    {
       "mini_id": "100645",
       "img_id": "101309",
       "release_time": 1639630800,
@@ -9,7 +135,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 650,
         "jp": 666
       },
       "name": {
@@ -17,7 +143,7 @@
         "jp": "ルーシー・M"
       },
       "title": {
-        "en": "図書館",
+        "en": "Library",
         "jp": "図書館"
       }
     },
@@ -30,7 +156,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 649,
         "jp": 665
       },
       "name": {
@@ -38,7 +164,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "図書館",
+        "en": "Library",
         "jp": "図書館"
       }
     },
