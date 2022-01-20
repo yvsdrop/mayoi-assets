@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100692",
+      "img_id": "101375",
+      "release_time": 1642654800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 659,
+        "jp": 675
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
+      "mini_id": "100691",
+      "img_id": "101373",
+      "release_time": 1642654800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 658,
+        "jp": 674
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
+      "mini_id": "100690",
+      "img_id": "101371",
+      "release_time": 1642654800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 657,
+        "jp": 673
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
       "mini_id": "100709",
       "img_id": "101403",
       "release_time": 1640962800,
@@ -14946,6 +15009,14 @@
       }
     },
     {
+      "mini_id": "100692",
+      "unique_skill": 0,
+      "name": {
+        "en": "[自然遊楽]与謝野晶子（無） (Yosano Akiko)",
+        "jp": "[自然遊楽]与謝野晶子（無）"
+      }
+    },
+    {
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
@@ -16095,6 +16166,30 @@
       "name": {
         "en": "敵_チンピラボスA(天体観測)無",
         "jp": "敵_チンピラボスA(天体観測)無"
+      }
+    },
+    {
+      "mini_id": "200153",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(キャンプ) 無",
+        "jp": "敵_チンピラE(キャンプ) 無"
+      }
+    },
+    {
+      "mini_id": "200154",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(キャンプ) 無",
+        "jp": "敵_チンピラF(キャンプ) 無"
+      }
+    },
+    {
+      "mini_id": "200155",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスA(キャンプ) 無",
+        "jp": "敵_チンピラボスA(キャンプ) 無"
       }
     }
   ]
