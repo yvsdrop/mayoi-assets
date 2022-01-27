@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100710",
+      "img_id": "101405",
+      "release_time": 1643691600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 660,
+        "jp": 676
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Investigator of Truth",
+        "jp": "真理の求道者"
+      }
+    },
+    {
       "mini_id": "100692",
       "img_id": "101375",
       "release_time": 1642654800,
