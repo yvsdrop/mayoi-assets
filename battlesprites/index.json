@@ -1,6 +1,175 @@
 {
   "characters": [
     {
+      "mini_id": "100718",
+      "img_id": "101421",
+      "release_time": 1644814800,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 668,
+        "jp": 684
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Chocolat",
+        "jp": "ショコラ"
+      }
+    },
+    {
+      "mini_id": "100717",
+      "img_id": "101419",
+      "release_time": 1644814800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 667,
+        "jp": 683
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Chocolat",
+        "jp": "ショコラ"
+      },
+      "is_animation": 1
+    },
+    {
+      "mini_id": "100716",
+      "img_id": "101417",
+      "release_time": 1644814800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 666,
+        "jp": 682
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Chocolat",
+        "jp": "ショコラ"
+      }
+    },
+    {
+      "mini_id": "100715",
+      "img_id": "101415",
+      "release_time": 1644469200,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 665,
+        "jp": 681
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100714",
+      "img_id": "101413",
+      "release_time": 1644469200,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 664,
+        "jp": 680
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Shrine Maiden",
+        "jp": "巫女"
+      }
+    },
+    {
+      "mini_id": "100713",
+      "img_id": "101411",
+      "release_time": 1644469200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 663,
+        "jp": 679
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100712",
+      "img_id": "101409",
+      "release_time": 1644469200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 662,
+        "jp": 678
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100711",
+      "img_id": "101407",
+      "release_time": 1644469200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 661,
+        "jp": 677
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Diviner",
+        "jp": "陰陽師"
+      }
+    },
+    {
       "mini_id": "100710",
       "img_id": "101405",
       "release_time": 1643691600,
@@ -15038,6 +15207,14 @@
       }
     },
     {
+      "mini_id": "100718",
+      "unique_skill": 0,
+      "name": {
+        "en": "[ショコラ]泉鏡花（無） (Izumi Kyoka)",
+        "jp": "[ショコラ]泉鏡花（無）"
+      }
+    },
+    {
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
@@ -15937,7 +16114,7 @@
       "mini_id": "200121",
       "unique_skill": 0,
       "name": {
-        "en": "敵_チンピラE(妖怪) 無",
+        "en": "敵_チンピラE(妖怪) 無※巡る童話使用",
         "jp": "敵_チンピラE(妖怪) 無"
       }
     },
@@ -15945,7 +16122,7 @@
       "mini_id": "200122",
       "unique_skill": 0,
       "name": {
-        "en": "敵_チンピラF(妖怪) 無",
+        "en": "敵_チンピラF(妖怪) 無※巡る童話使用",
         "jp": "敵_チンピラF(妖怪) 無"
       }
     },
