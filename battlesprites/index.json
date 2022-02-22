@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100695",
+      "img_id": "101377",
+      "release_time": 1646110800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 669,
+        "jp": 685
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Coldhearted Duty",
+        "jp": "冷刻の任"
+      }
+    },
+    {
       "mini_id": "100718",
       "img_id": "101421",
       "release_time": 1644814800,
