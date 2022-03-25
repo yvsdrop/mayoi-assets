@@ -1,6 +1,132 @@
 {
   "characters": [
     {
+      "mini_id": "100733",
+      "img_id": "800021",
+      "release_time": 1648738800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 674,
+        "jp": 691
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
+      "mini_id": "100732",
+      "img_id": "800043",
+      "release_time": 1648738800,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 673,
+        "jp": 690
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
+      "mini_id": "100364",
+      "img_id": "101345",
+      "release_time": 1648789200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 675,
+        "jp": 689
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Death-Obsessed",
+        "jp": "自殺愛好家"
+      }
+    },
+    {
+      "mini_id": "100725",
+      "img_id": "101435",
+      "release_time": 1648098000,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 672,
+        "jp": 688
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
+      "mini_id": "100724",
+      "img_id": "101433",
+      "release_time": 1648098000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 671,
+        "jp": 687
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
+      "mini_id": "100723",
+      "img_id": "101431",
+      "release_time": 1648098000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 670,
+        "jp": 686
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
       "mini_id": "100695",
       "img_id": "101377",
       "release_time": 1646110800,
@@ -15236,6 +15362,22 @@
       }
     },
     {
+      "mini_id": "100732",
+      "unique_skill": 0,
+      "name": {
+        "en": "[園児]ルーシー・M（無）",
+        "jp": "[園児]ルーシー・M（無）"
+      }
+    },
+    {
+      "mini_id": "100733",
+      "unique_skill": 0,
+      "name": {
+        "en": "[園児]中原中也（無）",
+        "jp": "[園児]中原中也（無）"
+      }
+    },
+    {
       "mini_id": "200001",
       "unique_skill": 0,
       "name": {
@@ -16409,6 +16551,30 @@
       "name": {
         "en": "敵_チンピラボスA(キャンプ) 無",
         "jp": "敵_チンピラボスA(キャンプ) 無"
+      }
+    },
+    {
+      "mini_id": "200165",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(彩色) 無",
+        "jp": "敵_チンピラA(彩色) 無"
+      }
+    },
+    {
+      "mini_id": "200166",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(彩色) 無",
+        "jp": "敵_チンピラE(彩色) 無"
+      }
+    },
+    {
+      "mini_id": "200167",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_マフィアボスA(彩色) 無",
+        "jp": "敵_マフィアボスA(彩色) 無"
       }
     }
   ]

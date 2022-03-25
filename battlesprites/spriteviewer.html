@@ -5,17 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
   <title>Bungo Battle Sprite Viewer</title>
-  <script>
-    const params = new URLSearchParams(window.location.search);
-    const mini_id = params.get('id');
-    document.title = 'Bungo Battle Sprite - ' + mini_id;
-  </script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
   <script type="text/javascript" src="../gif.js" type="module"></script>
   <script type="text/javascript" src="../lwf.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
-  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
   <style>
     .nav-icons {display:flex;align-items:center;position:absolute;top:1em;right:1em}
     .nav-icons img {height:24px}
@@ -105,6 +98,9 @@
     <a href="https://github.com/yvsdrop/mayoi-assets"><img src="https://fonts.gstatic.com/s/i/googlematerialicons/info/v9/gm_grey-48dp/2x/gm_info_gm_grey_48dp.png"></a>
   </div>
   <script>
+    const params = new URLSearchParams(window.location.search);
+    const mini_id = params.get('id');
+
     let current_time, from_time;
     let recording = false;
     const downloadLink = document.createElement('a');
@@ -143,15 +139,23 @@
           const controlsEl = $('#action-labels');
           const actionOptions = $('#record-action');
           const charData = json['characters'].find(x => x['mini_id'] == mini_id);
-          const unique_skill = !!charData && !!charData['unique_skill'];
-          if (unique_skill) {
-            controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
-            actionOptions.append('<option value="skill2">Skill</option>');
-          }
+
           if (charData) {
             controlsEl.append('\n<button onclick="setLabel(\'death_friend\')" class="btn btn-outline-secondary">Gameover</button>');
+
+            if (charData['unique_skill']) {
+              controlsEl.append('\n<button onclick="setLabel(\'skill2\')" class="btn btn-outline-secondary">Skill</button>');
+              actionOptions.append('<option value="skill2">Skill</option>');
+            }
+
+            if (!!charData['title']) {
+              document.title = `Bungo Battle Sprite - [${(charData['title']['en'])}] ${charData['name']['en']}`;
+            } else if (!!charData['name']) {
+              document.title = `Bungo Battle Sprite - ${charData['name']['en']}`;
+            }
           } else {
             controlsEl.append('\n<button onclick="setLabel(\'death_enemy\')" class="btn btn-outline-secondary">Death</button>');
+            document.title = `Bungo Battle Sprite - ${mini_id}`;
           }
           $('#record-button').click(record);
         });
@@ -327,5 +331,7 @@
       $('#loaded-gif').show();
     }
   </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK2V3DH3WC"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XK2V3DH3WC');</script>
 </body>
 </html>

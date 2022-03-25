@@ -145,7 +145,7 @@
           continue;
         }
         const title = item['title'][locale] ? `[${item['title'][locale]}] ` : '';
-        const global = item['codex_id']['en'] < 9999 ? '1' : '2';
+        const global = item['codex_id']['en'] > 0 ? '1' : '2';
         let label = title + item['name'][locale];
         if (item['extra']) {
           label += ' (EX)'
