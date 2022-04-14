@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100728",
+      "img_id": "101441",
+      "release_time": 1649912400,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 678,
+        "jp": 694
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100727",
+      "img_id": "101439",
+      "release_time": 1649912400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 677,
+        "jp": 693
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
+      "mini_id": "100726",
+      "img_id": "101437",
+      "release_time": 1649912400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 676,
+        "jp": 692
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Tarot",
+        "jp": "タロット"
+      }
+    },
+    {
       "mini_id": "100733",
       "img_id": "800021",
       "release_time": 1648738800,
