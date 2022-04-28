@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100703",
+      "img_id": "101171",
+      "release_time": 1651381200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 695
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "憩いのひととき",
+        "jp": "憩いのひととき"
+      }
+    },
+    {
       "mini_id": "100728",
       "img_id": "101441",
       "release_time": 1649912400,
