@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100731",
+      "img_id": "101447",
+      "release_time": 1652936400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 682,
+        "jp": 698
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Rainy Season",
+        "jp": "梅雨"
+      }
+    },
+    {
+      "mini_id": "100730",
+      "img_id": "101445",
+      "release_time": 1652936400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 681,
+        "jp": 697
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Rainy Season",
+        "jp": "梅雨"
+      }
+    },
+    {
+      "mini_id": "100729",
+      "img_id": "101443",
+      "release_time": 1652936400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 680,
+        "jp": 696
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Rainy Season",
+        "jp": "梅雨"
+      }
+    },
+    {
       "mini_id": "100703",
       "img_id": "101171",
       "release_time": 1651381200,
@@ -9,7 +72,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 679,
         "jp": 695
       },
       "name": {
@@ -17,7 +80,7 @@
         "jp": "ルイーザ・A"
       },
       "title": {
-        "en": "憩いのひととき",
+        "en": "A Moment's Respite",
         "jp": "憩いのひととき"
       }
     },
