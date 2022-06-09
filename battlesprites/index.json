@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100677",
+      "img_id": "101341",
+      "release_time": 1654837200,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 685,
+        "jp": 701
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
+      "mini_id": "100676",
+      "img_id": "101339",
+      "release_time": 1654837200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 684,
+        "jp": 700
+      },
+      "name": {
+        "en": "Herman M",
+        "jp": "ハーマン・M"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
+      "mini_id": "100675",
+      "img_id": "101337",
+      "release_time": 1654837200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 683,
+        "jp": 699
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
       "mini_id": "100731",
       "img_id": "101447",
       "release_time": 1652936400,
@@ -15493,6 +15556,14 @@
       }
     },
     {
+      "mini_id": "100677",
+      "unique_skill": 0,
+      "name": {
+        "en": "[植物園]ジョン・S(無) (John S)",
+        "jp": "[植物園]ジョン・S(無)"
+      }
+    },
+    {
       "mini_id": "100692",
       "unique_skill": 0,
       "name": {
@@ -16698,6 +16769,30 @@
       "name": {
         "en": "敵_チンピラボスA(キャンプ) 無",
         "jp": "敵_チンピラボスA(キャンプ) 無"
+      }
+    },
+    {
+      "mini_id": "200159",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(植物園) 無",
+        "jp": "敵_チンピラA(植物園) 無"
+      }
+    },
+    {
+      "mini_id": "200160",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラE(植物園) 無",
+        "jp": "敵_チンピラE(植物園) 無"
+      }
+    },
+    {
+      "mini_id": "200161",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスA(植物園) 無",
+        "jp": "敵_チンピラボスA(植物園) 無"
       }
     },
     {
