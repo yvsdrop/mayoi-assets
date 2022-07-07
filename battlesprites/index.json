@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100737",
+      "img_id": "101455",
+      "release_time": 1657170000,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 688,
+        "jp": 704
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
+      "mini_id": "100736",
+      "img_id": "101453",
+      "release_time": 1657170000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 687,
+        "jp": 703
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
+      "mini_id": "100735",
+      "img_id": "101451",
+      "release_time": 1657170000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 686,
+        "jp": 702
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Enjoying Nature",
+        "jp": "自然遊楽"
+      }
+    },
+    {
       "mini_id": "100677",
       "img_id": "101341",
       "release_time": 1654837200,
