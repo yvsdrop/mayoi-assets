@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100738",
+      "img_id": "101457",
+      "release_time": 1659330000,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 689,
+        "jp": 705
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Freedom",
+        "jp": "フリイダム"
+      }
+    },
+    {
       "mini_id": "100737",
       "img_id": "101455",
       "release_time": 1657170000,
