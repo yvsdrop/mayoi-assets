@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100741",
+      "img_id": "101463",
+      "release_time": 1660798800,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 692,
+        "jp": 708
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
+      "mini_id": "100740",
+      "img_id": "101461",
+      "release_time": 1660798800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 691,
+        "jp": 707
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Diviner",
+        "jp": "陰陽師"
+      }
+    },
+    {
+      "mini_id": "100739",
+      "img_id": "101459",
+      "release_time": 1660798800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 690,
+        "jp": 706
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Pandemonium Night",
+        "jp": "百鬼夜行"
+      }
+    },
+    {
       "mini_id": "100738",
       "img_id": "101457",
       "release_time": 1659330000,
