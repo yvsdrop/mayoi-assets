@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100702",
+      "img_id": "101391",
+      "release_time": 1662613200,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 696,
+        "jp": 712
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
+      "mini_id": "100701",
+      "img_id": "101389",
+      "release_time": 1662613200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 695,
+        "jp": 711
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
+      "mini_id": "100700",
+      "img_id": "101387",
+      "release_time": 1662613200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 694,
+        "jp": 710
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
+      "mini_id": "100696",
+      "img_id": "101379",
+      "release_time": 1662008400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 693,
+        "jp": 709
+      },
+      "name": {
+        "en": "Sakaguchi Ango",
+        "jp": "坂口安吾"
+      },
+      "title": {
+        "en": "In the Wake of Disaster",
+        "jp": "大騒ぎの後始末"
+      }
+    },
+    {
       "mini_id": "100741",
       "img_id": "101463",
       "release_time": 1660798800,
@@ -16916,6 +17000,30 @@
       "name": {
         "en": "敵_チンピラボスA(キャンプ) 無",
         "jp": "敵_チンピラボスA(キャンプ) 無"
+      }
+    },
+    {
+      "mini_id": "200156",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラA(写真館) 無",
+        "jp": "敵_チンピラA(写真館) 無"
+      }
+    },
+    {
+      "mini_id": "200157",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラF(写真館) 無",
+        "jp": "敵_チンピラF(写真館) 無"
+      }
+    },
+    {
+      "mini_id": "200158",
+      "unique_skill": 0,
+      "name": {
+        "en": "敵_チンピラボスA(写真館) 無",
+        "jp": "敵_チンピラボスA(写真館) 無"
       }
     },
     {
