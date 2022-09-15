@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100734",
+      "img_id": "101449",
+      "release_time": 1663563600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 697,
+        "jp": 713
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "All Within My Grasp",
+        "jp": "全てを手中へ"
+      }
+    },
+    {
       "mini_id": "100702",
       "img_id": "101391",
       "release_time": 1662613200,
