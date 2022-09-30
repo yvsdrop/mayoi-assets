@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100213",
+      "img_id": "101347",
+      "release_time": 1664600400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 698,
+        "jp": 714
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Celebration at Dusk",
+        "jp": "薄暮の祝杯"
+      }
+    },
+    {
       "mini_id": "100734",
       "img_id": "101449",
       "release_time": 1663563600,
