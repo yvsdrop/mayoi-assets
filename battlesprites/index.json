@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100745",
+      "img_id": "101471",
+      "release_time": 1665032400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 702,
+        "jp": 718
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100744",
+      "img_id": "101469",
+      "release_time": 1665032400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 701,
+        "jp": 717
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100743",
+      "img_id": "101467",
+      "release_time": 1665032400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 700,
+        "jp": 716
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100742",
+      "img_id": "101465",
+      "release_time": 1665032400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 699,
+        "jp": 715
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
       "mini_id": "100213",
       "img_id": "101347",
       "release_time": 1664600400,
