@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100722",
+      "img_id": "101429",
+      "release_time": 1667278800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 703,
+        "jp": 719
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Descent of the Moby Dick",
+        "jp": "沈む白鯨"
+      }
+    },
+    {
       "mini_id": "100745",
       "img_id": "101471",
       "release_time": 1665032400,
