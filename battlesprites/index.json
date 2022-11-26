@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100750",
+      "img_id": "101479",
+      "release_time": 1669870800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 707,
+        "jp": 723
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Unwaking Dreams",
+        "jp": "醒めぬ夢"
+      }
+    },
+    {
+      "mini_id": "100748",
+      "img_id": "101477",
+      "release_time": 1669266000,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 706,
+        "jp": 722
+      },
+      "name": {
+        "en": "Haruno Kirako",
+        "jp": "春野綺羅子"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100747",
+      "img_id": "101475",
+      "release_time": 1669266000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 705,
+        "jp": 721
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100746",
+      "img_id": "101473",
+      "release_time": 1669266000,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 704,
+        "jp": 720
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
       "mini_id": "100722",
       "img_id": "101429",
       "release_time": 1667278800,
