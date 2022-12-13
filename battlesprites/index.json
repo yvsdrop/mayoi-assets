@@ -1,6 +1,174 @@
 {
   "characters": [
     {
+      "mini_id": "100758",
+      "img_id": "101495",
+      "release_time": 1670943600,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 715,
+        "jp": 731
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100757",
+      "img_id": "101493",
+      "release_time": 1670943600,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 714,
+        "jp": 730
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100756",
+      "img_id": "101491",
+      "release_time": 1670943600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 713,
+        "jp": 729
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100755",
+      "img_id": "101489",
+      "release_time": 1670943600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 712,
+        "jp": 728
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100754",
+      "img_id": "101487",
+      "release_time": 1670943600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 711,
+        "jp": 727
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100753",
+      "img_id": "101485",
+      "release_time": 1670943600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 710,
+        "jp": 726
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100752",
+      "img_id": "101483",
+      "release_time": 1670943600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 709,
+        "jp": 725
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
+      "mini_id": "100751",
+      "img_id": "101481",
+      "release_time": 1670943600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 708,
+        "jp": 724
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Radiant Banquet",
+        "jp": "輝きの祝宴"
+      }
+    },
+    {
       "mini_id": "100750",
       "img_id": "101479",
       "release_time": 1669870800,
