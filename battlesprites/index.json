@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100786",
+      "img_id": "101551",
+      "release_time": 1672498800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 718,
+        "jp": 734
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "New Year's Greetings",
+        "jp": "迎春の宴"
+      }
+    },
+    {
+      "mini_id": "100785",
+      "img_id": "101549",
+      "release_time": 1672498800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 717,
+        "jp": 733
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "New Year's Greetings",
+        "jp": "迎春の宴"
+      }
+    },
+    {
+      "mini_id": "100784",
+      "img_id": "101547",
+      "release_time": 1672498800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 716,
+        "jp": 732
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "New Year's Greetings",
+        "jp": "迎春の宴"
+      }
+    },
+    {
       "mini_id": "100758",
       "img_id": "101495",
       "release_time": 1670943600,
