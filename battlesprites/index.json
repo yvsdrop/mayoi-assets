@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100768",
+      "img_id": "101515",
+      "release_time": 1675227600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 719,
+        "jp": 735
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Unanswered Call",
+        "jp": "繋がらない電話"
+      }
+    },
+    {
       "mini_id": "100786",
       "img_id": "101551",
       "release_time": 1672498800,
