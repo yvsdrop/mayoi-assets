@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100379",
+      "img_id": "100895",
+      "release_time": 1675918800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 720,
+        "jp": 736
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "Sniper",
+        "jp": "狙撃手"
+      }
+    },
+    {
       "mini_id": "100768",
       "img_id": "101515",
       "release_time": 1675227600,
