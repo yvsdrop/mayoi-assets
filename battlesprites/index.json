@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100789",
+      "img_id": "101557",
+      "release_time": 1677052800,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 723,
+        "jp": 739
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Playing in the Snow",
+        "jp": "雪遊び"
+      }
+    },
+    {
+      "mini_id": "100788",
+      "img_id": "101555",
+      "release_time": 1677052800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 722,
+        "jp": 738
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "Playing in the Snow",
+        "jp": "雪遊び"
+      }
+    },
+    {
+      "mini_id": "100787",
+      "img_id": "101553",
+      "release_time": 1677052800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 721,
+        "jp": 737
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Playing in the Snow",
+        "jp": "雪遊び"
+      }
+    },
+    {
       "mini_id": "100379",
       "img_id": "100895",
       "release_time": 1675918800,
