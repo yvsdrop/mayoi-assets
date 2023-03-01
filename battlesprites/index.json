@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100779",
+      "img_id": "101537",
+      "release_time": 1677657600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 724,
+        "jp": 740
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "An Unwanted Coalition",
+        "jp": "望まぬ共闘"
+      }
+    },
+    {
       "mini_id": "100789",
       "img_id": "101557",
       "release_time": 1677052800,
