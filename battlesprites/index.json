@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100636",
+      "img_id": "120139",
+      "release_time": 1678348800,
+      "affinity": 5,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 725,
+        "jp": 741
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Golden Demon",
+        "jp": "金色夜叉"
+      }
+    },
+    {
       "mini_id": "100779",
       "img_id": "101537",
       "release_time": 1677657600,
