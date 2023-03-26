@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100792",
+      "img_id": "101563",
+      "release_time": 1679558400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 728,
+        "jp": 744
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
+      "mini_id": "100791",
+      "img_id": "101561",
+      "release_time": 1679558400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 727,
+        "jp": 743
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
+      "mini_id": "100790",
+      "img_id": "101559",
+      "release_time": 1679558400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 726,
+        "jp": 742
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Vivid Color",
+        "jp": "彩色"
+      }
+    },
+    {
       "mini_id": "100636",
       "img_id": "120139",
       "release_time": 1678348800,
