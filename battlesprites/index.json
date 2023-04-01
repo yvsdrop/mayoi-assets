@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100801",
+      "img_id": "800037",
+      "release_time": 1680274800,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 731,
+        "jp": 747
+      },
+      "name": {
+        "en": "Sakaguchi Ango",
+        "jp": "坂口安吾"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
+      "mini_id": "100800",
+      "img_id": "800035",
+      "release_time": 1680274800,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 730,
+        "jp": 746
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
+      "mini_id": "100799",
+      "img_id": "800003",
+      "release_time": 1680274800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 729,
+        "jp": 745
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
       "mini_id": "100792",
       "img_id": "101563",
       "release_time": 1679558400,
