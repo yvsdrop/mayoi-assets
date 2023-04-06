@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100641",
+      "img_id": "120893",
+      "release_time": 1681362000,
+      "affinity": 4,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 733,
+        "jp": 749
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Whirlwind Woman",
+        "jp": "旋風と淑女"
+      }
+    },
+    {
+      "mini_id": "100773",
+      "img_id": "101525",
+      "release_time": 1680768000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 732,
+        "jp": 748
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Kuro Hatou",
+        "jp": "黒波濤"
+      }
+    },
+    {
       "mini_id": "100801",
       "img_id": "800037",
       "release_time": 1680274800,
