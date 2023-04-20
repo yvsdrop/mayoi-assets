@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100795",
+      "img_id": "101569",
+      "release_time": 1681977600,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 736,
+        "jp": 752
+      },
+      "name": {
+        "en": "Herman M",
+        "jp": "ハーマン・M"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100794",
+      "img_id": "101567",
+      "release_time": 1681977600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 735,
+        "jp": 751
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
+      "mini_id": "100793",
+      "img_id": "101565",
+      "release_time": 1681977600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 734,
+        "jp": 750
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Night Blossoms",
+        "jp": "夜桜遊歩"
+      }
+    },
+    {
       "mini_id": "100641",
       "img_id": "120893",
       "release_time": 1681362000,
