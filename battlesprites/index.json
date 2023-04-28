@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100766",
+      "img_id": "101511",
+      "release_time": 1682917200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 737,
+        "jp": 753
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Holiday Stroll",
+        "jp": "休日の散策"
+      }
+    },
+    {
       "mini_id": "100795",
       "img_id": "101569",
       "release_time": 1681977600,
