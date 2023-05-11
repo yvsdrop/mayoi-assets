@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100634",
+      "img_id": "120459",
+      "release_time": 1683792000,
+      "affinity": 5,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 738,
+        "jp": 754
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Dual Pistols",
+        "jp": "二丁拳銃"
+      }
+    },
+    {
       "mini_id": "100766",
       "img_id": "101511",
       "release_time": 1682917200,
@@ -5519,7 +5540,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 740,
         "jp": 491
       },
       "name": {
@@ -5527,7 +5548,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "人虎",
+        "en": "Weretiger",
         "jp": "人虎"
       }
     },
@@ -5540,7 +5561,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 740,
         "jp": 491
       },
       "name": {
@@ -5548,7 +5569,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "人虎",
+        "en": "Weretiger",
         "jp": "人虎"
       },
       "extra": true
@@ -5562,7 +5583,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 739,
         "jp": 490
       },
       "name": {
@@ -5570,7 +5591,7 @@
         "jp": "澁澤龍彦"
       },
       "title": {
-        "en": "龍の化身",
+        "en": "Draconic Avatar",
         "jp": "龍の化身"
       }
     },
@@ -5583,7 +5604,7 @@
       "extra_type": 2,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 739,
         "jp": 490
       },
       "name": {
@@ -5591,7 +5612,7 @@
         "jp": "澁澤龍彦"
       },
       "title": {
-        "en": "龍の化身",
+        "en": "Draconic Avatar",
         "jp": "龍の化身"
       },
       "extra": true
