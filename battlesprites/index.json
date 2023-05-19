@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100798",
+      "img_id": "101575",
+      "release_time": 1684396800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 743,
+        "jp": 757
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
+      "mini_id": "100797",
+      "img_id": "101573",
+      "release_time": 1684396800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 742,
+        "jp": 756
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
+      "mini_id": "100796",
+      "img_id": "101571",
+      "release_time": 1684396800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 741,
+        "jp": 755
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Portrait Studio",
+        "jp": "寫眞館"
+      }
+    },
+    {
       "mini_id": "100634",
       "img_id": "120459",
       "release_time": 1683792000,
