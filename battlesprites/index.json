@@ -1,6 +1,49 @@
 {
   "characters": [
     {
+      "mini_id": "100804",
+      "img_id": "101581",
+      "release_time": 1686643200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 2,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 744,
+        "jp": 758
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Marks of Wrath",
+        "jp": "怒りの紋様"
+      }
+    },
+    {
+      "mini_id": "100805",
+      "img_id": "101581",
+      "release_time": 1686643200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 2,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 744,
+        "jp": 758
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Marks of Wrath",
+        "jp": "怒りの紋様"
+      },
+      "extra": true
+    },
+    {
       "mini_id": "100798",
       "img_id": "101575",
       "release_time": 1684396800,
