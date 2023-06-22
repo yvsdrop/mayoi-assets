@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100803",
+      "img_id": "101579",
+      "release_time": 1687420800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 746,
+        "jp": 760
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
+      "mini_id": "100802",
+      "img_id": "101577",
+      "release_time": 1687420800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 745,
+        "jp": 759
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Aquarium",
+        "jp": "水族館"
+      }
+    },
+    {
       "mini_id": "100804",
       "img_id": "101581",
       "release_time": 1686643200,
