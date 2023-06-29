@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100638",
+      "img_id": "120265",
+      "release_time": 1688792400,
+      "affinity": 3,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 748,
+        "jp": 764
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "The Great Old One",
+        "jp": "旧支配者"
+      }
+    },
+    {
+      "mini_id": "100760",
+      "img_id": "101499",
+      "release_time": 1688446800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 763
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "中華",
+        "jp": "中華"
+      }
+    },
+    {
+      "mini_id": "100759",
+      "img_id": "101497",
+      "release_time": 1688446800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 762
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "中華",
+        "jp": "中華"
+      }
+    },
+    {
+      "mini_id": "100771",
+      "img_id": "101521",
+      "release_time": 1688187600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 747,
+        "jp": 761
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Critical Situation",
+        "jp": "一触即発"
+      }
+    },
+    {
       "mini_id": "100803",
       "img_id": "101579",
       "release_time": 1687420800,
