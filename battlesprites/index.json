@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100808",
+      "img_id": "101587",
+      "release_time": 1689224400,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 751,
+        "jp": 767
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100807",
+      "img_id": "101585",
+      "release_time": 1689224400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 750,
+        "jp": 766
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
+      "mini_id": "100806",
+      "img_id": "101583",
+      "release_time": 1689224400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 749,
+        "jp": 765
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Tanabata",
+        "jp": "七夕"
+      }
+    },
+    {
       "mini_id": "100638",
       "img_id": "120265",
       "release_time": 1688792400,
