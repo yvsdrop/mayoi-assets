@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100637",
+      "img_id": "120263",
+      "release_time": 1691049600,
+      "affinity": 4,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 753,
+        "jp": 769
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Grapes of Wrath",
+        "jp": "怒りの葡萄"
+      }
+    },
+    {
+      "mini_id": "100772",
+      "img_id": "101523",
+      "release_time": 1691049600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 752,
+        "jp": 768
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "New to the Agency",
+        "jp": "探偵社の若葉"
+      }
+    },
+    {
       "mini_id": "100808",
       "img_id": "101587",
       "release_time": 1689224400,
