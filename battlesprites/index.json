@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100639",
+      "img_id": "120253",
+      "release_time": 1693717200,
+      "affinity": 1,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 758,
+        "jp": 774
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "The Scarlet Letter",
+        "jp": "緋文字"
+      }
+    },
+    {
+      "mini_id": "100777",
+      "img_id": "101533",
+      "release_time": 1693544400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 757,
+        "jp": 773
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Keeper of Another Dimension",
+        "jp": "異空間の番人"
+      }
+    },
+    {
+      "mini_id": "100811",
+      "img_id": "101593",
+      "release_time": 1691654400,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 756,
+        "jp": 772
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Surfing",
+        "jp": "波乗り"
+      }
+    },
+    {
+      "mini_id": "100810",
+      "img_id": "101591",
+      "release_time": 1691654400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 755,
+        "jp": 771
+      },
+      "name": {
+        "en": "Sakaguchi Ango",
+        "jp": "坂口安吾"
+      },
+      "title": {
+        "en": "Surfing",
+        "jp": "波乗り"
+      }
+    },
+    {
+      "mini_id": "100809",
+      "img_id": "101589",
+      "release_time": 1691654400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 754,
+        "jp": 770
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Surfing",
+        "jp": "波乗り"
+      }
+    },
+    {
       "mini_id": "100637",
       "img_id": "120263",
       "release_time": 1691049600,
