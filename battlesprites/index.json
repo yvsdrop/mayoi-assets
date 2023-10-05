@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100814",
+      "img_id": "101599",
+      "release_time": 1696827600,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 763,
+        "jp": 779
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "Autumn Colors",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
+      "mini_id": "100813",
+      "img_id": "101597",
+      "release_time": 1696827600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 762,
+        "jp": 778
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "Autumn Colors",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
+      "mini_id": "100812",
+      "img_id": "101595",
+      "release_time": 1696827600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 761,
+        "jp": 777
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Autumn Colors",
+        "jp": "秋色遊歩"
+      }
+    },
+    {
+      "mini_id": "100640",
+      "img_id": "120333",
+      "release_time": 1696492800,
+      "affinity": 2,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 760,
+        "jp": 776
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Black Cat in the Rue Morgue",
+        "jp": "モルグ街の黒猫"
+      }
+    },
+    {
+      "mini_id": "100769",
+      "img_id": "101517",
+      "release_time": 1696492800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 759,
+        "jp": 775
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "House of Tragedy",
+        "jp": "惨劇の館"
+      }
+    },
+    {
       "mini_id": "100639",
       "img_id": "120253",
       "release_time": 1693717200,
