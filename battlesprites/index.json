@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100775",
+      "img_id": "101529",
+      "release_time": 1698814800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 764,
+        "jp": 780
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Nostalgic Gathering",
+        "jp": "懐かしき会合"
+      }
+    },
+    {
       "mini_id": "100814",
       "img_id": "101599",
       "release_time": 1696827600,
