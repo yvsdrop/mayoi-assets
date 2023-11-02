@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100635",
+      "img_id": "120257",
+      "release_time": 1698912000,
+      "affinity": 5,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 765,
+        "jp": 781
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "Dogra Magra",
+        "jp": "ドグラ・マグラ"
+      }
+    },
+    {
       "mini_id": "100775",
       "img_id": "101529",
       "release_time": 1698814800,
