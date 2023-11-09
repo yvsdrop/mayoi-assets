@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100817",
+      "img_id": "101605",
+      "release_time": 1699516800,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 768,
+        "jp": 784
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100816",
+      "img_id": "101603",
+      "release_time": 1699516800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 767,
+        "jp": 783
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
+      "mini_id": "100815",
+      "img_id": "101601",
+      "release_time": 1699516800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 766,
+        "jp": 782
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Masquerade",
+        "jp": "仮面舞踏会"
+      }
+    },
+    {
       "mini_id": "100635",
       "img_id": "120257",
       "release_time": 1698912000,
