@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100820",
+      "img_id": "101611",
+      "release_time": 1700640000,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 771,
+        "jp": 787
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100819",
+      "img_id": "101609",
+      "release_time": 1700640000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 770,
+        "jp": 786
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
+      "mini_id": "100818",
+      "img_id": "101607",
+      "release_time": 1700640000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 769,
+        "jp": 785
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Joyous Night",
+        "jp": "雪の降誕祭"
+      }
+    },
+    {
       "mini_id": "100817",
       "img_id": "101605",
       "release_time": 1699516800,
