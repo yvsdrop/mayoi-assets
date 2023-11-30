@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100774",
+      "img_id": "101527",
+      "release_time": 1701406800,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 772,
+        "jp": 788
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "Plea to a Girl",
+        "jp": "幼女への懇願"
+      }
+    },
+    {
       "mini_id": "100820",
       "img_id": "101611",
       "release_time": 1700640000,
