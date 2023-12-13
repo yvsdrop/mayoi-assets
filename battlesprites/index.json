@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100823",
+      "img_id": "101617",
+      "release_time": 1702479600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 791
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "年の瀬の宴",
+        "jp": "年の瀬の宴"
+      }
+    },
+    {
+      "mini_id": "100822",
+      "img_id": "101615",
+      "release_time": 1702479600,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 790
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "年の瀬の宴",
+        "jp": "年の瀬の宴"
+      }
+    },
+    {
+      "mini_id": "100821",
+      "img_id": "101613",
+      "release_time": 1702479600,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 789
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "年の瀬の宴",
+        "jp": "年の瀬の宴"
+      }
+    },
+    {
       "mini_id": "100774",
       "img_id": "101527",
       "release_time": 1701406800,
@@ -17168,8 +17231,8 @@
       "mini_id": "100305",
       "unique_skill": 0,
       "name": {
-        "en": "澁澤龍彦（特異点の化身）闇",
-        "jp": "澁澤龍彦（特異点の化身）闇"
+        "en": "化身澁澤ボス Lv.50 (無)",
+        "jp": "化身澁澤ボス Lv.50 (無)"
       }
     },
     {
@@ -18008,8 +18071,8 @@
       "mini_id": "200079",
       "unique_skill": 0,
       "name": {
-        "en": "龍　紅",
-        "jp": "龍　紅"
+        "en": "龍 Lv.50 (紅)",
+        "jp": "龍 Lv.50 (紅)"
       }
     },
     {
