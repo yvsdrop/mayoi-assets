@@ -9,7 +9,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 775,
         "jp": 791
       },
       "name": {
@@ -17,7 +17,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "年の瀬の宴",
+        "en": "End of Year Banquet",
         "jp": "年の瀬の宴"
       }
     },
@@ -30,7 +30,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 774,
         "jp": 790
       },
       "name": {
@@ -38,7 +38,7 @@
         "jp": "国木田独歩"
       },
       "title": {
-        "en": "年の瀬の宴",
+        "en": "End of Year Banquet",
         "jp": "年の瀬の宴"
       }
     },
@@ -51,7 +51,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 773,
         "jp": 789
       },
       "name": {
@@ -59,7 +59,7 @@
         "jp": "太宰治"
       },
       "title": {
-        "en": "年の瀬の宴",
+        "en": "End of Year Banquet",
         "jp": "年の瀬の宴"
       }
     },
