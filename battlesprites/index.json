@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100835",
+      "img_id": "101641",
+      "release_time": 1704960000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 778,
+        "jp": 794
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Shrine Visit",
+        "jp": "初詣"
+      }
+    },
+    {
+      "mini_id": "100834",
+      "img_id": "101639",
+      "release_time": 1704960000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 777,
+        "jp": 793
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Shrine Visit",
+        "jp": "初詣"
+      }
+    },
+    {
+      "mini_id": "100833",
+      "img_id": "101637",
+      "release_time": 1704960000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 776,
+        "jp": 792
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Shrine Visit",
+        "jp": "初詣"
+      }
+    },
+    {
       "mini_id": "100823",
       "img_id": "101617",
       "release_time": 1702479600,
