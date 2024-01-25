@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100770",
+      "img_id": "101519",
+      "release_time": 1706504400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 783,
+        "jp": 795
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Beloved Agency Member",
+        "jp": "大人気社員"
+      }
+    },
+    {
       "mini_id": "100835",
       "img_id": "101641",
       "release_time": 1704960000,
@@ -4470,7 +4491,7 @@
       "extra_type": 1,
       "unique_skill": 0,
       "codex_id": {
-        "en": 0,
+        "en": 782,
         "jp": 583
       },
       "name": {
@@ -4478,7 +4499,7 @@
         "jp": "ナサニエル・H"
       },
       "title": {
-        "en": "執事",
+        "en": "Butler",
         "jp": "執事"
       }
     },
@@ -4491,7 +4512,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 781,
         "jp": 582
       },
       "name": {
@@ -4499,7 +4520,7 @@
         "jp": "マーク・T"
       },
       "title": {
-        "en": "執事",
+        "en": "Butler",
         "jp": "執事"
       }
     },
@@ -4512,7 +4533,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 780,
         "jp": 581
       },
       "name": {
@@ -4520,7 +4541,7 @@
         "jp": "ルーシー・M"
       },
       "title": {
-        "en": "メイド",
+        "en": "Maid",
         "jp": "メイド"
       }
     },
@@ -4533,7 +4554,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 779,
         "jp": 580
       },
       "name": {
@@ -4541,7 +4562,7 @@
         "jp": "フランシス・F"
       },
       "title": {
-        "en": "執事",
+        "en": "Butler",
         "jp": "執事"
       }
     },
