@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100838",
+      "img_id": "101647",
+      "release_time": 1708588800,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 786,
+        "jp": 798
+      },
+      "name": {
+        "en": "Yumeno Kyusaku",
+        "jp": "夢野久作"
+      },
+      "title": {
+        "en": "Dreaming",
+        "jp": "夢裡"
+      }
+    },
+    {
+      "mini_id": "100837",
+      "img_id": "101645",
+      "release_time": 1708588800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 785,
+        "jp": 797
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Dreaming",
+        "jp": "夢裡"
+      }
+    },
+    {
+      "mini_id": "100836",
+      "img_id": "101643",
+      "release_time": 1708588800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 784,
+        "jp": 796
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Dreaming",
+        "jp": "夢裡"
+      }
+    },
+    {
       "mini_id": "100770",
       "img_id": "101519",
       "release_time": 1706504400,
