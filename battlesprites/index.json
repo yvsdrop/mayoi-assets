@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100778",
+      "img_id": "101535",
+      "release_time": 1709269200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 787,
+        "jp": 799
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Novice Armed Detective",
+        "jp": "駆け出し探偵社員"
+      }
+    },
+    {
       "mini_id": "100838",
       "img_id": "101647",
       "release_time": 1708588800,
