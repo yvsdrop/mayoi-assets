@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100845",
+      "img_id": "101661",
+      "release_time": 1710392400,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 790,
+        "jp": 802
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "A Land of Fantasy",
+        "jp": "御伽の国"
+      }
+    },
+    {
+      "mini_id": "100844",
+      "img_id": "101659",
+      "release_time": 1710392400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 789,
+        "jp": 801
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "A Land of Fantasy",
+        "jp": "御伽の国"
+      }
+    },
+    {
+      "mini_id": "100843",
+      "img_id": "101657",
+      "release_time": 1710392400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 788,
+        "jp": 800
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "A Land of Fantasy",
+        "jp": "御伽の国"
+      }
+    },
+    {
       "mini_id": "100778",
       "img_id": "101535",
       "release_time": 1709269200,
