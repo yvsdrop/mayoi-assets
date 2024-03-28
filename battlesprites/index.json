@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100781",
+      "img_id": "101541",
+      "release_time": 1711947600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 792,
+        "jp": 804
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Day in the Life of a Detective",
+        "jp": "名探偵の日常"
+      }
+    },
+    {
+      "mini_id": "100849",
+      "img_id": "800009",
+      "release_time": 1711897200,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 791,
+        "jp": 803
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
       "mini_id": "100845",
       "img_id": "101661",
       "release_time": 1710392400,
