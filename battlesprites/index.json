@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100848",
+      "img_id": "101667",
+      "release_time": 1713427200,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 795,
+        "jp": 807
+      },
+      "name": {
+        "en": "Lovecraft",
+        "jp": "ラヴクラフト"
+      },
+      "title": {
+        "en": "Springtime",
+        "jp": "春祭り"
+      }
+    },
+    {
+      "mini_id": "100847",
+      "img_id": "101665",
+      "release_time": 1713427200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 794,
+        "jp": 806
+      },
+      "name": {
+        "en": "Poe",
+        "jp": "ポオ"
+      },
+      "title": {
+        "en": "Springtime",
+        "jp": "春祭り"
+      }
+    },
+    {
+      "mini_id": "100846",
+      "img_id": "101663",
+      "release_time": 1713427200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 793,
+        "jp": 805
+      },
+      "name": {
+        "en": "Mark T",
+        "jp": "マーク・T"
+      },
+      "title": {
+        "en": "Springtime",
+        "jp": "春祭り"
+      }
+    },
+    {
       "mini_id": "100781",
       "img_id": "101541",
       "release_time": 1711947600,
@@ -4258,7 +4321,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 797,
         "jp": 603
       },
       "name": {
@@ -4266,7 +4329,7 @@
         "jp": "芥川龍之介"
       },
       "title": {
-        "en": "対峙",
+        "en": "Face Off",
         "jp": "対峙"
       },
       "is_animation": 1
@@ -4280,7 +4343,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 796,
         "jp": 602
       },
       "name": {
@@ -4288,7 +4351,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "対峙",
+        "en": "Face Off",
         "jp": "対峙"
       },
       "is_animation": 1
