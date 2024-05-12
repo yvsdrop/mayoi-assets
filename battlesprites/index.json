@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100828",
+      "img_id": "101627",
+      "release_time": 1714539600,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 798,
+        "jp": 808
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Ideal Day Off",
+        "jp": "理想の休日"
+      }
+    },
+    {
       "mini_id": "100848",
       "img_id": "101667",
       "release_time": 1713427200,
