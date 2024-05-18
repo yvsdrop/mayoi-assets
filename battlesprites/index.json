@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100852",
+      "img_id": "101673",
+      "release_time": 1715846400,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 801,
+        "jp": 811
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Day Off",
+        "jp": "休日"
+      }
+    },
+    {
+      "mini_id": "100851",
+      "img_id": "101671",
+      "release_time": 1715846400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 800,
+        "jp": 810
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Day Off",
+        "jp": "休日"
+      }
+    },
+    {
+      "mini_id": "100850",
+      "img_id": "101669",
+      "release_time": 1715846400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 799,
+        "jp": 809
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Day Off",
+        "jp": "休日"
+      }
+    },
+    {
       "mini_id": "100828",
       "img_id": "101627",
       "release_time": 1714539600,
