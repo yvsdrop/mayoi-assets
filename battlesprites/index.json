@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100855",
+      "img_id": "101679",
+      "release_time": 1718265600,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 804,
+        "jp": 814
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Magus",
+        "jp": "魔術師"
+      }
+    },
+    {
+      "mini_id": "100854",
+      "img_id": "101677",
+      "release_time": 1718265600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 803,
+        "jp": 813
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Magus",
+        "jp": "魔術師"
+      }
+    },
+    {
+      "mini_id": "100853",
+      "img_id": "101675",
+      "release_time": 1718265600,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 802,
+        "jp": 812
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Magus",
+        "jp": "魔術師"
+      }
+    },
+    {
       "mini_id": "100852",
       "img_id": "101673",
       "release_time": 1715846400,
