@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100879",
+      "img_id": "120701",
+      "release_time": 1720080000,
+      "affinity": 3,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 805,
+        "jp": 815
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "Draconia Room",
+        "jp": "ドラコニア・ルーム"
+      }
+    },
+    {
       "mini_id": "100855",
       "img_id": "101679",
       "release_time": 1718265600,
