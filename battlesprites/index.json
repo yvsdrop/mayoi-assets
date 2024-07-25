@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100856",
+      "img_id": "101681",
+      "release_time": 1721894400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 819
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "共犯者",
+        "jp": "共犯者"
+      }
+    },
+    {
+      "mini_id": "100859",
+      "img_id": "101687",
+      "release_time": 1720684800,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 808,
+        "jp": 818
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Fireworks",
+        "jp": "花火大会"
+      }
+    },
+    {
+      "mini_id": "100858",
+      "img_id": "101685",
+      "release_time": 1720684800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 807,
+        "jp": 817
+      },
+      "name": {
+        "en": "Herman M",
+        "jp": "ハーマン・M"
+      },
+      "title": {
+        "en": "Fireworks",
+        "jp": "花火大会"
+      }
+    },
+    {
+      "mini_id": "100857",
+      "img_id": "101683",
+      "release_time": 1720684800,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 806,
+        "jp": 816
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Fireworks",
+        "jp": "花火大会"
+      }
+    },
+    {
       "mini_id": "100879",
       "img_id": "120701",
       "release_time": 1720080000,
