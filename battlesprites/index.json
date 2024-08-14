@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100863",
+      "img_id": "101695",
+      "release_time": 1724313600,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 813,
+        "jp": 824
+      },
+      "name": {
+        "en": "Tanizaki Naomi",
+        "jp": "谷崎ナオミ"
+      },
+      "title": {
+        "en": "Beach Vacation",
+        "jp": "海辺の休暇"
+      }
+    },
+    {
+      "mini_id": "100862",
+      "img_id": "101693",
+      "release_time": 1723622400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 812,
+        "jp": 823
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Beach Vacation",
+        "jp": "海辺の休暇"
+      }
+    },
+    {
+      "mini_id": "100861",
+      "img_id": "101691",
+      "release_time": 1723622400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 811,
+        "jp": 822
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Beach Vacation",
+        "jp": "海辺の休暇"
+      }
+    },
+    {
+      "mini_id": "100878",
+      "img_id": "120167",
+      "release_time": 1722661200,
+      "affinity": 3,
+      "rarity": 9,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 810,
+        "jp": 821
+      },
+      "name": {
+        "en": "Gide",
+        "jp": "ジイド"
+      },
+      "title": {
+        "en": "Strait is the Gate",
+        "jp": "狭き門"
+      }
+    },
+    {
+      "mini_id": "100860",
+      "img_id": "101689",
+      "release_time": 1722499200,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 809,
+        "jp": 820
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Encounter",
+        "jp": "遭遇"
+      }
+    },
+    {
       "mini_id": "100856",
       "img_id": "101681",
       "release_time": 1721894400,
