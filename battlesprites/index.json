@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100864",
+      "img_id": "101697",
+      "release_time": 1726549200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 818,
+        "jp": 829
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Arduous Battle",
+        "jp": "撩戦"
+      }
+    },
+    {
+      "mini_id": "100867",
+      "img_id": "101703",
+      "release_time": 1726128000,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 817,
+        "jp": 828
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100866",
+      "img_id": "101701",
+      "release_time": 1726128000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 816,
+        "jp": 827
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100865",
+      "img_id": "101699",
+      "release_time": 1726128000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 815,
+        "jp": 826
+      },
+      "name": {
+        "en": "Kajii Motojiro",
+        "jp": "梶井基次郎"
+      },
+      "title": {
+        "en": "Harvest Moon",
+        "jp": "十五夜"
+      }
+    },
+    {
+      "mini_id": "100880",
+      "img_id": "101725",
+      "release_time": 1726128000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 814,
+        "jp": 825
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Power To Live",
+        "jp": "生きる力"
+      }
+    },
+    {
       "mini_id": "100863",
       "img_id": "101695",
       "release_time": 1724313600,
