@@ -148,6 +148,10 @@
               actionOptions.append('<option value="skill2">Skill</option>');
             }
 
+            if (charData['extra_mini_id']) {
+              controlsEl.append(`\n<a href="?id=${charData['extra_mini_id']}"><button class="btn btn-outline-secondary">EX Transform</button></a>`);
+            }
+
             if (!!charData['title']) {
               document.title = `Bungo Battle Sprite - [${(charData['title']['en'])}] ${charData['name']['en']}`;
             } else if (!!charData['name']) {

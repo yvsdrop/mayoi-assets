@@ -1510,7 +1510,8 @@
       "title": {
         "en": "Marks of Wrath",
         "jp": "怒りの紋様"
-      }
+      },
+      "extra_mini_id": "100805"
     },
     {
       "mini_id": "100805",
@@ -7147,7 +7148,8 @@
       "title": {
         "en": "Weretiger",
         "jp": "人虎"
-      }
+      },
+      "extra_mini_id": "100470"
     },
     {
       "mini_id": "100470",
@@ -7190,7 +7192,8 @@
       "title": {
         "en": "Draconic Avatar",
         "jp": "龍の化身"
-      }
+      },
+      "extra_mini_id": "100468"
     },
     {
       "mini_id": "100468",
@@ -7380,7 +7383,8 @@
       "title": {
         "en": "Unfamiliar Abnormality",
         "jp": "未知なる異形"
-      }
+      },
+      "extra_mini_id": "100455"
     },
     {
       "mini_id": "100455",
@@ -7423,7 +7427,8 @@
       "title": {
         "en": "Phantasm",
         "jp": "幻影"
-      }
+      },
+      "extra_mini_id": "100456"
     },
     {
       "mini_id": "100456",
@@ -8264,7 +8269,8 @@
       "title": {
         "en": "Tainted",
         "jp": "汚濁"
-      }
+      },
+      "extra_mini_id": "100404"
     },
     {
       "mini_id": "100404",
@@ -8307,7 +8313,8 @@
       "title": {
         "en": "Tenma Tengai",
         "jp": "天魔纏鎧"
-      }
+      },
+      "extra_mini_id": "100402"
     },
     {
       "mini_id": "100402",
@@ -8350,7 +8357,8 @@
       "title": {
         "en": "Half Man, Half Beast",
         "jp": "半人半虎"
-      }
+      },
+      "extra_mini_id": "100400"
     },
     {
       "mini_id": "100400",
@@ -8393,7 +8401,8 @@
       "title": {
         "en": "The Decider",
         "jp": "決戦"
-      }
+      },
+      "extra_mini_id": "100406"
     },
     {
       "mini_id": "100406",
