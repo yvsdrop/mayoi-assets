@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100869",
+      "img_id": "101707",
+      "release_time": 1729152000,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 821,
+        "jp": 832
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Amusement Park",
+        "jp": "遊園地"
+      }
+    },
+    {
+      "mini_id": "100765",
+      "img_id": "101509",
+      "release_time": 1729152000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 820,
+        "jp": 831
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Amusement Park",
+        "jp": "遊園地"
+      }
+    },
+    {
+      "mini_id": "100764",
+      "img_id": "101507",
+      "release_time": 1729152000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 819,
+        "jp": 830
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Amusement Park",
+        "jp": "遊園地"
+      }
+    },
+    {
       "mini_id": "100864",
       "img_id": "101697",
       "release_time": 1726549200,
