@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100776",
+      "img_id": "101531",
+      "release_time": 1730437200,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 822,
+        "jp": 833
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Desperate Defence",
+        "jp": "死守"
+      }
+    },
+    {
       "mini_id": "100869",
       "img_id": "101707",
       "release_time": 1729152000,
