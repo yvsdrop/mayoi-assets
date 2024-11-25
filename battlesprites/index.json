@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100872",
+      "img_id": "101713",
+      "release_time": 1731571200,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 825,
+        "jp": 836
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Star Gazer",
+        "jp": "天体観測"
+      }
+    },
+    {
+      "mini_id": "100871",
+      "img_id": "101711",
+      "release_time": 1731571200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 824,
+        "jp": 835
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Star Gazer",
+        "jp": "天体観測"
+      }
+    },
+    {
+      "mini_id": "100870",
+      "img_id": "101709",
+      "release_time": 1731571200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 823,
+        "jp": 834
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Star Gazer",
+        "jp": "天体観測"
+      }
+    },
+    {
       "mini_id": "100776",
       "img_id": "101531",
       "release_time": 1730437200,
