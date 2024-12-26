@@ -1,6 +1,174 @@
 {
   "characters": [
     {
+      "mini_id": "100884",
+      "img_id": "101733",
+      "release_time": 1735657200,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 833,
+        "jp": 844
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "New Year's Flower",
+        "jp": "正月花"
+      }
+    },
+    {
+      "mini_id": "100883",
+      "img_id": "101731",
+      "release_time": 1735657200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 832,
+        "jp": 843
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "New Year's Flower",
+        "jp": "正月花"
+      }
+    },
+    {
+      "mini_id": "100882",
+      "img_id": "101729",
+      "release_time": 1735657200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 831,
+        "jp": 842
+      },
+      "name": {
+        "en": "Randou",
+        "jp": "蘭堂"
+      },
+      "title": {
+        "en": "New Year's Flower",
+        "jp": "正月花"
+      }
+    },
+    {
+      "mini_id": "100881",
+      "img_id": "101727",
+      "release_time": 1735657200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 830,
+        "jp": 841
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "New Year's Flower",
+        "jp": "正月花"
+      }
+    },
+    {
+      "mini_id": "100877",
+      "img_id": "101723",
+      "release_time": 1734584400,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 829,
+        "jp": 840
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "Year-End Shrine Visit",
+        "jp": "年末詣"
+      }
+    },
+    {
+      "mini_id": "100876",
+      "img_id": "101721",
+      "release_time": 1734584400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 828,
+        "jp": 839
+      },
+      "name": {
+        "en": "Tachihara Michizou",
+        "jp": "立原道造"
+      },
+      "title": {
+        "en": "Year-End Shrine Visit",
+        "jp": "年末詣"
+      }
+    },
+    {
+      "mini_id": "100875",
+      "img_id": "101719",
+      "release_time": 1734584400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 827,
+        "jp": 838
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Year-End Shrine Visit",
+        "jp": "年末詣"
+      }
+    },
+    {
+      "mini_id": "100874",
+      "img_id": "101717",
+      "release_time": 1734584400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 826,
+        "jp": 837
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Year-End Shrine Visit",
+        "jp": "年末詣"
+      }
+    },
+    {
       "mini_id": "100872",
       "img_id": "101713",
       "release_time": 1731571200,
