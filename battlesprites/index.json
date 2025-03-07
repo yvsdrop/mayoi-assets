@@ -1,6 +1,153 @@
 {
   "characters": [
     {
+      "mini_id": "100890",
+      "img_id": "101745",
+      "release_time": 1741237200,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 840,
+        "jp": 851
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100889",
+      "img_id": "101743",
+      "release_time": 1741237200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 839,
+        "jp": 850
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100888",
+      "img_id": "101741",
+      "release_time": 1741237200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 838,
+        "jp": 849
+      },
+      "name": {
+        "en": "John S",
+        "jp": "ジョン・S"
+      },
+      "title": {
+        "en": "Sweets",
+        "jp": "洋菓子"
+      }
+    },
+    {
+      "mini_id": "100887",
+      "img_id": "101739",
+      "release_time": 1740027600,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 837,
+        "jp": 848
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "A Purrfect Day",
+        "jp": "猫日和"
+      }
+    },
+    {
+      "mini_id": "100886",
+      "img_id": "101737",
+      "release_time": 1740027600,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 836,
+        "jp": 847
+      },
+      "name": {
+        "en": "Haruno Kirako",
+        "jp": "春野綺羅子"
+      },
+      "title": {
+        "en": "A Purrfect Day",
+        "jp": "猫日和"
+      }
+    },
+    {
+      "mini_id": "100885",
+      "img_id": "101735",
+      "release_time": 1740027600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 835,
+        "jp": 846
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "A Purrfect Day",
+        "jp": "猫日和"
+      }
+    },
+    {
+      "mini_id": "100767",
+      "img_id": "101513",
+      "release_time": 1738818000,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 834,
+        "jp": 845
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "A Nice Day to Relax",
+        "jp": "休息日和"
+      }
+    },
+    {
       "mini_id": "100884",
       "img_id": "101733",
       "release_time": 1735657200,
