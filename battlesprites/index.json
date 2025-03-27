@@ -1,6 +1,48 @@
 {
   "characters": [
     {
+      "mini_id": "100905",
+      "img_id": "800013",
+      "release_time": 1743433200,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 842,
+        "jp": 853
+      },
+      "name": {
+        "en": "Margaret M",
+        "jp": "マーガレット・M"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
+      "mini_id": "100904",
+      "img_id": "800011",
+      "release_time": 1743433200,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 841,
+        "jp": 852
+      },
+      "name": {
+        "en": "Nathaniel H",
+        "jp": "ナサニエル・H"
+      },
+      "title": {
+        "en": "Kindergarten",
+        "jp": "園児"
+      }
+    },
+    {
       "mini_id": "100890",
       "img_id": "101745",
       "release_time": 1741237200,
