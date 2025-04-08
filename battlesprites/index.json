@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100893",
+      "img_id": "101751",
+      "release_time": 1743656400,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 845,
+        "jp": 856
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Scenes of Spring",
+        "jp": "春模様"
+      }
+    },
+    {
+      "mini_id": "100892",
+      "img_id": "101749",
+      "release_time": 1743656400,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 844,
+        "jp": 855
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "Scenes of Spring",
+        "jp": "春模様"
+      }
+    },
+    {
+      "mini_id": "100891",
+      "img_id": "101747",
+      "release_time": 1743656400,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 843,
+        "jp": 854
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Scenes of Spring",
+        "jp": "春模様"
+      }
+    },
+    {
       "mini_id": "100905",
       "img_id": "800013",
       "release_time": 1743433200,
