@@ -1,6 +1,174 @@
 {
   "characters": [
     {
+      "mini_id": "100900",
+      "img_id": "101765",
+      "release_time": 1749715200,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 854,
+        "jp": 864
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "The Delights of Music",
+        "jp": "音楽鑑賞"
+      }
+    },
+    {
+      "mini_id": "100899",
+      "img_id": "101763",
+      "release_time": 1749715200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 853,
+        "jp": 863
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "The Delights of Music",
+        "jp": "音楽鑑賞"
+      }
+    },
+    {
+      "mini_id": "100898",
+      "img_id": "101761",
+      "release_time": 1749715200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 852,
+        "jp": 862
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "The Delights of Music",
+        "jp": "音楽鑑賞"
+      }
+    },
+    {
+      "mini_id": "100897",
+      "img_id": "101759",
+      "release_time": 1749715200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 851,
+        "jp": 861
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "The Delights of Music",
+        "jp": "音楽鑑賞"
+      }
+    },
+    {
+      "mini_id": "100901",
+      "img_id": "101767",
+      "release_time": 1747630800,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 849,
+        "jp": 860
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Urgent Defensive Measures",
+        "jp": "緊迫の防御策"
+      }
+    },
+    {
+      "mini_id": "100896",
+      "img_id": "101757",
+      "release_time": 1746086400,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 848,
+        "jp": 859
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Boy's Day Festival",
+        "jp": "端午の節句"
+      }
+    },
+    {
+      "mini_id": "100895",
+      "img_id": "101755",
+      "release_time": 1746086400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 847,
+        "jp": 858
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Boy's Day Festival",
+        "jp": "端午の節句"
+      }
+    },
+    {
+      "mini_id": "100894",
+      "img_id": "101753",
+      "release_time": 1746086400,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 846,
+        "jp": 857
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Boy's Day Festival",
+        "jp": "端午の節句"
+      }
+    },
+    {
       "mini_id": "100893",
       "img_id": "101751",
       "release_time": 1743656400,
@@ -8574,7 +8742,7 @@
       "extra_type": 1,
       "unique_skill": 1,
       "codex_id": {
-        "en": 0,
+        "en": 850,
         "jp": 454
       },
       "name": {
@@ -8582,7 +8750,7 @@
         "jp": "中島敦"
       },
       "title": {
-        "en": "大航海",
+        "en": "Ocean Voyage",
         "jp": "大航海"
       }
     },
