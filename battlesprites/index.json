@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100916",
+      "img_id": "101797",
+      "release_time": 1752739200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 868
+      },
+      "name": {
+        "en": "Mori Ougai",
+        "jp": "森鴎外"
+      },
+      "title": {
+        "en": "最期の施術",
+        "jp": "最期の施術"
+      }
+    },
+    {
+      "mini_id": "100936",
+      "img_id": "101779",
+      "release_time": 1752134400,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 857,
+        "jp": 867
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Sunshine After Rain",
+        "jp": "雨後の青天"
+      }
+    },
+    {
+      "mini_id": "100935",
+      "img_id": "101777",
+      "release_time": 1752134400,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 856,
+        "jp": 866
+      },
+      "name": {
+        "en": "Tanizaki Naomi",
+        "jp": "谷崎ナオミ"
+      },
+      "title": {
+        "en": "Sunshine After Rain",
+        "jp": "雨後の青天"
+      }
+    },
+    {
+      "mini_id": "100934",
+      "img_id": "101775",
+      "release_time": 1752134400,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 855,
+        "jp": 865
+      },
+      "name": {
+        "en": "Tanizaki Jun-ichiro",
+        "jp": "谷崎潤一郎"
+      },
+      "title": {
+        "en": "Sunshine After Rain",
+        "jp": "雨後の青天"
+      }
+    },
+    {
       "mini_id": "100900",
       "img_id": "101765",
       "release_time": 1749715200,
