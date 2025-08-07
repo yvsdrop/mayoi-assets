@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100912",
+      "img_id": "101789",
+      "release_time": 1755147600,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 861,
+        "jp": 872
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Morning Moments",
+        "jp": "朝のひと時"
+      }
+    },
+    {
+      "mini_id": "100911",
+      "img_id": "101787",
+      "release_time": 1755147600,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 860,
+        "jp": 871
+      },
+      "name": {
+        "en": "Sakaguchi Ango",
+        "jp": "坂口安吾"
+      },
+      "title": {
+        "en": "Morning Moments",
+        "jp": "朝のひと時"
+      }
+    },
+    {
+      "mini_id": "100910",
+      "img_id": "101785",
+      "release_time": 1755147600,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 859,
+        "jp": 870
+      },
+      "name": {
+        "en": "Oda Sakunosuke",
+        "jp": "織田作之助"
+      },
+      "title": {
+        "en": "Morning Moments",
+        "jp": "朝のひと時"
+      }
+    },
+    {
+      "mini_id": "100909",
+      "img_id": "101783",
+      "release_time": 1755147600,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 858,
+        "jp": 869
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Morning Moments",
+        "jp": "朝のひと時"
+      }
+    },
+    {
       "mini_id": "100916",
       "img_id": "101797",
       "release_time": 1752739200,
