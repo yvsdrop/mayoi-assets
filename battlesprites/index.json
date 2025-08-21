@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100929",
+      "img_id": "101823",
+      "release_time": 1755763200,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 862,
+        "jp": 873
+      },
+      "name": {
+        "en": "Ozaki Kouyou",
+        "jp": "尾崎紅葉"
+      },
+      "title": {
+        "en": "Swimwear",
+        "jp": "水着"
+      }
+    },
+    {
       "mini_id": "100912",
       "img_id": "101789",
       "release_time": 1755147600,
