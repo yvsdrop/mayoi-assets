@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100919",
+      "img_id": "101803",
+      "release_time": 1758787200,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 865,
+        "jp": 876
+      },
+      "name": {
+        "en": "Tanizaki Naomi",
+        "jp": "谷崎ナオミ"
+      },
+      "title": {
+        "en": "Like a Doll",
+        "jp": "西洋人形"
+      }
+    },
+    {
+      "mini_id": "100918",
+      "img_id": "101801",
+      "release_time": 1758787200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 864,
+        "jp": 875
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "Like a Doll",
+        "jp": "西洋人形"
+      }
+    },
+    {
+      "mini_id": "100917",
+      "img_id": "101799",
+      "release_time": 1758787200,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 863,
+        "jp": 874
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Like a Doll",
+        "jp": "西洋人形"
+      }
+    },
+    {
       "mini_id": "100929",
       "img_id": "101823",
       "release_time": 1755763200,
