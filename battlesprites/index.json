@@ -1,6 +1,69 @@
 {
   "characters": [
     {
+      "mini_id": "100763",
+      "img_id": "101505",
+      "release_time": 1759996800,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 868,
+        "jp": 879
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Casino",
+        "jp": "カジノ"
+      }
+    },
+    {
+      "mini_id": "100762",
+      "img_id": "101503",
+      "release_time": 1759996800,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 867,
+        "jp": 878
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "Casino",
+        "jp": "カジノ"
+      }
+    },
+    {
+      "mini_id": "100761",
+      "img_id": "101501",
+      "release_time": 1759996800,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 866,
+        "jp": 877
+      },
+      "name": {
+        "en": "Shibusawa Tatsuhiko",
+        "jp": "澁澤龍彦"
+      },
+      "title": {
+        "en": "Casino",
+        "jp": "カジノ"
+      }
+    },
+    {
       "mini_id": "100919",
       "img_id": "101803",
       "release_time": 1758787200,
