@@ -1,6 +1,90 @@
 {
   "characters": [
     {
+      "mini_id": "100932",
+      "img_id": "101829",
+      "release_time": 1762416000,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 872,
+        "jp": 883
+      },
+      "name": {
+        "en": "Lucy M",
+        "jp": "ルーシー・M"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
+      "mini_id": "100914",
+      "img_id": "101793",
+      "release_time": 1762416000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 871,
+        "jp": 882
+      },
+      "name": {
+        "en": "Louisa A",
+        "jp": "ルイーザ・A"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
+      "mini_id": "100913",
+      "img_id": "101791",
+      "release_time": 1762416000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 870,
+        "jp": 881
+      },
+      "name": {
+        "en": "Francis F",
+        "jp": "フランシス・F"
+      },
+      "title": {
+        "en": "Botanical Garden",
+        "jp": "植物園"
+      }
+    },
+    {
+      "mini_id": "100930",
+      "img_id": "101825",
+      "release_time": 1761811200,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 869,
+        "jp": 880
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Costume Party",
+        "jp": "仮装招宴"
+      }
+    },
+    {
       "mini_id": "100763",
       "img_id": "101505",
       "release_time": 1759996800,
