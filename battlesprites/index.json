@@ -1,6 +1,132 @@
 {
   "characters": [
     {
+      "mini_id": "100928",
+      "img_id": "101821",
+      "release_time": 1765638000,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 878,
+        "jp": 889
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
+      "mini_id": "100927",
+      "img_id": "101819",
+      "release_time": 1765638000,
+      "affinity": 3,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 877,
+        "jp": 888
+      },
+      "name": {
+        "en": "Gin",
+        "jp": "銀"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
+      "mini_id": "100926",
+      "img_id": "101817",
+      "release_time": 1765638000,
+      "affinity": 5,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 876,
+        "jp": 887
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
+      "mini_id": "100925",
+      "img_id": "101815",
+      "release_time": 1765638000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 875,
+        "jp": 886
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
+      "mini_id": "100924",
+      "img_id": "101813",
+      "release_time": 1765638000,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 874,
+        "jp": 885
+      },
+      "name": {
+        "en": "Miyazawa Kenji",
+        "jp": "宮沢賢治"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
+      "mini_id": "100923",
+      "img_id": "101811",
+      "release_time": 1765638000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 873,
+        "jp": 884
+      },
+      "name": {
+        "en": "Dazai Osamu",
+        "jp": "太宰治"
+      },
+      "title": {
+        "en": "Blessed Snow Globe",
+        "jp": "祝福の硝子玉"
+      }
+    },
+    {
       "mini_id": "100932",
       "img_id": "101829",
       "release_time": 1762416000,
