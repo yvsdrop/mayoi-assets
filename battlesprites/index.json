@@ -1,6 +1,27 @@
 {
   "characters": [
     {
+      "mini_id": "100931",
+      "img_id": "101827",
+      "release_time": 1766552400,
+      "affinity": 2,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 879,
+        "jp": 890
+      },
+      "name": {
+        "en": "Fyodor D",
+        "jp": "フョードル・D"
+      },
+      "title": {
+        "en": "Winter",
+        "jp": "降誕祭"
+      }
+    },
+    {
       "mini_id": "100928",
       "img_id": "101821",
       "release_time": 1765638000,
