@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100937",
+      "img_id": "101839",
+      "release_time": 1767193200,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 884,
+        "jp": 895
+      },
+      "name": {
+        "en": "Fukuzawa Yukichi",
+        "jp": "福沢諭吉"
+      },
+      "title": {
+        "en": "Mochi Pounding",
+        "jp": "餅つき"
+      }
+    },
+    {
+      "mini_id": "100957",
+      "img_id": "101837",
+      "release_time": 1767193200,
+      "affinity": 5,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 883,
+        "jp": 894
+      },
+      "name": {
+        "en": "Izumi Kyoka",
+        "jp": "泉鏡花"
+      },
+      "title": {
+        "en": "Mochi Pounding",
+        "jp": "餅つき"
+      }
+    },
+    {
+      "mini_id": "100956",
+      "img_id": "101835",
+      "release_time": 1767193200,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 882,
+        "jp": 893
+      },
+      "name": {
+        "en": "Edogawa Rampo",
+        "jp": "江戸川乱歩"
+      },
+      "title": {
+        "en": "Mochi Pounding",
+        "jp": "餅つき"
+      }
+    },
+    {
+      "mini_id": "100955",
+      "img_id": "101833",
+      "release_time": 1767193200,
+      "affinity": 4,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 881,
+        "jp": 892
+      },
+      "name": {
+        "en": "Kunikida Doppo",
+        "jp": "国木田独歩"
+      },
+      "title": {
+        "en": "Mochi Pounding",
+        "jp": "餅つき"
+      }
+    },
+    {
+      "mini_id": "100954",
+      "img_id": "101831",
+      "release_time": 1767193200,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 880,
+        "jp": 891
+      },
+      "name": {
+        "en": "Nakajima Atsushi",
+        "jp": "中島敦"
+      },
+      "title": {
+        "en": "Mochi Pounding",
+        "jp": "餅つき"
+      }
+    },
+    {
       "mini_id": "100931",
       "img_id": "101827",
       "release_time": 1766552400,
