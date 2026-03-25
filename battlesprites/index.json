@@ -1,6 +1,111 @@
 {
   "characters": [
     {
+      "mini_id": "100942",
+      "img_id": "101849",
+      "release_time": 1771488000,
+      "affinity": 1,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 900
+      },
+      "name": {
+        "en": "Hirotsu Ryurou",
+        "jp": "広津柳浪"
+      },
+      "title": {
+        "en": "雪見",
+        "jp": "雪見"
+      }
+    },
+    {
+      "mini_id": "100941",
+      "img_id": "101847",
+      "release_time": 1771488000,
+      "affinity": 2,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 899
+      },
+      "name": {
+        "en": "Nakahara Chuya",
+        "jp": "中原中也"
+      },
+      "title": {
+        "en": "雪見",
+        "jp": "雪見"
+      }
+    },
+    {
+      "mini_id": "100940",
+      "img_id": "101845",
+      "release_time": 1771488000,
+      "affinity": 1,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 898
+      },
+      "name": {
+        "en": "Higuchi Ichiyou",
+        "jp": "樋口一葉"
+      },
+      "title": {
+        "en": "雪見",
+        "jp": "雪見"
+      }
+    },
+    {
+      "mini_id": "100939",
+      "img_id": "101843",
+      "release_time": 1771488000,
+      "affinity": 3,
+      "rarity": 7,
+      "extra_type": 1,
+      "unique_skill": 1,
+      "codex_id": {
+        "en": 0,
+        "jp": 897
+      },
+      "name": {
+        "en": "Akutagawa Ryunosuke",
+        "jp": "芥川龍之介"
+      },
+      "title": {
+        "en": "雪見",
+        "jp": "雪見"
+      }
+    },
+    {
+      "mini_id": "100938",
+      "img_id": "101841",
+      "release_time": 1770883200,
+      "affinity": 4,
+      "rarity": 5,
+      "extra_type": 1,
+      "unique_skill": 0,
+      "codex_id": {
+        "en": 0,
+        "jp": 896
+      },
+      "name": {
+        "en": "Yosano Akiko",
+        "jp": "与謝野晶子"
+      },
+      "title": {
+        "en": "聖ヴァレンタイン日",
+        "jp": "聖ヴァレンタイン日"
+      }
+    },
+    {
       "mini_id": "100937",
       "img_id": "101839",
       "release_time": 1767193200,
@@ -1088,7 +1193,7 @@
         "jp": "広津柳浪"
       },
       "title": {
-        "en": "New Year's Flower",
+        "en": "New Year's Flowers",
         "jp": "正月花"
       }
     },
@@ -1109,7 +1214,7 @@
         "jp": "尾崎紅葉"
       },
       "title": {
-        "en": "New Year's Flower",
+        "en": "New Year's Flowers",
         "jp": "正月花"
       }
     },
@@ -1130,7 +1235,7 @@
         "jp": "蘭堂"
       },
       "title": {
-        "en": "New Year's Flower",
+        "en": "New Year's Flowers",
         "jp": "正月花"
       }
     },
@@ -1151,7 +1256,7 @@
         "jp": "森鴎外"
       },
       "title": {
-        "en": "New Year's Flower",
+        "en": "New Year's Flowers",
         "jp": "正月花"
       }
     },
